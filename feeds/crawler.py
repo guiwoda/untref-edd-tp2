@@ -11,47 +11,63 @@ class FeedCrawler(object):
 
             for feed, info in feeds.items():
                 for name, url in info['channels'].items():
-                    with urlopen(url) as data:
-                        filename = 'xml/%s-%s.xml' % (feed, name)
-                        newOrModified = False
+                    self.crawl_feed(feed, name, url)
 
-                        elements = ElementTree.parse(data)
-                        lastId = 0
+    def crawl_feed(self, name, channel, url):
+        with urlopen(url) as data:
+            filename = 'xml/%s-%s.xml' % (name, channel)
+            elements = ElementTree.parse(data)
 
-                        if not isfile(filename):
-                            print("> No existe el archivo %s" % filename)
-                            newOrModified = True
-                            current = elements
+            if not isfile(filename):
+                print("> No existe el archivo %s" % filename)
 
-                            for element in current.findall('.//item'):
-                                lastId += 1
+                self.new_feed_file(filename, elements)
+            else:
+                print("> Usando %s" % filename)
 
-                                element.attrib['id'] = str(lastId)
-                                print(">> Agrego noticia %s a %s" % (element.find('title').text, filename))
-                        else:
-                            print("> Usando %s" % filename)
+                self.append_to_feed_file(filename, elements)
 
-                            current = ElementTree.parse(filename)
-                            for item in current.findall('.//item'):
-                                id = int(item.attrib['id'])
+    def new_feed_file(self, filename, elements):
+        lastId = 0
 
-                                if id > lastId:
-                                    lastId = id
+        for element in elements.findall('.//item'):
+            lastId += 1
+            element.attrib['id'] = str(lastId)
 
-                            for element in elements.findall('.//item'):
-                                link = element.find('link').text
+            print(">> Agrego noticia %s a %s" % (element.find('title').text, filename))
 
-                                if not current.findall('.//item[link="%s"]' % link):
-                                    lastId += 1
+        elements.write(filename)
 
-                                    element.attrib['id'] = str(lastId)
-                                    current.find('./channel').append(element)
+    def append_to_feed_file(self, filename, elements):
+        modified = False
+        current = ElementTree.parse(filename)
+        last_id = self.find_last_id(current)
 
-                                    print(">> Agrego noticia id(%i): %s a %s" % (lastId, element.find('title').text, filename))
-                                    newOrModified = True
+        for element in elements.findall('.//item'):
+            link = element.find('link').text
 
-                        if newOrModified:
-                            current.write(filename)
+            if not current.findall('.//item[link="%s"]' % link):
+                last_id += 1
+
+                element.attrib['id'] = str(last_id)
+                current.find('./channel').append(element)
+
+                print(">> Agrego noticia id(%i): %s a %s" % (last_id, element.find('title').text, filename))
+                modified = True
+
+        if modified:
+            current.write(filename)
+
+    def find_last_id(self, elements):
+        last_id = 0
+
+        for item in elements.findall('.//item'):
+            curr_id = int(item.attrib['id'])
+
+            if curr_id > last_id:
+                last_id = curr_id
+
+        return last_id
 
 if __name__ == '__main__':
     FeedCrawler().crawl()
