@@ -28,11 +28,11 @@ class FeedCrawler(object):
                 self.append_to_feed_file(filename, elements)
 
     def new_feed_file(self, filename, elements):
-        lastId = 0
+        last_id = 0
 
         for element in elements.findall('.//item'):
-            lastId += 1
-            element.attrib['id'] = str(lastId)
+            last_id += 1
+            element.attrib['id'] = str(last_id)
 
             print(">> Agrego noticia %s a %s" % (element.find('title').text, filename))
 
@@ -68,6 +68,7 @@ class FeedCrawler(object):
                 last_id = curr_id
 
         return last_id
+
 
 if __name__ == '__main__':
     FeedCrawler().crawl()
