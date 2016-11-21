@@ -12,40 +12,57 @@ class Indexer():
         self.stopwords = self.load_stopwords()
         self.stemmer = SpanishStemmer()
         nltk.data.path.append(dirname(dirname(__file__)) + '/nltk_data')
+        self.ids = {
+            'clarin':         'CL',
+            'el-litoral':     'LI',
+            'la-voz':         'VZ',
+            'mendoza-online': 'MO',
+            'telam':          'TM',
+            'economia':       'EC',
+            'mundo':          'MU',
+            'politica':       'PO',
+            'sociedad':       'SO',
+            'ultimas':        'UL',
+        }
 
     def index(self):
         cwd = dirname(__file__)
         with open('%s/feeds.json' % cwd, 'r') as feeds_data:
-            with open('%s/indexed.json' % cwd, 'rw') as indexed_data:
+            feeds = json.load(feeds_data)
+            current_index = {}
 
-                feeds = json.load(feeds_data)
-                indexed = json.load(indexed_data)
+            for feed, info in feeds.items():
+                for channel in info['channels']:
+                    index = "%s-%s" % (feed, channel)
+                    filename = "%s/%s.xml" % (dirname(cwd) + '/xml', index)
 
-                for feed, info in feeds.items():
-                    for channel in info['channels']:
-                        index = "%s-%s" % (feed, channel)
-                        filename = "%s/%s.xml" % (cwd, index)
+                    with open(filename, 'r') as xml_data:
+                        data = ElementTree.parse(xml_data)
 
-                        with open(filename, 'r') as xml_data:
-                            data = ElementTree.parse(xml_data)
+                        for item in data.findall('.//item'):
+                            self.add_title_to_index(
+                                '%s%s%s' % (self.ids[feed], self.ids[channel], item.attrib['id']),
+                                item.find('./title').text,
+                                current_index
+                            )
 
-                            for item in data.findall('.//item'):
-                                if not item.attrib['id'] in indexed[index]:
-                                    self.add_title_to_index(item.attrib['id'], item.find('./title').text)
+                with open('%s/index.json' % cwd, 'w+') as index_file:
+                    json.dump(current_index, index_file)
 
-    def add_title_to_index(self, id, title):
-        occurrences = {}
-
-        def reducer(id, word):
-            occurrences.setdefault(word, {
+    def add_title_to_index(self, id, title, index):
+        def reducer(carry, item):
+            (id, word) = item
+            carry.setdefault(word, {
                 'freq': 0,
                 'docs': []
             })
 
-            occurrences[word]['freq'] += 1
-            occurrences[word]['docs'].append(id)
+            carry[word]['freq'] += 1
+            carry[word]['docs'].append(id)
 
-        return reduce(reducer, map(lambda word: (id, word), self.parse_title(title)))
+            return carry
+
+        return reduce(reducer, map(lambda word: (id, word), self.parse_title(title)), index)
 
     def parse_title(self, title):
         return {
@@ -60,4 +77,3 @@ class Indexer():
 
         with open('%s/stopwords.txt' % cwd, 'r') as file:
             return set(file.readlines())
-
