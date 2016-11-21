@@ -1,0 +1,1606 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Clarin.com - iEco</title>
+        <link>http://www.clarin.com/ieco/</link>
+        <description>Clarin.com - iEco</description>
+        <medio>1</medio>
+        <seccion>4</seccion>
+
+        <language>es</language>
+
+        <copyright>Copyright 1996-2011 Clarin.com - All rights reserved</copyright>
+
+        <ttl>10</ttl>
+
+        <image>
+            <url>http://www.clarin.com/static/CLAClarinV3/images/logo.png</url>
+            <title>Clarin.com - iEco</title>
+            <link>http://www.clarin.com/ieco/</link>
+        </image>
+
+        <item id="86">
+            <title>"Nuestra industria depende de la mejora del poder adquisitivo"</title>
+            <link>http://www.clarin.com/ieco/economia/industria-depende-mejora-poder-adquisitivo_0_1672632849.html
+            </link>
+            <description>El CEO de Unilever espera una recuperación del consumo para fin de año.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/industria-depende-mejora-poder-adquisitivo_0_1672632849.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 18:50:27 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Miguel-Kozuszok-CEO-Unilever-repunte_CLAIMA20161021_0311_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="85">
+            <title>El consumo masivo cayo 5,3% en septiembre y 4,3% en el año</title>
+            <link>http://www.clarin.com/ieco/economia/consumo-masivo-cayo-septiembre-ano_0_1672632858.html</link>
+            <description>Es en relación a igual mes de 2015. Pérdida del poder adquisitivo y puestos de trabajo, los
+                principales motivos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/consumo-masivo-cayo-septiembre-ano_0_1672632858.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 18:44:08 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Productos-limpieza-afectados-caida-consumo_CLAIMA20161021_0310_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="84">
+            <title>Buryaile: “El campo le está poniendo el hombro al Gobierno”</title>
+            <link>http://www.clarin.com/ieco/economia/Buryaile-campo-poniendo-hombro-Gobierno_0_1672632843.html</link>
+            <description>El ministro de Agricultura pasó por París para inaugurar la feria de alimentos SIAL.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Buryaile-campo-poniendo-hombro-Gobierno_0_1672632843.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 17:32:05 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Ministro-Agroindustria-Buryaile-FOTODYNPABLO-MOLINA_CLAIMA20161005_0173_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="83">
+            <title>Bancos deberán contar con tecnología para evitar lavado cuando abran cuentas por Internet</title>
+            <link>http://www.clarin.com/ieco/finanzas/Bancos-deberan-tecnologia-cuentas-Internet_0_1672632789.html
+            </link>
+            <description>También deberán guardar por diez años constancias del cierre de cuentas de clientes
+                sospechados.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/finanzas/Bancos-deberan-tecnologia-cuentas-Internet_0_1672632789.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 13:19:56 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/finanzas/Sturzenegger-CentralFOTO-JUAN-MANUEL-FOGLIA_CLAIMA20161021_0163_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="82">
+            <title>Guerra en publicidad: Santo se llevó a cuatro creativos de una agencia rival</title>
+            <link>http://www.clarin.com/ieco/economia/Guerra-publicidad-Santo-creativos-agencia_0_1672632784.html</link>
+            <description>Contrató al jefe creativo de Saatchi &amp; Saatchi Europa y a tres ejecutivos que trabajaban
+                en la misma empresa en Buenos Aires.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Guerra-publicidad-Santo-creativos-agencia_0_1672632784.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 12:57:29 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Santo-Serkin-Itzkoff-Santamarina-Lufrano_CLAIMA20161021_0151_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="81">
+            <title>Aranguren espera que en el verano haya "un menor nivel de cortes" de luz</title>
+            <link>http://www.clarin.com/ieco/Aranguren-espera-verano-menor-cortes_0_1672632759.html</link>
+            <description>Aseguró que ese será el objetivo del Gobierno, aunque aclaró que dependerá también de las
+                temperaturas que se registren.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/Aranguren-espera-verano-menor-cortes_0_1672632759.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 10:58:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Ministro-Energia-Juan-Aranguren-EFE_CLAIMA20161021_0079_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="80">
+            <title>Los estacioneros advierten que se viene una suba de naftas en noviembre</title>
+            <link>http://www.clarin.com/ieco/estacioneros-advierten-viene-naftas-noviembre_0_1672632749.html</link>
+            <description>Aseguraron que las petroleras y el Gobierno ya tienen acordado un incremento del 7% y que la
+                nafta súper superará los $ 19 en Capital y los $ 20 en el resto del país.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/estacioneros-advierten-viene-naftas-noviembre_0_1672632749.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 10:08:12 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Estacion-YPF-Juan-Jose-Garcia_CLAIMA20161021_0052_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="79">
+            <title>Modifican el presupuesto en más de $ 3.000 millones para pagar demandas en el CIADI</title>
+            <link>http://www.clarin.com/ieco/Modifican-presupuesto-millones-demandas-CIADI_0_1672632739.html</link>
+            <description>Es para cancelar dos fallos a favor que tuvieron las empresas de energía BG Group y El Paso
+                Energy.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Modifican-presupuesto-millones-demandas-CIADI_0_1672632739.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 09:11:38 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Alfonso-Prat-Gay-ministro-Hacienda-Finanzas_CLAIMA20161013_0139_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="78">
+            <title>Para los privados sigue la recesión: la actividad cayó 4,1%</title>
+            <link>http://www.clarin.com/ieco/privados-sigue-recesion-actividad-cayo_0_1672632725.html</link>
+            <description>En lo que va del año la caída es 2,5% anual. Cemento y autos, tiraron para abajo.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/privados-sigue-recesion-actividad-cayo_0_1672632725.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 06:10:12 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="77">
+            <title>Pedido del Presidente: "Laura, a éstos no les dejes pasar ninguna"</title>
+            <link>http://www.clarin.com/ieco/economia/Pedido-Presidente-Laura-dejes-pasar_0_1672032976.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Pedido-Presidente-Laura-dejes-pasar_0_1672032976.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 22:38:42 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/politica/Selfie-Mauricio-Macri-empresario-Debe_CLAIMA20161020_0349_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="76">
+            <title>Blanqueo: habrá más tiempo para los depósitos en efectivo</title>
+            <link>http://www.clarin.com/ieco/Blanqueo-tiempo-depositos-efectivo_0_1672032960.html</link>
+            <description>Quienes buscan sincerar tenencias en cash tendrán ahora hasta el 21 de noviembre. Sigue vigente
+                el plazo de hasta el 31 de octubre para la apertura de las cuentas especiales.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/Blanqueo-tiempo-depositos-efectivo_0_1672032960.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 21:12:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="75">
+            <title>Lejos del proteccionismo, el 90% de los latinoamericanos quiere la integración</title>
+            <link>
+                http://www.clarin.com/ieco/economia/Lejos-proteccionismo-latinoamericanos-quiere-integracion_0_1671433023.html
+            </link>
+            <description>Una encuesta de 20.000 casos en 18 países de la región muestra una mayoría apoyando más la
+                integración económica que la política.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Lejos-proteccionismo-latinoamericanos-quiere-integracion_0_1671433023.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 19:19:00 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="74">
+            <title>Blanqueo: el efectivo se podrá depositar hasta el 21 de noviembre</title>
+            <link>http://www.clarin.com/ieco/economia/Blanqueo-efectivo-podra-depositar-noviembre_0_1672032908.html
+            </link>
+            <description>La AFIP publicará hoy la resolución en el Boletín Oficial. La cuenta para el depósito se podrá
+                abrir hasta el 31 de octubre.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Blanqueo-efectivo-podra-depositar-noviembre_0_1672032908.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 17:58:57 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Alberto-AFIP-Foto-Luciana-GranovskyTelam_CLAIMA20160712_0121_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="73">
+            <title>La canasta básica alimentaria subió 2,2% en septiembre</title>
+            <link>http://www.clarin.com/ieco/canasta-basica-alimentaria-subio-septiembre_0_1672032903.html</link>
+            <description>Según el INDEC, el valor de esa canasta llegó a $ 5.175,92 y el de la Canasta Básica Total
+                trepó a $ 12.637,53
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/canasta-basica-alimentaria-subio-septiembre_0_1672032903.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 17:21:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/INDEC-difundio-canastas-basicas-alimentaria_CLAIMA20161020_0248_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="72">
+            <title>Una familia necesitó $ 13.000 en septiembre para no ser pobre</title>
+            <link>http://www.clarin.com/ieco/familia-necesito-septiembre-pobre_0_1672032853.html</link>
+            <description>La Canasta Básica Total tuvo el mes pasado un incremento del 1,21%, según la Dirección General
+                de Estadística y Censos porteña.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/familia-necesito-septiembre-pobre_0_1672032853.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 12:13:23 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Direccion-General-Estadistica-Emiliana-Miguelez_CLAIMA20161020_0111_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="71">
+            <title>La actividad industrial cayó 4,7% en septiembre</title>
+            <link>http://www.clarin.com/ieco/actividad-industrial-cayo-septiembre_0_1672032835.html</link>
+            <description>En el tercer trimestre hubo además un descenso del 5,6%, lo que convirtió a este período en el
+                "peor del año", según la consultora Orlando Ferreres.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/actividad-industrial-cayo-septiembre_0_1672032835.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 11:18:43 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Industria-automotriz-Susana-Gonzalez-Bloomberg_CLAIMA20160530_0161_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="70">
+            <title>Anticipan que desde diciembre se podrá pagar con tarjeta desde el celular</title>
+            <link>http://www.clarin.com/ieco/Anticipan-diciembre-podra-tarjeta-celular_0_1672032825.html</link>
+            <description>Según adelantó el titular del Banco Central, Federico Sturzenegger, se podrá agregar al
+                teléfono un lector gratuito para pasar la tarjeta y hacer el pago vía Internet.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Anticipan-diciembre-podra-tarjeta-celular_0_1672032825.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 10:33:16 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Titular-Central-Federico-Sturzenegger-Tesone_CLAIMA20161020_0061_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="69">
+            <title>Para los empresarios, el acuerdo es "político" pero aceptan negociar</title>
+            <link>http://www.clarin.com/ieco/economia/empresarios-acuerdo-politico-aceptan-negociar_0_1671433033.html
+            </link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/empresarios-acuerdo-politico-aceptan-negociar_0_1671433033.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 22:01:45 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/politica/UIA-Adrian-Kaufmann-Construccion-DYN_CLAIMA20161013_0106_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="68">
+            <title>Los indios dueños de Issue vienen por más empresas argentinas</title>
+            <link>http://www.clarin.com/ieco/economia/indios-Issue-vienen-empresas-argentinas_0_1671433031.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/indios-Issue-vienen-empresas-argentinas_0_1671433031.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 21:54:24 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+
+        <item id="67">
+            <title>Bioceres compra Rizobacter y mueve el tablero en el negocio agroindustrial</title>
+            <link>
+                http://www.clarin.com/ieco/economia/Bioceres-Rizobacter-tablero-negocio-agroindustrial_0_1671433030.html
+            </link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Bioceres-Rizobacter-tablero-negocio-agroindustrial_0_1671433030.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 21:50:27 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Federico-Trucco-CEO-grupo-Bioceres_CLAIMA20161019_0337_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="66">
+            <title>Ventas en súper y shoppings crecen por debajo de la inflación</title>
+            <link>http://www.clarin.com/ieco/economia/Ventas-shoppings-crecen-debajo-inflacion_0_1671432953.html</link>
+            <description>Los datos del INDEC señalan que los supermercados facturaron 21% más respecto a agosto de 2015,
+                contra una inflación del 43,5%
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Ventas-shoppings-crecen-debajo-inflacion_0_1671432953.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 17:43:06 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/sociedad/Experta-Agustina-Correa-hace-entregas_CLAIMA20160922_0318_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="65">
+            <title>El exceso de dólares, una preocupación extra para el Banco Central</title>
+            <link>http://www.clarin.com/ieco/economia/exceso-dolares-preocupacion-Banco-Central_0_1671432910.html</link>
+            <description>Para el organismo monetario es un fenómeno que puede causar problemas. Cómo lo resolverá.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/exceso-dolares-preocupacion-Banco-Central_0_1671432910.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 12:35:20 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Enfermedad-Sturzenegger-Foto-Manuel-Foglia_CLAIMA20161019_0133_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="64">
+            <title>Los jubilados tendrán descuentos del 30% en pasajes de Aerolíneas</title>
+            <link>http://www.clarin.com/ieco/jubilados-descuentos-pasajes-Aerolineas_0_1671432908.html</link>
+            <description>Será para 36 destinos locales, según un acuerdo que firmaron la aerolínea estatal, la ANSES y
+                el Ministerio de Turismo.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/jubilados-descuentos-pasajes-Aerolineas_0_1671432908.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 12:31:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Titular-ANSES-Emilio-Basavilbaso-DYN_CLAIMA20161019_0131_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="63">
+            <title>La UIA pidió discutir el bono de fin de año “sector por sector”</title>
+            <link>http://www.clarin.com/ieco/UIA-pidio-discutir-bono-sector_0_1671432878.html</link>
+            <description>El vice de la entidad, José Urtubey, aseguró el bono “no es generalizable” a todo el sector
+                industrial.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/UIA-pidio-discutir-bono-sector_0_1671432878.html</guid>
+
+            <pubDate>Wed, 19 Oct 2016 10:34:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Urtubey-Industrial-Argentina-Victoria-Egurza_CLAIMA20160422_0081_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="62">
+            <title>Los bancos vuelven a atender sólo por dos horas</title>
+            <link>http://www.clarin.com/ieco/bancos-vuelven-atender-solo-horas_0_1671432859.html</link>
+            <description>Los trabajadores bancarios volverán a hacer hoy un cese de tareas durante las últimas tres
+                horas de atención al público por reclamos salariales.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/bancos-vuelven-atender-solo-horas_0_1671432859.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 09:11:00 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Protesta-bancarios-Tucuman-Julio-Pantoja_CLAIMA20161019_0028_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="61">
+            <title>Logística terrestre en manos de profesionales</title>
+            <link>http://www.clarin.com/ieco/Logistica-terrestre-manos-profesionales_0_1670233066.html</link>
+            <description>Cinco formas exitosas de administrar su empresa en EE.UU.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Logistica-terrestre-manos-profesionales_0_1670233066.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 00:01:03 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/American-Growing-Business_CLAIMA20161017_0205_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="60">
+            <title>Las pymes podrán diferir 90 días el pago del IVA</title>
+            <link>http://www.clarin.com/ieco/pymes-podran-diferir-dias-IVA_0_1670833037.html</link>
+            <description>El Gobierno reglamentó la ley pyme</description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/pymes-podran-diferir-dias-IVA_0_1670833037.html</guid>
+
+            <pubDate>Tue, 18 Oct 2016 19:03:17 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="59">
+            <title>Una de cada 5 personas activas tiene problemas de empleo</title>
+            <link>http://www.clarin.com/ieco/personas-activas-problemas-empleo_0_1670833023.html</link>
+            <description>Los más castigados son las mujeres y los jóvenes. En tanto, el trabajo en negro afecta a 4
+                millones.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/personas-activas-problemas-empleo_0_1670833023.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 17:16:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="58">
+            <title>Sturzenegger: "La inflación ya está en un nivel inferior al 20% anual"</title>
+            <link>http://www.clarin.com/ieco/economia/Sturzenegger-inflacion-nivel-inferior-anual_0_1670833021.html
+            </link>
+            <description>Para el BCRA los precios suben, en términos anualizados, a un ritmo del 19,6%. También dijo que
+                está a punto de terminar la recesión.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Sturzenegger-inflacion-nivel-inferior-anual_0_1670833021.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 17:13:08 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/inflacion-Federico-Sturzenegger-FOTO-DYN_CLAIMA20161018_0255_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="57">
+            <title>La aseguradora Meridional cambia de manos</title>
+            <link>http://www.clarin.com/ieco/economia/aseguradora-Meridional-cambia-manos_0_1670832981.html</link>
+            <description>En una operación regional, AIG vendió sus activos a la canadiense Fairfax.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/aseguradora-Meridional-cambia-manos_0_1670832981.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 13:15:39 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/American-International-Group-America-Bloomberg_CLAIMA20161018_0162_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="56">
+            <title>La litigiosidad laboral fue récord en septiembre</title>
+            <link>http://www.clarin.com/ieco/litigiosidad-laboral-record-septiembre_0_1670832977.html</link>
+            <description>Se iniciaron más de 14.000 demandas, un 45% más que un año atrás, según la Unión de ART
+                (UART).
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/litigiosidad-laboral-record-septiembre_0_1670832977.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:51:14 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ciudades/TRAMITES-OBRA-Agilizarlos-CPAU-construccion_CLAIMA20160817_0393_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="55">
+            <title>Beneficio fiscal para contratar víctimas del delito de trata</title>
+            <link>http://www.clarin.com/ieco/economia/Beneficio-fiscal-contratar-victimas-delito_0_1670832968.html
+            </link>
+            <description>ARBA dispuso descuentos en Ingresos Brutos para los empleadores.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Beneficio-fiscal-contratar-victimas-delito_0_1670832968.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:19:03 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Titular-ARBA-Gaston-Fossati_CLAIMA20160327_0151_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="54">
+            <title>YPF y Neuquén acuerdan inversiones por US$ 452 millones</title>
+            <link>http://www.clarin.com/ieco/economia/YPF-Neuquen-inversiones-US-millones_0_1670832965.html</link>
+            <description>La empresa pactó extensiones y también devoluciones de áreas a la petrolera provincial.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/YPF-Neuquen-inversiones-US-millones_0_1670832965.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:14:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Miguel-Gutierrez-YPF-Lucia-Merle_CLAIMA20161018_0109_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="53">
+            <title>Entra en vigencia la ley que otorga beneficios fiscales a las pymes</title>
+            <link>http://www.clarin.com/ieco/Entra-vigencia-otorga-beneficios-fiscales_0_1670832954.html</link>
+            <description>Entre otros beneficios, la “Ley Pyme” reglamentada hoy exime a las pequeñas y medianas de pagar
+                el Impuesto a la Ganancia Mínima Presunta y les permite computar a cuenta de Ganancias el Impuesto al
+                Cheque.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Entra-vigencia-otorga-beneficios-fiscales_0_1670832954.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 11:45:52 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Pymes-Bauducco-SA-BK-entrevistas_CLAIMA20161018_0096_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+        <item id="52">
+            <title>Autónomos y monotributistas: cambio en la forma de pago del impuesto</title>
+            <link>
+                http://www.clarin.com/ieco/economia/Autonomos-monotributistas-cambio-forma-impuesto_0_1670832953.html
+            </link>
+            <description>Desde este mes solo se podrá abonar a través de  pago bancario.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Autonomos-monotributistas-cambio-forma-impuesto_0_1670832953.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 11:45:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Alberto-AFIP-Foto-Luciana-GranovskyTelam_CLAIMA20160712_0121_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="51">
+            <title>Blanqueo: el Gobierno analiza dar más tiempo para declarar efectivo</title>
+            <link>http://www.clarin.com/ieco/Blanqueo-Gobierno-analiza-declarar-efectivo_0_1670832939.html</link>
+            <description>Está en estudio que quien no haya llegado a completar la exteriorización antes de fin pueda
+                completarla después.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Blanqueo-Gobierno-analiza-declarar-efectivo_0_1670832939.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 10:47:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/politica/AFIP-Alberto-Abad-Foto-DyN_CLAIMA20160818_0024_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="50">
+            <title>Efecto blanqueo: emitirían más deuda en dólares en 2017</title>
+            <link>http://www.clarin.com/ieco/Efecto-blanqueo-emitirian-deuda-dolares_0_1670832926.html</link>
+            <description>Es por el resultado acotado que esperan ahora del sinceramiento fiscal. En la Rosada habían
+                especulado con que ese ingreso de divisas iba a alcanzar para financiarse el año próximo.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Efecto-blanqueo-emitirian-deuda-dolares_0_1670832926.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 09:46:40 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Hacienda-Alfonso-Prat-Chile-EFE_CLAIMA20161018_0031_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="49">
+            <title>Por nuevas medidas de fuerza, los bancos atenderán sólo de 10 a 12</title>
+            <link>http://www.clarin.com/politica/nuevas-medidas-fuerza-bancos-atenderan_0_1670832911.html</link>
+            <description>La Asociación Bancaria hará desde el mediodía "retención de tareas" y "asambleas" de protesta
+                por reclamos salariales. La medida se repetirá mañana y habrá un paro el 28 de octubre.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/politica/nuevas-medidas-fuerza-bancos-atenderan_0_1670832911.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 08:37:30 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/politica/Secretario-General-Bancaria-Palazzo-DYN_CLAIMA20160418_0058_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="48">
+            <title>Monotributistas y autónomos ayudaron a compensar la caída del empleo formal</title>
+            <link>
+                http://www.clarin.com/ieco/economia/Monotributistas-autonomos-ayudaron-compensar-empleo_0_1670233136.html
+            </link>
+            <description>A julio pasado hubo una caída de 121.207 puestos en relación de dependencia, mientras
+                aumentaron en 50.894 los monotributistas, autónomos y personal de casas particulares.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Monotributistas-autonomos-ayudaron-compensar-empleo_0_1670233136.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:49:52 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="47">
+            <title>Blanqueo: adhesión en cuentagotas ante un contexto adverso</title>
+            <link>http://www.clarin.com/politica/Blanqueo-adhesion-cuentagotas-contexto-adverso_0_1670233132.html</link>
+            <description>No es lo mismo inducir a una regularización en épocas de crecimiento que de recesión.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/politica/Blanqueo-adhesion-cuentagotas-contexto-adverso_0_1670233132.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:40:24 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/politica/Recaudador-Alberto-Abad-septiembreFoto-AFIP_CLAIMA20161017_0326_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="46">
+            <title>Lanzaron una exposición global de alimentos y tendencias en la Argentina</title>
+            <link>http://www.clarin.com/ieco/Lanzaron-exposicion-alimentos-tendencias-Argentina_0_1670233103.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Lanzaron-exposicion-alimentos-tendencias-Argentina_0_1670233103.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:10:22 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="45">
+            <title>Las reservas del Banco Central, en un máximo desde mayo de 2013</title>
+            <link>http://www.clarin.com/ieco/reservas-Banco-Central-maximo-mayo_0_1670233113.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/reservas-Banco-Central-maximo-mayo_0_1670233113.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:08:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/PRESIDENTE-REPUBLICA-ARGENTINA-FEDERICO-STURZENEGGER_CLAIMA20161017_0312_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="44">
+            <title>Blanqueo: los bancos ya no podrán exigir las declaraciones juradas impositivas</title>
+            <link>http://www.clarin.com/ieco/Blanqueo-exigir-declaraciones-juradas-impositivas_0_1670233111.html</link>
+            <description>El titular de la AFIP, Alberto Abad, argumentó que esa documentación está protegida por el
+                secreto fiscal. Así buscan flexibilizar exigencias que podrían complicar la adhesión al régimen de
+                sinceramiento fiscal.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Blanqueo-exigir-declaraciones-juradas-impositivas_0_1670233111.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 20:29:57 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Recaudador-Alberto-AFIP-Coloquio-IDEA_CLAIMA20161017_0294_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="43">
+            <title>China creó un millonario cada tres días durante 2015</title>
+            <link>http://www.clarin.com/ieco/China-creo-millonario-dias_0_1670233062.html</link>
+            <description>Fue en un contexto en el que la riqueza total de los multimillonarios disminuyó unos US$
+                300.000 millones, según PriceWaterhouseCoopers (PWC).
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/China-creo-millonario-dias_0_1670233062.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 15:14:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Hoteles-estrellas-China_CLAIMA20161017_0203_28.jpg" length="0"
+                       type="image/jpg"/>
+        </item>
+
+        <item id="42">
+            <title>Según el Gobierno, el empleo ya dejó de caer</title>
+            <link>http://www.clarin.com/ieco/Gobierno-empleo-dejo-caer_0_1670233056.html</link>
+            <description>Un informe del Ministerio de Trabajo mostró que en julio “se incorporaron al trabajo registrado
+                cerca de 4.000 trabajadores respecto a igual mes del 2015”.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/Gobierno-empleo-dejo-caer_0_1670233056.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 14:36:10 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Ministro-Trabajo-Jorge-Triaca-DYN_CLAIMA20161017_0189_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="41">
+            <title>Argentina y Chile eliminarán la doble imposición tributaria desde 2017</title>
+            <link>http://www.clarin.com/ieco/Argentina-Chile-eliminaran-imposicion-tributaria_0_1670233045.html</link>
+            <description>El ministro de Hacienda y Finanzas, Alfonso Prat-Gay, y su par de Chile, Rodrigo Valdés,
+                anunciaron que en enero entrará en vigencia el acuardo, que incluye además medidas para prevenir la
+                evasión y la elusión fiscal.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Argentina-Chile-eliminaran-imposicion-tributaria_0_1670233045.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 13:24:49 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/Hacienda-Finanzas-Prat-Gay-Rodrigo-DYN_CLAIMA20161017_0140_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="40">
+            <title>En tres meses, se sumaron más de 100.000 pobres en la Ciudad</title>
+            <link>http://www.clarin.com/ieco/meses-sumaron-pobres-Ciudad_0_1670233023.html</link>
+            <description>Son datos de la Dirección de Estadísticas porteña. De este total, 11.000 son nuevos indigentes.
+                También creció la "clase media frágil".
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/meses-sumaron-pobres-Ciudad_0_1670233023.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 12:11:34 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/Villa-Retiro-Ciudad-Manuel-Foglia_CLAIMA20161017_0104_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="39">
+            <title>El Gobierno emite $ 300 millones para financiar obras de transporte</title>
+            <link>http://www.clarin.com/ieco/Gobierno-emite-millones-financiar-transporte_0_1670233006.html</link>
+            <description>Emitió una Letra del Tesoro que será suscripta en forma directa por el Fondo Fiduciario del
+                Sistema de Infraestructura del Transporte (Ffsit).
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Gobierno-emite-millones-financiar-transporte_0_1670233006.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 11:04:45 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Luis-Caputo-secretario-Finanzas-preocuparse_CLAIMA20161005_0166_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="38">
+            <title>Basabilvaso admitió que debería “pagarse mucho más” de bono a los jubilados</title>
+            <link>http://www.clarin.com/ieco/Basabilvaso-admitio-deberia-pagarse-jubilados_0_1670232996.html</link>
+            <description>El titular de la ANSES reconoció que es insuficiente el plus de $ 1.000 que se dará a fin de
+                año a quienes cobren la mínima, pero dijo que es lo que "se puede abonar en este momento".
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Basabilvaso-admitio-deberia-pagarse-jubilados_0_1670232996.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 10:34:45 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/ANSES-Emilio-Basavilbaso-Alfredo-Telam_CLAIMA20160817_0072_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="37">
+            <title>Barrionuevo confía en que habrá "un bono de $ 2.000" para los privados</title>
+            <link>http://www.clarin.com/ieco/Barrionuevo-confia-bono-privados_0_1670232991.html</link>
+            <description>Se mostró confiado de que el miércoles, durante la mesa de “Diálogo para la Producción y el
+                Trabajo”, la CGT consiga esa concesión de los empresarios.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/Barrionuevo-confia-bono-privados_0_1670232991.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 09:56:28 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/politica/Luis-Barrionuevo-Gastronomicos-Foto-DyN_CLAIMA20161009_0112_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="36">
+            <title>Hoy reglamentan las normas que benefician a las pymes</title>
+            <link>http://www.clarin.com/ieco/Hoy-reglamentan-normas-benefician-pymes_0_1670232981.html</link>
+            <description>Entre otros beneficios, las pymes tendrán reducciones de la carga tributaria, el estiramiento a
+                90 días del pago del IVA y el diferimiento del pago de Ganancias cuando hagan inversiones en bienes de
+                capital.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Hoy-reglamentan-normas-benefician-pymes_0_1670232981.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 09:09:48 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="35">
+            <title>Ley de semillas: las empresas resisten el proyecto oficial</title>
+            <link>http://www.clarin.com/ieco/economia/Ley-semillas-empresas-resisten-proyecto_0_1669633156.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Ley-semillas-empresas-resisten-proyecto_0_1669633156.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 06:02:00 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Marcos-Pena-Agroindustria-Ricardo-Buryaile_CLAIMA20161016_0183_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="34">
+            <title>Las ventas por el Día de la Madre cayeron un 4,8%</title>
+            <link>http://www.clarin.com/ieco/ventas-Dia-Madre-cayeron_0_1669633107.html</link>
+            <description>Sólo tres rubros se salvaron de la caída de las ventas, con respecto a la misma fecha del año
+                pasado.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/ventas-Dia-Madre-cayeron_0_1669633107.html</guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:52:02 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/CAME-ventasFOTO-PEDRO-LAZARO-FERNANDEZ_CLAIMA20161016_0097_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="33">
+            <title>La comunicación interna se segmenta para ser más efectiva</title>
+            <link>http://www.clarin.com/ieco/economia/comunicacion-interna-segmenta-efectiva_0_1669633054.html</link>
+            <description>Los responsables de Comunicación Interna ganan espacio. Los mensajes son cada vez más
+                segmentados y para distintos públicos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/comunicacion-interna-segmenta-efectiva_0_1669633054.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:45:07 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+
+        <item id="32">
+            <title>Argentina es la estrella regional</title>
+            <link>http://www.clarin.com/ieco/economia/Argentina-estrella-regional_0_1669633042.html</link>
+            <description>Para el presidente de la Cámara de Comercio e Industria Franco-Argentina, hay un claro interés
+                de Francia por el país.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/economia/Argentina-estrella-regional_0_1669633042.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:44:39 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Optimista-Rochebouet-perspectivas-francesas-infraestructura_CLAIMA20161016_0033_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="31">
+            <title>Crece la antiglobalización en EE.UU.</title>
+            <link>http://www.clarin.com/ieco/economia/Crece-antiglobalizacion-EEUU_0_1669633033.html</link>
+            <description>Se desató una virtual rebelión de los trabajadores industriales del mundo avanzado, contra su
+                marginación.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Crece-antiglobalizacion-EEUU_0_1669633033.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:42:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Crece-antiglobalizacion-EEUU_CLAIMA20161016_0029_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="30">
+            <title>Pronósticos: salió todo al revés</title>
+            <link>http://www.clarin.com/ieco/economia/Pronosticos-salio-reves_0_1668433367.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/economia/Pronosticos-salio-reves_0_1668433367.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 09:57:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="29">
+            <title>Defensa del capitalismo verdadero</title>
+            <link>http://www.clarin.com/ieco/economia/Defensa-capitalismo-verdadero_0_1669633048.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Defensa-capitalismo-verdadero_0_1669633048.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:41:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/politicos-primeras-IDEA-escuchar-opinion_CLAIMA20161016_0039_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="28">
+            <title>Jugarse la vida en un videogame</title>
+            <link>http://www.clarin.com/ieco/economia/Jugarse-vida-videogame_0_1669633061.html</link>
+            <description>Se conocieron en la secundaria entre Commodores y Spectrums, y a fines de los 90 abrieron su
+                propia empresa web. Llegaron a los videojuegos, que desarrollan para sí mismos o para terceros, como
+                Cartoon Network, Nickelodeon o Disney.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/economia/Jugarse-vida-videogame_0_1669633061.html</guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:40:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Mayoria-experiencia-empresa-Fernando-Piccolo_CLAIMA20161016_0051_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="27">
+            <title>“No me molesta la ausencia de un superministro de Economía”</title>
+            <link>http://www.clarin.com/ieco/economia/molesta-ausencia-superministro-Economia_0_1669633043.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/molesta-ausencia-superministro-Economia_0_1669633043.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 09:56:41 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+
+        <item id="26">
+            <title>Empanadas para un debate caliente</title>
+            <link>http://www.clarin.com/ieco/Empanadas-debate-caliente_0_1669033194.html</link>
+            <description>La charla sucedió al mediodía y duró una hora.</description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/Empanadas-debate-caliente_0_1669033194.html</guid>
+
+            <pubDate>Sun, 16 Oct 2016 09:54:27 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="25">
+            <title>“Macri puede ser Roca, o alguien que quiera irse a su casa en 2019”</title>
+            <link>http://www.clarin.com/ieco/economia/Macri-puede-Roca-alguien-quiera_0_1669633041.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Macri-puede-Roca-alguien-quiera_0_1669633041.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 09:55:40 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+
+        <item id="24">
+            <title>El debate se agudiza: ¿Gradualismo o shock?</title>
+            <link>http://www.clarin.com/ieco/economia/debate-agudiza-Gradualismo-shock_0_1669033196.html</link>
+            <description>Una discusión que arrancó antes de que asumiera Macri y hoy, 10 meses después, sigue
+                vigente. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/debate-agudiza-Gradualismo-shock_0_1669033196.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 08:42:11 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="23">
+            <title>Pasan cosas raras en esta economía</title>
+            <link>http://www.clarin.com/ieco/economia/Pasan-cosas-raras-economia_0_1668433327.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/economia/Pasan-cosas-raras-economia_0_1668433327.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 04:30:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="22">
+            <title>A la espera del repunte aumenta la oferta de hoteles corporativos</title>
+            <link>http://www.clarin.com/ieco/economia/espera-repunte-aumenta-hoteles-corporativos_0_1668433315.html
+            </link>
+            <description>Con el desembarco de nuevas cadenas y la apertura de más establecimientos se busca crecer 5%
+                anual. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/espera-repunte-aumenta-hoteles-corporativos_0_1668433315.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 04:00:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ciudades/Alvear-Puerto-Madero-Manuel-Foglia_CLAIMA20160528_0213_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="21">
+            <title>Rochebouet: "Argentina es la estrella de la región"</title>
+            <link>http://www.clarin.com/ieco/economia/Rochebouet-Argentina-estrella-region_0_1668433312.html</link>
+            <description>El presidente de la Cámara de Comercio e Industria Franco-Argentina se muestra optimista sobre
+                las inversiones.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Rochebouet-Argentina-estrella-region_0_1668433312.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 03:30:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/XIV-Argentino-Frances-Franco-ArgentinaApertura-Pierre-Henri-RochebouetFotos_CLAIMA20161014_0334_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="20">
+            <title>Las empresas europeas vuelven a la Argentina</title>
+            <link>http://www.clarin.com/ieco/economia/empresas-europeas-vuelven-Argentina_0_1668433317.html</link>
+            <description>Tecnología, energía y laboratorios son algunos de los sectores que tendrán nuevos capitales.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/empresas-europeas-vuelven-Argentina_0_1668433317.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 03:00:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Capitale-ministerio-Hacienda-inversion-US49500_CLAIMA20161014_0338_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="19">
+            <title>Crece la oferta académica del petróleo y se renuevan perfiles</title>
+            <link>http://www.clarin.com/ieco/campus-ieco/Crece-academica-petroleo-renuevan-perfiles_0_1668433320.html
+            </link>
+            <description>La UBA inauguró este año su Ingeniería en Petróleo y los recursos “no convencionales” obligan a
+                modificar planes y perfiles.  
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/campus-ieco/Crece-academica-petroleo-renuevan-perfiles_0_1668433320.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 02:30:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/campus-ieco/UBA-Y-TEC-YPF-Conicet-Prensa_CLAIMA20161014_0343_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="18">
+            <title>"Hay que pasar el verano", dicen los fabricantes de indumentaria</title>
+            <link>http://www.clarin.com/ieco/economia/pasar-verano-dicen-fabricantes-indumentaria_0_1668433313.html
+            </link>
+            <description>Para atenuar la caída de ventas, los comercios lanzan promos y tratan de no subir los
+                precios.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/pasar-verano-dicen-fabricantes-indumentaria_0_1668433313.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 01:30:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Consumo-Descuentos-cuotas-bajen-ventas_CLAIMA20161014_0336_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="17">
+            <title>Los argentinos copan Miami y regresan con varias valijas repletas</title>
+            <link>http://www.clarin.com/ieco/economia/argentinos-Miami-regresan-valijas-repletas_0_1668433310.html
+            </link>
+            <description>Es el principal destino para comprar ropa, que se consigue hasta un 70% más barata. “Un jean de
+                US$20, en el país cuesta $1.500” dice un estudio.  
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/argentinos-Miami-regresan-valijas-repletas_0_1668433310.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 01:00:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/regreso-turistas-argentinos-Ezeiza-cargados_CLAIMA20161014_0333_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="16">
+            <title>La comunicación interna utiliza distintos canales para llegar a todos</title>
+            <link>http://www.clarin.com/ieco/economia/comunicacion-interna-utiliza-distintos-canales_0_1668433280.html
+            </link>
+            <description>Los responsables de Comunicación Interna ganan espacio. Los mensajes son cada vez más
+                segmentados y para distintos públicos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/comunicacion-interna-utiliza-distintos-canales_0_1668433280.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 00:30:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="15">
+            <title>Argentina: el país donde la infraestructura se deterioró más en 10 años</title>
+            <link>http://www.clarin.com/ieco/Argentina-pais-infraestructura-deterioro-anos_0_1669033190.html</link>
+            <description>Fue la economía de la región donde la calidad de la inversión registró el peor desempeño entre
+                2006 y 2015. Es un estudio reciente del Fondo Monetario.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/Argentina-pais-infraestructura-deterioro-anos_0_1669033190.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 21:08:23 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/ieco/puerto-Buenos-Aires_CLAIMA20161015_0246_28.jpg" length="0"
+                       type="image/jpg"/>
+        </item>
+        <item id="14">
+            <title>En dos años, la mitad de la producción automotriz serán pick ups</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/anos-mitad-produccion-automotriz-pick_0_1669033185.html</link>
+            <description>Nissan, Renault y Mercedes-Benz están trabajando para lanzar nuevos utilitarios y Toyota amplió
+                su planta.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/anos-mitad-produccion-automotriz-pick_0_1669033185.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 20:26:58 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Vokswagen-Amarok-hacen-Pacheco_CLAIMA20161015_0236_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="13">
+            <title>Las 10 frases que conmovieron en IDEA</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/frases-conmovieron-IDEA_0_1669033151.html</link>
+            <description>A lo largo de 3 días, políticos, empresarios, economistas y analistas pasaron por Mar del
+                Plata. Aquí un pantallazo de las exposiciones.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/coloquioidea/frases-conmovieron-IDEA_0_1669033151.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 17:36:45 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="12">
+            <title>Los empresarios son optimistas pero aún desconfían del Gobierno</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/empresarios-optimistas-desconfian-Gobierno_0_1669033184.html
+            </link>
+            <description>Atentos al blanqueo y a la esperada reactivación, los ejecutivos cuestionan la estrategia
+                oficial de prueba y error.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/empresarios-optimistas-desconfian-Gobierno_0_1669033184.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 20:20:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/HSBC-IDEA-FOTO-JUANO-TESONE_CLAIMA20161015_0235_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="11">
+            <title>Alberto Abad: "Como no hay margen para aumentar más los impuestos, vamos a ampliar la base
+                tributaria"
+            </title>
+            <link>http://www.clarin.com/ieco/coloquioidea/Alberto-Abad-aumentar-impuestos-tributaria_0_1669033181.html
+            </link>
+            <description>El titular de la AFIP dijo que están decididos a bajar la presión tributaria. Y aseguró que ya
+                detectaron propiedades de argentinos en el exterior sin declarar. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Alberto-Abad-aumentar-impuestos-tributaria_0_1669033181.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 20:13:41 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Alberto-AFIP-Foto-Diego-Waldmann_CLAIMA20161015_0230_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="10">
+            <title>El regreso de los préstamos en pesos, a 10 años y tasa fija</title>
+            <link>http://www.clarin.com/ieco/economia/regreso-prestamos-pesos-tasa-fija_0_1669033172.html</link>
+            <description>El HSBC ofrecerá líneas a cerca del 17% anual.  La semana pasada el Gobierno colocó bonos a 10
+                años al 15,5%
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/regreso-prestamos-pesos-tasa-fija_0_1669033172.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 19:54:09 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/bancos-preparan-lanzar-lineas-creditos_CLAIMA20161015_0220_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="9">
+            <title>Para los políticos, la gente exige el fin de la corrupción</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/politicos-gente-exige-fin-corrupcion_0_1669033146.html</link>
+            <description>Oficialistas y opositores aprovecharon la convocatoria de IDEA para mostrarse juntos en Mar del
+                Plata.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/politicos-gente-exige-fin-corrupcion_0_1669033146.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 16:34:53 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Margarita-IDEA-FOTO-JUANO-TESONE_CLAIMA20161015_0162_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="8">
+            <title>Vidal habló de las amenazas: "No vamos a parar"</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/Vidal-IDEA-amenazas-vamos-parar_0_1668433366.html</link>
+            <description>La gobernadora fue aplaudida de pie cuando ratificó que seguirá combatiendo las mafias en la
+                Provincia.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Vidal-IDEA-amenazas-vamos-parar_0_1668433366.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 22:09:28 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Gobernadora-JUANO-TESONE-ENVIADO-ESPECIAL_CLAIMA20161014_0401_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="7">
+            <title>Para los economistas, el PBI crecerá entre 3 y 5% en 2017</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/economistas-PBI-crecera_0_1668433365.html</link>
+            <description>Reclamaron reformas tributarias y laborales.</description>
+
+            <guid isPermaLink="true">http://www.clarin.com/ieco/coloquioidea/economistas-PBI-crecera_0_1668433365.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 22:00:38 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Coloquio-IDEA-FOTO-JUANO-TESONE_CLAIMA20161014_0400_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="6">
+            <title>Sturzenegger: las paritarias deben ser por debajo de la inflación pasada</title>
+            <link>
+                http://www.clarin.com/ieco/coloquioidea/Sturzenegger-paritarias-debajo-inflacion-pasada_0_1668433364.html
+            </link>
+            <description>El titular del Central recorrió los temas calientes para los empresarios. Dijo que el dólar no
+                debe ser un ancla para los precios.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Sturzenegger-paritarias-debajo-inflacion-pasada_0_1668433364.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 21:56:27 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Federico-Sturzenegger-Coloquio-IDEA-DYN_CLAIMA20161014_0397_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="5">
+            <title>Vidal: "No vamos a parar en la lucha contra el narcotráfico"</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/Vidal-vamos-parar-lucha-narcotrafico_0_1668433348.html</link>
+            <description>La gobernadora se refirió a las amenazas narco. También instó a los empresarios a
+                "comprometerse" generando trabajo.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Vidal-vamos-parar-lucha-narcotrafico_0_1668433348.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 21:13:09 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Gobernadora-Maria-Eugenia-Vidal-DYN_CLAIMA20161014_0374_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="4">
+            <title>Chismes y cuchicheos de los cruces entre empresarios y políticos en IDEA</title>
+            <link>
+                http://www.clarin.com/ieco/coloquioidea/Chismes-cuchicheos-empresarios-politicos-IDEA_0_1668433339.html
+            </link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Chismes-cuchicheos-empresarios-politicos-IDEA_0_1668433339.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 20:34:35 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="3">
+            <title>Massa en IDEA: "Vengo a plantear un acuerdo económico y social"</title>
+            <link>http://www.clarin.com/ieco/coloquioidea/Massa-IDEA-Vengo-plantear-economico_0_1668433311.html</link>
+            <description>El diputado asegura que lo deben integrar "opositores y oficialistas, empresarios y
+                trabajadores".
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/Massa-IDEA-Vengo-plantear-economico_0_1668433311.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 19:17:18 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/coloquioidea/Graciela-Caamano-PlataFOTO-JUANO-TESONE_CLAIMA20161014_0344_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="2">
+            <title>El Gobierno de Vidal consiguió otros US$ 750 millones con bonos a 3 y 10 años</title>
+            <link>http://www.clarin.com/ieco/economia/Gobierno-Vidal-consiguio-US-millones_0_1668433303.html</link>
+            <description>Reabrió dos emisiones de títulos a 3 y 10 años lanzados en junio y logró bajar la tasa
+                original. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/economia/Gobierno-Vidal-consiguio-US-millones_0_1668433303.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 18:38:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/ieco/economia/Maria-Eugenia-Vidal-Maipu-Plata_CLAIMA20161014_0312_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="1">
+            <title>Las industrias tradicionales y la segunda ola de la innovación</title>
+            <link>
+                http://www.clarin.com/ieco/coloquioidea/industrias-tradicionales-segunda-ola-innovacion_0_1668433298.html
+            </link>
+            <description>Según Andrei Vazhnov, la popularización de los elementos de computación abre posibilidades de
+                innovación en todos los sectores.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/ieco/coloquioidea/industrias-tradicionales-segunda-ola-innovacion_0_1668433298.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 18:24:10 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+    </channel>
+</rss>

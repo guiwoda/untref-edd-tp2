@@ -1,0 +1,824 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.lavoz.com.ar/taxonomyfeed/5/1"
+     content="http://purl.org/rss/1.0/modules/content/" dc="http://purl.org/dc/terms/" foaf="http://xmlns.com/foaf/0.1/"
+     og="http://ogp.me/ns#" rdfs="http://www.w3.org/2000/01/rdf-schema#" sioc="http://rdfs.org/sioc/ns#"
+     sioct="http://rdfs.org/sioc/types#" skos="http://www.w3.org/2004/02/skos/core#"
+     xsd="http://www.w3.org/2001/XMLSchema#">
+    <channel>
+        <title>Mundo</title>
+        <link>http://www.lavoz.com.ar/taxonomyfeed/5/1</link>
+        <description/>
+        <medio>3</medio>
+        <seccion>5</seccion>
+        <language>en</language>
+        <item id="54">
+            <title>Al menos 55 muertos y más de 500 heridos al descarrilar un tren en Camerún</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/al-menos-55-muertos-y-mas-de-500-heridos-al-descarrilar-un-tren-en-camerun
+            </link>
+            <description>Al menos 55 personas han muerto y otras 575 han resultado heridas en el centro de Camerún al
+                descarrilar hoy un tren de pasajeros que cubría la ruta entre Yaundé y Duala, según información del
+                Ministerio de Transportes recogida por la Radiotelevisión Camerunesa. Según la misma fuente, 14 personas
+                permanecen atrapadas en el interior de los vagones, por lo que el balance final de víctimas mortales
+                podría aumentar en las próximas horas. Sucedió en la ruta entre Yaundé y Duala.  Agencia EFE Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 21:09:01 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084583 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="53">
+            <title>Cae en México un exjefe policial vinculado con la desaparición de los 43 jóvenes</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/cae-en-mexico-un-exjefe-policial-vinculado-con-la-desaparicion-de-los-43-jovenes
+            </link>
+            <description>Las fuerzas de seguridad mexicanas arrestaron hoy al exsecretario de Seguridad de Iguala Felipe
+                Flores, considerado figura clave en la desaparición de los 43 estudiantes de Ayotzinapa, el 26 de
+                septiembre de 2014, a manos de policías corruptos. La Comisión Nacional de Seguridad (CNS) informó en la
+                red social Twitter que Flores fue detenido a las 07.00 hora local (12.00 GMT) en Iguala, en el sureño
+                estado de Guerrero, en cumplimiento de una orden de aprehensión emitida hace dos años. Las fuerzas de
+                seguridad arrestaron al exsecretario de Seguridad de Iguala, Felipe Flores. Agencia EFE Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 20:12:32 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084572 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="52">
+            <title>Gran Bretaña vigilará el paso de un portaaviones ruso por el Canal de la Mancha</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/gran-bretana-vigilara-el-paso-de-un-portaaviones-ruso-por-el-canal-de-la-mancha
+            </link>
+            <description>Mundo Agencia AP Gran Bretaña enviará naves de guerra a vigilar el paso de un portaviones ruso
+                con su flotilla mientras surcan el Mar del Norte y el Canal de la Mancha. El secretario de Defensa,
+                Michael Fallon, dijo que las fuerzas armadas vigilarán a los buques "a cada paso". El portaviones
+                Almirante Kuznetsov y su flotilla se dirigen del Mar de Noruega hacia el Mar del Norte. El destructor
+                HMS Duncan zarpó de Portsmouth para vigilar el paso de la flotilla rusa. La Marina Real habitualmente
+                vigila el paso de buques, en este caso con respaldo de la Fuerza Aérea. El secretario de Defensa,
+                Michael Fallon, dijo que las Fuerzas Armadas vigilarán a los buques "a cada paso".
+            </description>
+            <pubDate>Fri, 21 Oct 2016 19:53:19 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084568 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="51">
+            <title>Evacuaron el aeropuerto London City tras un incidente de tipo "químico"</title>
+            <link>http://www.lavoz.com.ar/mundo/evacuaron-el-aeropuerto-london-city-tras-un-incidente-de-tipo-quimico
+            </link>
+            <description>El aeropuerto londinense London City Airport fue evacuado hoy tras saltar una alarma de
+                incendios después de producirse un incidente de naturaleza "química" que se está investigando, informó
+                un portavoz del Servicio de Bomberos de la capital británica. El suceso, del que todavía se conocen
+                pocos datos, ha obligado a cientos de pasajeros a abandonar la terminal y ha impedido que se efectuaran
+                los despegues y aterrizajes programados. Se dispararon las alarmas de incendio y la gente tuvo que salir
+                de la aeroestación. Agencia EFE Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 18:46:16 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084558 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="50">
+            <title>Brasil: allanaron el Senado y detuvieron a policías</title>
+            <link>http://www.lavoz.com.ar/mundo/brasil-allanaron-el-senado-y-detuvieron-policias</link>
+            <description>Mundo Cuatro policías que se encargan de la seguridad del Senado brasileño fueron detenidos hoy
+                acusados de proteger a los senadores de las investigaciones judiciales por corrupción, en el marco de un
+                allanamiento realizado en la cámara alta en las primeras horas de la mañana, informaron fuentes
+                judiciales citadas por la TV Globo. Agencia Télam Cuatro efectivos están acusados de proteger a los
+                senadores de las investigaciones judiciales por corrupción.
+            </description>
+            <pubDate>Fri, 21 Oct 2016 13:05:23 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084506 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="49">
+            <title>Trump atiza polémica al no comprometerse a aceptar los resultados</title>
+            <link>http://www.lavoz.com.ar/mundo/trump-atiza-polemica-al-no-comprometerse-aceptar-los-resultados</link>
+            <description>Washington. La renuencia del candidato presidencial republicano, Donald Trump, para
+                comprometerse a aceptar el resultado de las elecciones del martes 8 de noviembre inscribió ayer una
+                nueva polémica en la intervinieron desde Barack Obama y su esposa, Michelle, hasta figuras del partido
+                que tiene al magnate como aspirante a la Casa Blanca. Todos fustigaron como
+                “peligrosa”,“antidemocrática” o “inaceptable” la actitud de Trump, quien en el debate del miércoles,
+                ante Hillary Clinton, afirmó que, en caso de una derrota en las urnas, dejaría “en suspenso” el
+                reconocimiento del veredicto. El magnate republicano incluso ironizó en un acto sobre su postura, pero
+                reiteró sus denuncias sobre una “elección amañada”. Obama, su esposa, el vice Biden y hasta figuras
+                republicanas fustigaron su “peligrosa” actitud. Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084488 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="48">
+            <title>Libia: infierno con Kadhafi, pesadilla sin él</title>
+            <link>http://www.lavoz.com.ar/mundo/libia-infierno-con-kadhafi-pesadilla-sin-el</link>
+            <description>Trípoli. En la noche del 19 al 20 de octubre de 2011, Muamar Kadhafi resultó herido por un
+                ataque aéreo de la Otan cuando intentaba burlar el asedio a Sirte. De inmediato, fue capturado, linchado
+                y murió a manos de las milicias de Misurata. Cinco años después, el panorama en Libia es desolador. La
+                comunidad internacional mira con impotencia cómo se diluye en la insignificancia el Gobierno de Unidad
+                Nacional que propició en diciembre de 2015 en Marruecos. A cinco años de la caída y la muerte del líder
+                autocrático, el país se descompone en el caos. Todos los bandos en suelo libio han cometido crímenes de
+                guerra, según Amnistía Internacional. Francisco Peregil | El País, de Madrid Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084472 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="47">
+            <title>Confirman la extradición de “el Chapo” a Estados Unidos</title>
+            <link>http://www.lavoz.com.ar/mundo/confirman-la-extradicion-de-el-chapo-estados-unidos</link>
+            <description>Mundo Agencia Télam Un juez mejicano aprobó la extradición a Estados Unidos de Joaquín "el
+                Chapo" Guzmán al negar dos amparos presentados por la defensa del narcotraficante y sobreseer otros
+                tres, informó hoy la Procuraduría General de la República (PGR, fiscalía). En un comunicado, la
+                institución dijo haber sido notificada de cinco resoluciones emitidas por un juzgado sobre los amparos
+                interpuestos por el capo contra la decisión de la Secretaría de Relaciones Exteriores (SRE) de conceder
+                su extradición. Un juez federal mejicano negó dos amparos presentados por la defensa del narcotraficante
+                y aprobó la extradición que se concretará en enero o febrero. 
+            </description>
+            <pubDate>Thu, 20 Oct 2016 22:21:52 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084421 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="46">
+            <title>Un escenario con una favorita, pero no exento de sorpresas</title>
+            <link>http://www.lavoz.com.ar/mundo/un-escenario-con-una-favorita-pero-no-exento-de-sorpresas</link>
+            <description>Washington. Ya quedaron atrás los tres debates electorales entre la demócrata Hillary Clinton y
+                el republicano Donald Trump. Por delante quedan sólo tres semanas para las elecciones presidenciales en
+                Estados Unidos. Hillary se impuso en los tres duelos televisivos, según encuestas realizadas al término
+                de estos. Sin embargo, hay que decir que los medios estadounidenses son un poco tendenciosos en esta
+                elección, puesto que de manera expresa los principales le otorgaron su apoyo a la demócrata. Martin
+                Bialecki | Agencia DPA Mundo
+            </description>
+            <pubDate>Fri, 21 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084463 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="45">
+            <title>Trump: Aceptaré totalmente los resultados de estas grandes e históricas elecciones, si gano</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/trump-aceptare-totalmente-los-resultados-de-estas-grandes-e-historicas-elecciones-si-gano
+            </link>
+            <description>Mundo Agencia EFE El aspirante republicano a la Casa Blanca, Donald Trump, afirmó hoy que
+                aceptará el resultado de las elecciones presidenciales del próximo 8 de noviembre "si gano", un día
+                después de eludir confirmar si acatará el veredicto electoral. "Aceptaré totalmente los resultados de
+                estas grandes e históricas elecciones, si gano", aseguró Trump en un acto de campaña en Delaware (Ohio),
+                después del tercer y final debate presidencial de anoche en Las Vegas ante su rival demócrata, Hillary
+                Clinton.  El aspirante republicano a la Casa Blanca afirmó que reconocerá el resultado de las elecciones
+                del próximo 8 de noviembre si obtiene la presidencia de EE.UU.
+            </description>
+            <pubDate>Thu, 20 Oct 2016 19:16:12 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084390 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="44">
+            <title>Detuvieron a Cunha, un aliado de Temer en la caída de Dilma</title>
+            <link>http://www.lavoz.com.ar/mundo/detuvieron-cunha-un-aliado-de-temer-en-la-caida-de-dilma</link>
+            <description>Brasilia. Eduardo Cunha, el polémico exjefe de la Cámara de Diputados de Brasil, hombre cercano
+                al presidente Michel Temer y pieza clave del proceso que despojó del poder a Dilma Rousseff, fue
+                detenido ayer acusado de participar en la trama de corrupción de la compañía Petrobras. El extitular de
+                la Cámara de Diputados fue arrestado por orden del juez Moro, acusado del cobro de coimas en la trama de
+                Petrobras. Cercano al hoy presidente, una declaración del exdiputado podría desestabilizar a su
+                gobierno. Agencias EFE, AP y DPA Mundo
+            </description>
+            <pubDate>Thu, 20 Oct 2016 03:51:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084312 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="43">
+            <title>Migrantes, armas y aborto, en duros cruces del último round</title>
+            <link>http://www.lavoz.com.ar/mundo/migrantes-armas-y-aborto-en-duros-cruces-del-ultimo-round</link>
+            <description>Con cruces que ganaron virulencia en temas como inmigración y control de fronteras, derecho al
+                aborto o la polémica segunda enmienda, que se refiere a la portación de armas, Hillary Rodham Clinton y
+                Donald Trump se enfrentaron anoche en Las Vegas, en el último cara a cara televisado entre ambos, antes
+                de las elecciones del 8 de noviembre. Hillary Clinton y Donald Trump mantuvieron un ríspido cara a cara
+                final, con miras a las presidenciales del martes 8 de noviembre. El debate de Las Vegas, no exento de
+                chicanas personales, mostró diferencias de los candidatos en política exterior y en lucha contra el EI.
+                Mundo
+            </description>
+            <pubDate>Thu, 20 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084328 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="42">
+            <title>Sin saludarse, y con cruces y acusaciones, Trump y Clinton cerraron su último debate</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/sin-saludarse-y-con-cruces-y-acusaciones-trump-y-clinton-cerraron-su-ultimo-debate
+            </link>
+            <description>El candidato republicano a la Casa Blanca, Donald Trump, y la demócrata Hillary Clinton
+                cerraron su serie de debates presidenciales con duros cruces, y muy directos, sobre temas como el
+                aborto, la Corte Suprema y las acusaciones de abuso sexual. Eso sí: no se saludaron ni al comienzo ni al
+                final. Fue Trump el que no anduvo con vueltas y acusó a Clinton de estar detrás de las acusaciones de
+                abuso sexual que han hecho contra él varias mujeres en las últimas semanas. En Las Vegas, los aspirantes
+                a la presidencia de Estados Unidos, se vieron las caras por última vez antes de las elecciones. Hubo
+                discusión sobre el aborto, sobre la Corte Suprema y al final, Trump acusó a Clinton por las denuncias de
+                abuso sexual. Especial y agencia Télam Mundo
+            </description>
+            <pubDate>Thu, 20 Oct 2016 02:56:12 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084329 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="41">
+            <title>¿Habrá delación?</title>
+            <link>http://www.lavoz.com.ar/mundo/habra-delacion</link>
+            <description>“Esta podría ser la madre de todas las delaciones”, dijo con algo de ironía el veterano
+                diputado por el Partido Socialismo y Libertad (Psol) Iván Valente. La noticia de la detención del otrora
+                todopoderoso presidente de la Cámara de Diputados de Brasil, Eduardo Cunha, no sorprendió a casi nadie,
+                aunque habrá provocado escalofríos en buena parte de la clase política de ese país. Anoche en Brasilia
+                se discutía qué podría ofrecer de nuevo Cunha en su eventual delación, para que esta fuera aceptada. Y
+                muchos se cuestionaban si podrían caer con él otros peces gordos del nuevo oficialismo y de la
+                oposición. Mundo
+            </description>
+            <pubDate>Thu, 20 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>mtaborda</dc:creator>
+            <guid isPermaLink="false">1084313 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="40">
+            <title>Trump y Clinton: claves para ver el debate que puede definir presidente en Estados Unidos</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/trump-y-clinton-claves-para-ver-el-debate-que-puede-definir-presidente-en-estados-unidos
+            </link>
+            <description>En minutos comenzará el tercer y último debate en la campaña electoral por la presidencia de
+                Estados Unidos. Será de gran intensidad por el nivel de polémica y agresividad que ha tenido todo el
+                proceso proselitista, máxime en los últimos días, cuando se produjeron denuncias cruzadas por abusos
+                sexuales y advertencia de posibles fraudes. Las claves para seguirlo: ¿Quiénes discuten? Desde las 22,
+                en Las Vegas, debaten por última vez los candidatos a presidente de Estados Unidos. Toda la información
+                para seguirlo. Daniel Zen Mundo
+            </description>
+            <pubDate>Thu, 20 Oct 2016 00:54:05 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084298 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="39">
+            <title>A qué hora es el último debate entre Trump y Hillary Clinton</title>
+            <link>http://www.lavoz.com.ar/mundo/que-hora-es-el-ultimo-debate-entre-trump-y-hillary-clinton</link>
+            <description>Los principales candidatos a la presidencia de Estados Unidos, la demócrata Hillary Clinton y
+                el republicano Donald Trump, debatirán por última vez esta noche a las 22 (hora argentina) antes de las
+                elecciones del 8 de noviembre próximo, durante una presentación en la Universidad de Las Vegas, en el
+                estado de Nevada, donde confrontarán en seis temas. Los motores ya están calientes en la recta final
+                hacia los comicios, y la campaña para llegar a la Casa Blanca sube de tono a cada minuto. Los candidatos
+                a presidente de Estados Unidos se verán las caras por tercera, y última vez. Será desde las 22 (hora de
+                la Argentina). Agencia Télam y Redacción La Voz Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 21:51:36 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084274 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="38">
+            <title>Obama se toma en broma su futuro como "desocupado"</title>
+            <link>http://www.lavoz.com.ar/mundo/obama-se-toma-en-broma-su-futuro-como-desocupado</link>
+            <description>El próximo 8 de noviembre, Estados Unidos elegirá nuevo presidente. Será Hillary Clinton o
+                Donald Trum. Lo cierto es que Barack Obama dejará su cargo un par de meses después, en enero. Por eso, y
+                tomándose en broma su nuevo estado como nuevo “desocupado”, Obama se río de sí mismo. Fue en el programa
+                The Late Show, de la CBS, que presenta Stephen Colbert. Allí, Obama actuó como si estuviera buscando
+                trabajo. Fue una entrevista de trabajo de quien será expresidente en poco tiempo. Una una intervención
+                imperdible, el actual presidente de Estados Unidos realizó una parodia: participó de una entrevista de
+                trabajo. Fue en el programa The Late Show, de la CBS. Las elecciones serán el próximo 8 de noviembre.
+                Redacción La Voz Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 20:20:11 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084264 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="37">
+            <title>Insisten con la figura del "juez sin rostro" tras el asesinato de un magistrado en México</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/insisten-con-la-figura-del-juez-sin-rostro-tras-el-asesinato-de-un-magistrado-en-mexico
+            </link>
+            <description>El presidente de la Comisión Nacional de Derechos Humanos de México, Luis Raúl González,
+                exhortó a poner en práctica la figura de los "jueces sin rostro", luego de que el magistrado federal
+                Vicente Antonio Bermúdez fuera asesinado por un sicario , en otro hecho de violencia extrema que sacude
+                al país. El pedido lo hizo Luis Raúl González, presidente de la Comisión Nacional de Derechos Humanos de
+                México. Agencia Télam Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 18:59:44 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084257 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="36">
+            <title>El principal impulsor de destitución de Rousseff fue detenido</title>
+            <link>http://www.lavoz.com.ar/mundo/el-principal-impulsor-de-destitucion-de-rousseff-fue-detenido</link>
+            <description>El expresidente de la Cámara Baja de Brasil Eduardo Cunha fue detenido hoy en Brasilia por la
+                Policía, por su presunta implicación en la trama de corrupción en la petrolera estatal Petrobras,
+                confirmaron a Efe fuentes oficiales. El expresidente de la Cámara Baja de Brasil Eduardo Cunha fue
+                arrestado por su presunta implicación en la trama de corrupción en Petrobras.  Agencia EFE Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 16:40:54 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084240 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="35">
+            <title>Mataron a una mujer que intentó apuñalar a un policía israelí</title>
+            <link>http://www.lavoz.com.ar/mundo/mataron-una-mujer-que-intento-apunalar-un-policia-israeli</link>
+            <description>Mundo Una joven palestina murió hoy por disparos de la policía israelí después de que intentó
+                apuñalar a un agente en el puesto de control de Tapuach, en el norte del territorio ocupado de
+                Cisjordania, informaron fuentes policiales. La atacante, de 23 años e identificada como Raheeq Shajee
+                Birawi, del pueblo de Asira al-Shamaliya, al norte de la ciudad de Nablus, intentó agredir a los
+                efectivos que se encontraban en el lugar y "los oficiales respondieron" con disparos, aseguró el
+                portavoz policial Micky Rosenfeld. Agencia Télam Fue en el puesto de control de Tapuach, en el norte del
+                territorio ocupado de Cisjordania.
+            </description>
+            <pubDate>Wed, 19 Oct 2016 14:33:21 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084226 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="34">
+            <title>Una estatua de Hillary Clinton desnuda provocó una pelea en Nueva York</title>
+            <link>http://www.lavoz.com.ar/mundo/una-estatua-de-hillary-clinton-desnuda-provoco-una-pelea-en-nueva-york
+            </link>
+            <description>Una estatua de Hillary Clinton, con el torso desnudo y con pezuñas, apareció el martes afuera
+                de una estación del tren subterráneo, causando una confrontación entre una mujer que la derribó y se
+                sentó encima de ella para evitar que otras personas la levantaran. Es la segunda vez que una estatua de
+                tamaño real que representa de manera exagerada y desnuda a un candidato a la presidencia aparece afuera
+                de una estación de tren en Manhattan durante la temporada electoral. En agosto, una estatua que mostraba
+                a Donald Trump desnudo fue retirada del lugar por trabajadores municipales. Una mujer se sentó arriba de
+                la estatua y hubo discusiones. Agencia AP Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 12:13:48 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084199 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="33">
+            <title>Ofensiva sobre Mosul anticipa una nueva crisis humanitaria</title>
+            <link>http://www.lavoz.com.ar/mundo/ofensiva-sobre-mosul-anticipa-una-nueva-crisis-humanitaria</link>
+            <description>Bagdad, Beirut. Tropas del Ejército de Irak y milicianos kurdos avanzaron ayer sobre el sur y
+                el este de la ciudad de Mosul, último bastión urbano del Estado Islámico (EI) en ese país, apoyados por
+                bombardeos aéreos propios y de Estados Unidos. Mientras tanto, la ONU advirtió sobre una posible
+                “catástrofe humanitaria” y Amnistía Internacional denunció abusos cometidos por las fuerzas de asedio
+                contra quienes traten de escapar de la capital iraquí del califato. La ONU y organismos de derechos
+                humanos alertan sobre consecuencias de los ataques iniciados el lunes a la ciudad, en poder del EI. En
+                medio del avance terrestre, advierten de que la crisis causará hasta un millón de desplazados. Agencias
+                Télam, EFE, AP y DPA Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 03:51:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084183 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="32">
+            <title>Especulaciones en asedio a la capital del “califato”</title>
+            <link>http://www.lavoz.com.ar/mundo/especulaciones-en-asedio-la-capital-del-califato</link>
+            <description>Cuando a inicios de junio de 2014 los milicianos del Estado Islámico irrumpieron de madrugada
+                en la ciudad de Mosul, el mundo no tomó real conciencia de lo que ello significaba. Cada uno reclamará
+                su parte el día que Mosul sea liberada de los islamistas. Mundo
+            </description>
+            <pubDate>Wed, 19 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>mtaborda</dc:creator>
+            <guid isPermaLink="false">1084185 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="31">
+            <title>Apareció una estatua de Hillary Clinton desnuda en Nueva York</title>
+            <link>http://www.lavoz.com.ar/mundo/aparecio-una-estatua-de-hillary-clinton-desnuda-en-nueva-york</link>
+            <description>Una estatua de Hillary Clinton, con el torso desnudo y con pezuñas, apareció el martes afuera
+                de una estación del tren subterráneo, causando una confrontación entre una mujer que la derribó y se
+                sentó encima de ella para evitar que otras personas la levantaran. I don’t care about the nude satirical
+                Hillary statue in NY. Turnabout is fair enough. But the hooves… pretty shitty pic.twitter.com/IrNbwOvuw5
+                La obra donde la candidata demócrata luce con el torso desnudo y con pezuñas, apareció el martes afuera
+                de una estación del tren subterráneo.   Agencia AP Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 22:26:02 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084134 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="30">
+            <title>Una resolución de Unesco ignora todo vínculo entre el Monte del Templo de Jerusalén y el judaísmo
+            </title>
+            <link>
+                http://www.lavoz.com.ar/mundo/una-resolucion-de-unesco-ignora-todo-vinculo-entre-el-monte-del-templo-de-jerusalen-y-el-judai
+            </link>
+            <description>La Unesco adoptó hoy la resolución sobre la preservación del patrimonio cultural y religioso en
+                Jerusalén Este que indigna a Israel, al ignorar el vínculo entre el judaísmo y la Explanada de las
+                Mezquitas (Monte del Templo para los judíos y Mezquita de Al Aqsa para los musulmanes). La medida limita
+                a considerar como un lugar de culto musulmán la mezquita de Al Aqsa. Para los judíos, se trata de un
+                lugar sagrado, al ser el punto donde se erigían los dos templos bíblicos de Jerusalén. Agencia Télam
+                Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 22:02:56 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084128 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="29">
+            <title>Bruselas: hombre armado con un cuchillo tomó rehenes en un comercio</title>
+            <link>http://www.lavoz.com.ar/mundo/bruselas-hombre-armado-con-un-cuchillo-tomo-rehenes-en-un-comercio
+            </link>
+            <description>La policía federal belga detuvo hoy a un individuo que retuvo durante una hora en un comercio
+                de Bruselas a unas quince personas armado con un cuchillo, informó la televisión pública belga "RTBF".
+                En la operación para liberar a los rehenes y detener al ladrón no se registraron heridos, según fuente
+                policiales.  La Policía Federal belga logró reducir al atacante sin que se registraran heridos. Agencia
+                EFE Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 18:49:06 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084098 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="28">
+            <title>Filtran video del asesinato de un juez que investigaba a narcos en México</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/filtran-video-del-asesinato-de-un-juez-que-investigaba-narcos-en-mexico
+            </link>
+            <description>El juez federal asesinado ayer en la calle a unos 70 kilómetros de Ciudad de México, es el
+                primero de ese nivel abatido en una década, y revisaba casos de jefes del Cártel del Golfo y de Los
+                Zetas, informaron fuentes oficiales. Pese a esos casos que analizaba, el magistrado, Vicente Bermúdez,
+                de 37 años, no contaba con protección oficial y nunca se le veía resguardado por guardaespaldas. El
+                magistrado revisaba casos de jefes del Cártel del Golfo y de Los Zetas. Fue asesinado de un disparo en
+                la nuca mientras trotaba por una vereda. Las imágenes pueden herir la sensibilidad del lector. Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 18:15:31 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084093 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="27">
+            <title>México: un grupo “antirratas” secuestró y les cortó las manos a siete ladrones</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/mexico-un-grupo-antirratas-secuestro-y-les-corto-las-manos-siete-ladrones
+            </link>
+            <description>Mundo Uno de los supuestos delincuentes agredidos fue encontrado muerto junto a un cartel con
+                un mensaje escrito a mano que decía "Esto nos pasó por rateros". En un hecho de violencia por mano
+                propia, siete presuntos ladrones, entre ellos una mujer, fueron abandonados con las manos mutiladas en
+                Tlaquepaque, municipio del occidental estado mexicano de Jalisco, por un autodenominado "Grupo de élite
+                antirratas", y uno de ellos murió, informó la policía municipal. De acuerdo con Eduardo Palacios,
+                comandante de la Policía de Tlaquepaque, las víctimas podrían haber sido privadas de la libertad
+                previamente, aunque dijo que continúan las investigaciones.
+            </description>
+            <pubDate>Tue, 18 Oct 2016 18:03:53 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084091 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="26">
+            <title>Una multimillonaria inversión de EEUU podría terminar bajo el agua</title>
+            <link>http://www.lavoz.com.ar/mundo/una-multimillonaria-inversion-de-eeuu-podria-terminar-bajo-el-agua
+            </link>
+            <description>Mundo Agencia AP La Fuerza Aérea de Estados Unidos ha invertido casi 1.000 millones de dólares
+                para construir una instalación de radar que ayudará a mantener a salvo a astronautas y satélites al
+                seguir la pista de fragmentos de basura espacial tan pequeñas como una pelota de béisbol. Siempre y
+                cuando, el calentamiento global no interfiera. EEUU ignoró el riesgo climático para el nuevo radar en
+                las islas Marshall.
+            </description>
+            <pubDate>Tue, 18 Oct 2016 15:18:37 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084077 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="25">
+            <title>Austria explica por qué decidió demoler la casa natal de Hitler</title>
+            <link>http://www.lavoz.com.ar/mundo/austria-explica-por-que-decidio-demoler-la-casa-natal-de-hitler</link>
+            <description>El Gobierno austríaco anunció que demolerá la casa donde nació y pasó sus primeros tres años de
+                vida Adolf Hitler, para evitar que se convierta en un santuario neonazi la propiedad ubicada en Braunau
+                am Inn, una localidad junto a la frontera con Alemania. El ministro del Interior austríaco, Wolfgang
+                Sobotka, dijo que "la casa de Hitler será tirada abajo. El sótano puede quedar, pero encima se
+                construirá un edificio nuevo", en declaraciones reproducidas por la versión electrónica del diario "Die
+                Presse", citado por EFE. Es para evitar que se convierta en un santuario neonazi. Agencia Télam Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 14:26:22 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084068 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="24">
+            <title>Mosul, una batalla clave para el destino de Irak y del Estado Islámico</title>
+            <link>http://www.lavoz.com.ar/mundo/mosul-una-batalla-clave-para-el-destino-de-irak-y-del-estado-islamico
+            </link>
+            <description>Bagdad. Las fuerzas iraquíes lanzaron en la tarde de ayer la ofensiva para recuperar Mosul, la
+                mayor ciudad bajo la férula del Estado Islámico (EI o Isis, por sus siglas en inglés) y desde la que Abu
+                Bakr al Bagdadi proclamó su Califato hace dos años. Se inició la mayor operación militar en el país del
+                golfo desde la invasión estadounidense que tuvo lugar después de marzo de 2003. Una derrota en la ciudad
+                donde proclamaron su Califato en 2014 minaría el poder de los yihadistas. El Gobierno, ante el reto de
+                evitar una ruptura. Ángeles Espinosa* Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 03:51:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084001 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="23">
+            <title>Si se confirman sondeos, Hillary debería decir gracias en español</title>
+            <link>http://www.lavoz.com.ar/mundo/si-se-confirman-sondeos-hillary-deberia-decir-gracias-en-espanol</link>
+            <description>Washington. Hillary Clinton supera por 50 puntos a su rival, el republicano Donald Trump, entre
+                los votantes latinos, según un sondeo difundido ayer. El 67 por ciento de los potenciales votantes
+                latinos asegura que el martes 8 de noviembre votará por la exsecretaria de Estado, frente al 17 por
+                ciento que lo hará por Trump, según una encuesta de NBC News, The Wall Street Journal y Telemundo. Según
+                una encuesta, la candidata demócrata supera por 50 puntos a Trump en voto latino. La exsecretaria de
+                Estado redobla campaña en estados que el partido no gana hace años. Agencias DPA, Télam y EFE Mundo
+            </description>
+            <pubDate>Tue, 18 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1084016 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="22">
+            <title>Periodismo de guerra: un cronista de CNN la pasó mal en Irak</title>
+            <link>http://www.lavoz.com.ar/mundo/periodismo-de-guerra-un-cronista-de-cnn-la-paso-mal-en-irak</link>
+            <description>El periodismo es un oficio de riesgo. Que lo cuente Nick Paton Walsh, que vivió un momento
+                complicado en Mosul, Irak. El periodista quedó en medio de un tiroteo durante la cobertura que CNN
+                realiza en Irak, donde fuerzas leales al gobierno local intentan recuperar la ciudad de Mosul (bajo el
+                control del Estado Islámico, Isis). ¿Qué le pasó a Walsh? El periodista estaba frente a cámara haciendo
+                su crónica sobre los ataques del ejército de Irak y daba detalles de los movimientos de la población más
+                cercana. Se trata de Nick Paton Walsh. El cronista transmitía desde Mosul, cuando los tiros y las
+                explosiones lo obligaron a abandonar su puesto. Terminó cuerpo a tierra. Redacción La Voz Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 21:03:27 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083968 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="21">
+            <title>¡Ganador de un viaje a Chile para dos personas!</title>
+            <link>http://www.lavoz.com.ar/mundo/ganador-de-un-viaje-chile-para-dos-personas</link>
+            <description>Compartir un viaje es un recuerdo para toda la vida. Se acerca el Día de la Madre y es el turno
+                de mimarla a ella. Por eso, 4 Rumbos y el sitio de Turismo de La Voz , te invitan a participar por un
+                paseo de compras en Chile para dos personas, del 24 al 28 de noviembre.  Para que puedas sorprender a tu
+                mamá en su día, 4 Rumbos y Voy de viaje te llevan de compras con ella al país andino. Si querés sumarte,
+                completá el formulario con tus datos personales, acá .  Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 18:30:24 +0000</pubDate>
+            <dc:creator>voydeviaje</dc:creator>
+            <guid isPermaLink="false">1083433 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="20">
+            <title>Hungría inicia la reforma constitucional para impedir la llegada de refugiados</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/hungria-inicia-la-reforma-constitucional-para-impedir-la-llegada-de-refugiados
+            </link>
+            <description>Tras una consulta popular que se declaró nula, el gobierno de Hungría insiste en impedir la
+                llegada de refugiados, esta vez a través de un debate parlamentario que comenzó hoy para reformar la
+                Constitución y que se impida la instalación de "población extranjera" en el país. Según el sistema de
+                cuotas de refugiados, Hungría, con 10 millones de habitantes, debía acoger a menos de 1.300 refugiados
+                de los 160.000 que deben reubicarse en los 28 países de la UE. Agencia Télam Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 14:43:41 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083899 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="19">
+            <title>Cerca de Halloween, Trump agita el fantasma de un fraude</title>
+            <link>http://www.lavoz.com.ar/mundo/cerca-de-halloween-trump-agita-el-fantasma-de-un-fraude</link>
+            <description>Washington. El candidato republicano Donald Trump, volvió a agitar ayer rumores sobre un
+                posible fraude electoral en las que tildó de “amañadas” elecciones de noviembre, pese a que su compañero
+                de fórmula, Mike Pence, quiso rebajar la retórica y aseguró que los dos aceptarán el resultado de los
+                comicios del martes 8. El republicano tildó de “amañadas” las elecciones del 8 de abril y criticó a
+                medios. Unas encuestas estiran diferencias de Hillary, el “Post” habla de sólo cuatro puntos de ventaja.
+                Agencias EFE, AP y DPA Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083871 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="18">
+            <title>México apunta a extraditar al “Chapo” en enero o febrero</title>
+            <link>http://www.lavoz.com.ar/mundo/mexico-apunta-extraditar-al-chapo-en-enero-o-febrero</link>
+            <description>México. El Gobierno mejicano­ puso fecha a la extradición de Joaquín “el Chapo” Guzmán. Después
+                de seis meses de batallas legales, las autoridades han señalado que en enero o febrero el mayor
+                narcotraficante del mundo quedará a merced de la Justicia estadounidense. Los abogados del narco no
+                están de acuerdo con las declaraciones y apuntan a que será “muy difícil” que ocurra tan rápido. La
+                última palabra la tiene un juzgado penal de la capital que todavía no se ha pronunciado al respecto. El
+                Gobierno mejicano­ puso fecha a la extradición de Joaquín “el Chapo” Guzmán. Después de seis meses de
+                batallas legales, las autoridades han señalado que en enero o febrero el mayor narcotraficante del mundo
+                quedará a merced de la Justicia estadounidense.  Elena Reina Muñoz* Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083867 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="17">
+            <title>El Papa recibirá mañana al Episcopado argentino para hablar de la situación del país</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/el-papa-recibira-manana-al-episcopado-argentino-para-hablar-de-la-situacion-del-pais
+            </link>
+            <description>El papa Francisco recibirá mañana a la comisión ejecutiva de la Conferencia Episcopal Argentina
+                (CEA) en una audiencia privada en la que hablarán de la situación social, política y pastoral del país,
+                informaron hoy fuentes eclesiásticas.  El encuentro se producirá dos días después de la reunión del
+                pontífice con el presidente Mauricio Macri y será la primera audiencia oficial que Jorge Bergoglio
+                mantiene con la cúpula episcopal desde su llegada a la Cátedra de Pedro en marzo de 2013.  En una
+                audiencia privada, Francisco y las autoridades de la Conferencia Episcopal Argentina hablarán de la
+                situación social, política y pastoral del país. Agencia DyN Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 00:20:39 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083844 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="16">
+            <title>Ultraderecha alemana celebra dos años de odio</title>
+            <link>http://www.lavoz.com.ar/mundo/ultraderecha-alemana-celebra-dos-anos-de-odio</link>
+            <description>Dresde. El 20 de octubre de 2014 sólo un par de cientos salieron a la calle en Dresde, en el
+                este de Alemania, para mostrar su repulsa contra “la islamización de Occidente”. De pronto, los cientos
+                se convirtieron en miles. Ya dejaron atrás su cenit, pero el grupo xenófobo Pegida sigue vivo. Lo que en
+                un principio se vio como una manifestación intrascendente fue creciendo gracias a la gran atención
+                mediática e institucional, que contribuyó a hacer del movimiento islamófobo alemán Pegida una de las
+                novedades políticas germanas con mayor éxito de los últimos años. Pegida, la formación xenófoba que no
+                quiere más refugiados, marchó ayer por Dresde. El grupo hostigó con dureza a Angela Merkel en los
+                recientes actos por la reunificación del país. Martin Fischer* Mundo
+            </description>
+            <pubDate>Mon, 17 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083866 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="15">
+            <title>El Estado Islámico y otro sanguinario ataque fratricida</title>
+            <link>http://www.lavoz.com.ar/mundo/el-estado-islamico-y-otro-sanguinario-ataque-fratricida</link>
+            <description>Mundo Agencias DPA y AP Bagdad. Al menos 34 personas murieron y más de 35 resultaron heridas en
+                un atentado suicida perpetrado ayer en un evento religioso chiíta en el norte de Bagdad. Ese era el
+                último reporte informado por la emisora televisiva iraquí Al Sumaria al cierre de esta edición. El
+                Estado Islámico (EI) asumió la autoría del ataque contra los “apóstatas”, como se refieren a los
+                chiítas, en un comunicado difundido en foros extremistas cuya autenticidad no pudo ser verificada aún.
+                Un atentado suicida en Irak contra musulmanes de la etnia chiíta dejó 34 muertos, y los yihadistas
+                sunitas se lo atribuyeron. Fue dentro de una carpa donde se conmemoraba la Ashura, una fecha religiosa
+                que recuerda el asesinato de un nieto de Mahoma.
+            </description>
+            <pubDate>Sun, 16 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083775 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="14">
+            <title>Desmotivados ante uno que espanta y otra que no convence</title>
+            <link>http://www.lavoz.com.ar/mundo/desmotivados-ante-uno-que-espanta-y-otra-que-no-convence</link>
+            <description>Mundo A pesar de la ventaja que casi todas las encuestas dan a la candidata demócrata Hillary
+                Clinton frente al magnate Donald Trump, hay diferentes factores que obligan a la cautela e impiden dar
+                ya como definidas las elecciones presidenciales del 8 de noviembre en Estados Unidos. Uno de esos
+                factores es el sistema electoral estadounidense, que hace de estos unos comicios indirectos donde los
+                ciudadanos optan por sus candidatos no en forma directa sino por un colegio electoral. La particularidad
+                está dada por el hecho de que 48 de los 50 estados del país otorgan la totalidad de sus delegados a
+                quien se imponga aunque sea por un voto en ese distrito.
+            </description>
+            <pubDate>Sun, 16 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083736 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="13">
+            <title>Irak: 33 muertos y decenas de heridos por un atentado suicida</title>
+            <link>http://www.lavoz.com.ar/mundo/irak-33-muertos-y-decenas-de-heridos-por-un-atentado-suicida</link>
+            <description>Al menos 33 personas murieron y 65 resultaron heridas en un atentado suicida perpetrado este
+                sábado contra fieles chiitas que conmemoraban la Ashura en Bagdad y que fue reivindicado por el grupo
+                islamista radical Estado Islámico (EI). Una fuente de la Policía iraquí, citada por la agencia de
+                noticias EFE, informó que el suicida detonó el cinturón de explosivos que llevaba adosado al cuerpo en
+                una carpa instalada para estas celebraciones en un mercado del barrio de Al Shaab, en el noreste de la
+                capital y de mayoría chiíta. El ataque fue contra fieles chiitas que conmemoraban la Ashura en Bagdad y
+                que fue reivindicado por el grupo islamista radical Estado Islámico (EI). Agencia Télam Mundo
+            </description>
+            <pubDate>Sun, 16 Oct 2016 00:07:08 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083763 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="12">
+            <title>Entre democracias representativas y representaciones de democracia</title>
+            <link>http://www.lavoz.com.ar/mundo/entre-democracias-representativas-y-representaciones-de-democracia
+            </link>
+            <description>Mundo Además de sumir al proceso de paz encarado por el presidente Juan Manuel Santos con las
+                Fuerzas Armadas Revolucionarias de Colombia en un limbo inesperado, el plebiscito del pasado 2 de
+                octubre en Colombia alertó sobre un fenómeno que no es nuevo, pero que parece acentuarse en ese y otros
+                países. El papel del abstencionismo como opción ciudadana vuelve a debatirse ante elecciones en las que
+                mucho está en juego. Decisiones populares cuyos resultados comprometen a todos se definen por un puñado
+                de votos. Aquí algunos íconos de apatía y participación recientes.
+            </description>
+            <pubDate>Sun, 16 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>mtaborda</dc:creator>
+            <guid isPermaLink="false">1083735 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="11">
+            <title>Trump insinúa que Hillary toma drogas para tener más energía</title>
+            <link>http://www.lavoz.com.ar/mundo/trump-insinua-que-hillary-toma-drogas-para-tener-mas-energia</link>
+            <description>El candidato republicano a la Casa Blanca, Donald Trump, insinuó este sábado que su rival
+                demócrata, Hillary Clinton, toma drogas para tener más energía y la acusó de "envenenar las mentes" de
+                los votantes al impulsar las "mentiras" de una decena de mujeres que acusan al magnate de acoso sexual.
+                Además, la acusó de "envenenar las mentes" de los votantes al impulsar las "mentiras" de una decena de
+                mujeres que acusan al magnate de acoso sexual. Agencia EFE Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 22:54:24 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083747 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="10">
+            <title>Mujica, sobre Donald Trump: No me preocupa el personaje, sino la gente que lo sigue</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/mujica-sobre-donald-trump-no-me-preocupa-el-personaje-sino-la-gente-que-lo-sigue
+            </link>
+            <description>El expresidente uruguayo José Mujica consideró hoy que existe una "brutal crisis política" en
+                el mundo por falta de liderazgo y alentó a los jóvenes universitarios a reflexionar sobre los problemas
+                actuales de la sociedad. El político, de 81 años, asistió a la 72 Asamblea General de la Sociedad
+                Interamericana de Prensa (SIP) que se celebra en la Ciudad de México. El expresidente uruguayo aseguró
+                que el mundo vive una “brutal crisis política” por falta de liderazgo. Alentó a los jóvenes
+                universitarios a reflexionar sobre los problemas actuales de la sociedad. Agencia EFE Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 21:03:33 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083724 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="9">
+            <title>Números que contradicen una fácil victoria de Hillary</title>
+            <link>http://www.lavoz.com.ar/mundo/numeros-que-contradicen-una-facil-victoria-de-hillary</link>
+            <description>Faltan 25 días para la elección del presidente de Estados Unidos. Si la campaña tiene la tónica
+                agresiva que se observa, teñida por acusaciones de abusos sexuales de ambos lados, es porque las partes
+                identificaron que había paridad. Se discute el poder más grande del mundo. Los principales medios
+                norteamericanos dan por vencido a Donald Trump y expresaron abierto apoyo a la demócrata. Pero el
+                análisis de un promedio de encuestas muestra paridad en cuatro estados definitorios. Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>danielzen</dc:creator>
+            <guid isPermaLink="false">1083652 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="8">
+            <title>Los medios, en campaña</title>
+            <link>http://www.lavoz.com.ar/mundo/los-medios-en-campana</link>
+            <description>Aunque los medios norteamericanos se encarguen de asegurar que la campaña de Donald Trump se
+                cae a pedazos, en el promedio de encuestas que realizó Real Clear Politics, la elección no parece estar
+                tan definida. Para enfocar el análisis hay que considerar que de manera expresa los dos diarios más
+                importantes de tirada nacional –el New York Times y el Washington Post – y con real peso en la opinión
+                pública expresaron su apoyo a Hillary. Lo hicieron a través de sus editoriales y sin medias tintas. Las
+                grandes tres cadenas de televisión (CBS, NBC y ABC) no han editorializado, pero controles de aire
+                muestran que utilizan casi el doble de tiempo para difundir información y análisis negativos del
+                candidato republicano que para mostrar hechos noticiosos neutros o positivos sobre él. Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083651 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="7">
+            <title>Cuando el “Brexit” se metió en el desayuno de los ingleses</title>
+            <link>http://www.lavoz.com.ar/mundo/cuando-el-brexit-se-metio-en-el-desayuno-de-los-ingleses</link>
+            <description>LONDRES. “Lo amas o lo odias”. Con este llamativo eslogan se vende desde hace años el Marmite,
+                una pasta negra a base de extracto de levadura obtenida de la fermentación de la cerveza. Su sabor
+                indescriptible está tan intrincado en la cultura británica que incluso se habla de “personas Marmite”:
+                individuos odiosos o adorables, sin términos medios. Un producto tradicional escaseó, y la polémica
+                estalló. Fue una consecuencia de la salida de Europa. Pablo Guimón | El País, de Madrid Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083645 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="6">
+            <title>Otra mujer acusa de abusos sexuales a Donald Trump</title>
+            <link>http://www.lavoz.com.ar/mundo/otra-mujer-acusa-de-abusos-sexuales-donald-trump</link>
+            <description>Otra mujer ha acusado hoy de abusos sexuales al candidato republicano a la Casa Blanca, Donald
+                Trump, cuya campaña ha negado tal extremo.  En declaraciones al diario The Washington Post, Kristin
+                Anderson , que tiene ahora 46 años y trabaja como fotógrafa en California, aseguró que el incidente
+                ocurrió en un club nocturno de Manhattan, en Nueva York En declaraciones a  The Washington Post ,
+                Kristin Anderson, que tiene ahora 46 años y trabaja como fotógrafa en California, aseguró que el
+                incidente ocurrió en un club nocturno de Manhattan. Agencia EFE Mundo
+            </description>
+            <pubDate>Sat, 15 Oct 2016 00:10:11 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083653 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="5">
+            <title>China liberará al último detenido por las protestas de 1989 en la Plaza Tiananmen</title>
+            <link>
+                http://www.lavoz.com.ar/mundo/china-liberara-al-ultimo-detenido-por-las-protestas-de-1989-en-la-plaza-tiananmen
+            </link>
+            <description>El último detenido por el régimen chino tras la represión de la pacífica protesta de
+                estudiantes por la democracia en la Plaza Tiananmen de Beijing, en junio de 1989, será liberado ten los
+                próximos días ras pasar 27 años en prisión. Miao Deshun, que por ese entonces tenía 24 años, ahora con
+                sus 51 años logra la libertad pero físicamente está muy débil, está enfermo de hepatitis B y padece
+                esquizofrenia. Miao Deshun, que por ese entonces tenía 24 años, tiene ahora 51 años. Está enfermo de
+                hepatitis B y padece esquizofrenia. Agencia EFE Mundo
+            </description>
+            <pubDate>Fri, 14 Oct 2016 23:43:04 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083647 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="4">
+            <title>Estados Unidos amplió beneficios a Cuba a pesar del embargo</title>
+            <link>http://www.lavoz.com.ar/mundo/estados-unidos-amplio-beneficios-cuba-pesar-del-embargo</link>
+            <description>Estados Unidos anunció hoy nuevas aperturas al embargo económico vigente sobre Cuba que
+                permitirán, entre otras cosas, impulsar la investigación médica conjunta y ayudar a mejorar la
+                agricultura y la infraestructura de la isla. Las nuevas enmiendas al régimen de sanciones asociado al
+                embargo fueron anunciadas por los departamentos de Comercio y del Tesoro, y entrarán en vigencia el
+                próximo lunes, una vez publicadas en el Registro Federal. El cambio más popular para la mayoría de los
+                estadounidenses es el que les permitirá a los viajeros importar sin límites, para uso personal, tabaco y
+                ron cubano en los equipajes. Agencia Télam Mundo
+            </description>
+            <pubDate>Fri, 14 Oct 2016 15:00:28 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083568 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="3">
+            <title>Sin respuestas convincentes ante los enigmas</title>
+            <link>http://www.lavoz.com.ar/mundo/sin-respuestas-convincentes-ante-los-enigmas</link>
+            <description>Hace casi una semana, el solicitante de asilo sirio Yaber al Bakr vulneró el cerco que la
+                policía había montado para apresarlo en la localidad alemana de Chemnitz. Después de anunciar que en la
+                vivienda del sospechoso se habían hallado poderosos ingredientes para fabricar una bomba y antes de
+                revelar que el blanco potencial del ataque de tinte yihadista sería el aeropuerto de Berlín, las
+                autoridades montaron un gran operativo antiterrorista. Después de anunciar que en la vivienda del
+                sospechoso se habían hallado poderosos ingredientes para fabricar una bomba y antes de revelar que el
+                blanco potencial del ataque de tinte yihadista sería el aeropuerto de Berlín, las autoridades montaron
+                un gran operativo antiterrorista. Mundo
+            </description>
+            <pubDate>Fri, 14 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>mtaborda</dc:creator>
+            <guid isPermaLink="false">1083544 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="2">
+            <title>Escándalo en Alemania tras el suicidio de presunto yihadista</title>
+            <link>http://www.lavoz.com.ar/mundo/escandalo-en-alemania-tras-el-suicidio-de-presunto-yihadista</link>
+            <description>Berlín. El suicidio en prisión del presunto terrorista sirio acusado de planear un atentado en
+                Alemania desató ayer la indignación y las críticas de políticos, expertos y medios que no entienden cómo
+                el que debía ser uno de los presos más vigilados fue tratado como un simple criminal. Yaber al Bakr fue
+                hallado ahorcado en la celda donde había sido alojado tras ser detenido y acusado de planificar
+                atentado. Opositores al gobierno de Merkel fustigaron “errores” en torno del confuso hecho. Almudena de
+                Cabo | Agencia DPA Mundo
+            </description>
+            <pubDate>Fri, 14 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083543 at http://www.lavoz.com.ar</guid>
+        </item>
+        <item id="1">
+            <title>Crece psicosis por “payasos asesinos”</title>
+            <link>http://www.lavoz.com.ar/mundo/crece-psicosis-por-payasos-asesinos</link>
+            <description>Washington. Mira por la ventana, un payaso cava un pozo tras la valla del jardín en un bosque
+                tenebroso. La cámara se mueve nerviosa, sale afuera siguiendo al payaso y, de pronto, se oye un grito.
+                El payaso se detiene y gira la cabeza hacia la cámara y empieza a correr en su dirección. La imagen se
+                tambalea e interrumpe. Nadie sabe qué pasa después. Con apariencia horripilante y en lugares tenebrosos,
+                causan terror en Estados Unidos. El fenómeno se extiende sin que las autoridades deslinden bromas de
+                hechos delictivos. Agencia DPA Mundo
+            </description>
+            <pubDate>Fri, 14 Oct 2016 03:01:00 +0000</pubDate>
+            <dc:creator>redaccionlavoz</dc:creator>
+            <guid isPermaLink="false">1083506 at http://www.lavoz.com.ar</guid>
+        </item>
+    </channel>
+</rss>

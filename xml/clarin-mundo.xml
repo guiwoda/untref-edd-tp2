@@ -1,0 +1,2251 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Clarin.com - Mundo</title>
+        <link>http://www.clarin.com/mundo/</link>
+        <description>Clarin.com - Mundo</description>
+        <medio>1</medio>
+        <seccion>5</seccion>
+
+        <language>es</language>
+
+        <copyright>Copyright 1996-2011 Clarin.com - All rights reserved</copyright>
+
+        <ttl>10</ttl>
+
+        <image>
+            <url>http://www.clarin.com/static/CLAClarinV3/images/logo.png</url>
+            <title>Clarin.com - Mundo</title>
+            <link>http://www.clarin.com/mundo/</link>
+        </image>
+
+        <item id="118">
+            <title>El PSOE tiende una mano a Rajoy para que forme gobierno</title>
+            <link>http://www.clarin.com/mundo/PSOE-tiende-Rajoy-forme-gobierno_0_1672632847.html</link>
+            <description>La mayoría de los socialistas está a favor de una abstención en la sesión de investidura, para
+                que el líder conservador pueda gobernar en minoría.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/PSOE-tiende-Rajoy-forme-gobierno_0_1672632847.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 17:49:13 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Partido-Popular-Mariano-Rajoy-AFP_CLAIMA20161021_0284_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="117">
+            <title>Esvásticas y otras "cosas" para Donald Trump, en el Museo de la Caricatura de México</title>
+            <link>http://www.clarin.com/mundo/Esvasticas-Donald-Trump-Caricatura-Mexico_0_1672632812.html</link>
+            <description>El controvertido candidato republicano dio rienda suelta a la imaginación de ilustradores en
+                una particular muestra, en la capital mexicana.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Esvasticas-Donald-Trump-Caricatura-Mexico_0_1672632812.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 15:14:49 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Caricaturas-Museo-Ciudad-Mexico-AFP_CLAIMA20161021_0191_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="116">
+            <title>Evacuan un aeropuerto de Londres por un raro "incidente químico"</title>
+            <link>http://www.clarin.com/mundo/Evacuan-aeropuerto-Londres-incidente-quimico_0_1672632808.html</link>
+            <description>Es el City Airport. Fue cerrado y unas 500 personas retiradas de lugar. Hay tres internados.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Evacuan-aeropuerto-Londres-incidente-quimico_0_1672632808.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 15:09:26 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Evacuan-London-Airport-Twitter-LondonCityAir_CLAIMA20161021_0186_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="115">
+            <title>Una poderosa flota rusa en el Canal de la Mancha</title>
+            <link>http://www.clarin.com/mundo/poderosa-flota-rusa-Canal-Mancha_0_1672632788.html</link>
+            <description>Va encabezada por el portaaviones "Almirante Kuznetsov", y se dirige a Siria. La marina
+                británica salió a su encuentro, y no le sacó los ojos de encima. 
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/poderosa-flota-rusa-Canal-Mancha_0_1672632788.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 13:24:08 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Pyotr-Velikiy-Norte-Mediterraneo-AFP_CLAIMA20161021_0164_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="114">
+            <title>Sudáfrica abandona la Corte Penal Internacional</title>
+            <link>http://www.clarin.com/mundo/Sudafrica-abandona-Corte-Penal-Internacional_0_1672632779.html</link>
+            <description>El roce con el tribunal surgió el año pasado cuando Pretoria se negó a arrestar al presidente
+                sudanés Omar al Bashir.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Sudafrica-abandona-Corte-Penal-Internacional_0_1672632779.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 12:25:12 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Justicia-Sudafrica-Masutha-Internacional-AFP_CLAIMA20161021_0134_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="113">
+            <title>Una vieja carta de George Bush a Bill Clinton recuerda tiempos más elegantes en la política de
+                EE.UU.
+            </title>
+            <link>http://www.clarin.com/mundo/George-Bush-Bill-Clinton-EEUU_0_1672632772.html</link>
+            <description>Mirá qué le escribió en 1993 el ex presidente republicano a su sucesor demócrata.</description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/George-Bush-Bill-Clinton-EEUU_0_1672632772.html</guid>
+
+            <pubDate>Fri, 21 Oct 2016 11:47:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/George-Bush-Clinton-Twitter-SimonCullen_CLAIMA20161021_0099_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="112">
+            <title>La oposición venezolana define su estrategia ante la suspensión del referéndum contra Maduro</title>
+            <link>http://www.clarin.com/mundo/venezolana-estrategia-suspension-referendum-Maduro_0_1672632769.html
+            </link>
+            <description>En las próximas horas anunciará los pasos a seguir, ante lo que calificó como un "escenario muy
+                peligroso" para el país.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/venezolana-estrategia-suspension-referendum-Maduro_0_1672632769.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 11:31:47 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/presidente-Venezuela-Nicolas-Maduro-AFP_CLAIMA20161021_0094_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="111">
+            <title>El macabro "negocio" de un cura exorcista y un coronel en Italia</title>
+            <link>http://www.clarin.com/mundo/macabro-negocio-exorcista-coronel-Italia_0_1672632762.html</link>
+            <description>Con el pretexto de hacer “invocaciones de curación para liberar a las víctimas del demonio”,
+                violaban a mujeres y niños. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/macabro-negocio-exorcista-coronel-Italia_0_1672632762.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 11:13:05 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Detienen-Italia-Imagen-Twitter-GazzettaEnnese_CLAIMA20161021_0083_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="110">
+            <title>El ISIS busca deviar la atención sobre Mosul y desata un baño de sangre en Kirkuk</title>
+            <link>http://www.clarin.com/mundo/ISIS-atencion-Mosul-sangre-Kirkuk_0_1672632756.html</link>
+            <description>Suicidas se volaron en una central eléctrica, matando a 11 personas. Y otro grupo atacó
+                edificios del gobierno y tomaron rehenes en mezquita.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/ISIS-atencion-Mosul-sangre-Kirkuk_0_1672632756.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 10:51:58 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Imagenes-TV-ISIS-Kirkuk-AFP_CLAIMA20161021_0076_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="109">
+            <title>Amplian la "pausa humanitaria" en Aleppo, pero afirman que es imposible sacar a los heridos</title>
+            <link>http://www.clarin.com/mundo/Amplian-humanitaria-Aleppo-imposible-heridos_0_1672632753.html</link>
+            <description>La ONU dijo que no hay garantías de seguridad para evacuarlos. Hay más de 250.000 personas
+                atrapadas en la parte este de la ciudad.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Amplian-humanitaria-Aleppo-imposible-heridos_0_1672632753.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 10:31:03 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Ciudad-humanitaria-bombardeos-Aleppo-AFP_CLAIMA20161021_0059_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="108">
+            <title>Allanan el Senado en Brasil</title>
+            <link>http://www.clarin.com/mundo/Allanan-Senado-Brasil_0_1672632744.html</link>
+            <description>En el operativo fueron detenidos policías acusados de proteger a senadores investigados en
+                casos de corrupción.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Allanan-Senado-Brasil_0_1672632744.html</guid>
+
+            <pubDate>Fri, 21 Oct 2016 09:47:58 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Senado-Brasil-Renan-Calheiros-EFE_CLAIMA20161021_0043_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="107">
+            <title>Hillary Clinton y Donald Trump, cara a cara en una gala en Nueva York, entre risas y chicanas</title>
+            <link>http://www.clarin.com/mundo/Hillary-Clinton-Donald-Trump-Nueva_0_1672632738.html</link>
+            <description>Fue anoche en la tradicional y célebre cena de caridad Alfred E. Smith, un evento fijo en el
+                calendario político estadounidense, que reúne a los candidatos presidenciales.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Hillary-Clinton-Donald-Trump-Nueva_0_1672632738.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 09:06:32 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Hillary-Clinton-Timothy-Arzobispo-AFP_CLAIMA20161021_0031_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="106">
+            <title>Golpe letal al referéndum revocatorio en Venezuela: cancelan la recolección de firmas</title>
+            <link>http://www.clarin.com/mundo/Golpe-referendum-revocatorio-Venezuela-recoleccion_0_1672632729.html
+            </link>
+            <description>La autoridad electoral alegó fraude en procesos anteriores. La colecta de rúbricas estaba
+                prevista para la semana que viene.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Golpe-referendum-revocatorio-Venezuela-recoleccion_0_1672632729.html
+            </guid>
+
+            <pubDate>Fri, 21 Oct 2016 08:06:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Venezolanos-referendum-revocatorio-Venezuela-AFP_CLAIMA20161021_0007_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="105">
+            <title>Otra provocación de Trump: “Aceptaré los resultados de la elección ... si gano”</title>
+            <link>http://www.clarin.com/mundo/provocacion-Trump-Aceptare-resultados-eleccion_0_1672032967.html</link>
+            <description>El magnate escaló así la controversia que disparó cuando en el debate con Hillary rechazó
+                anticipar si aceptará lo que digan las urnas. Agregó que se reservará acciones legales.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/provocacion-Trump-Aceptare-resultados-eleccion_0_1672032967.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 21:36:28 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/problemas-declaraciones-Trump-estrategas-AFP_CLAIMA20161020_0339_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="104">
+            <title>Pepe Mujica y su esposa en guerra contra un cuadro que los muestra desnudos</title>
+            <link>http://www.clarin.com/mundo/Pepe-Mujica-guerra-muestra-desnudos_0_1672032948.html</link>
+            <description>La obra, que los retrata como las figuras bíblicas de Adán y Eva, fue retirada de la galería
+                por la Policía. El ex presidente dijo que "las cosas tienen un límite".
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Pepe-Mujica-guerra-muestra-desnudos_0_1672032948.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 20:19:34 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Polemica-Jose-Mujica-Lucia-Topolansky_CLAIMA20161020_0312_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="103">
+            <title>Reunión de emergencia de Temer con su equipo tras el arresto de Cunha</title>
+            <link>http://www.clarin.com/mundo/Reunion-emergencia-Temer-arresto-Cunha_0_1672032947.html</link>
+            <description>El presidente busca atenuar el impacto de la detención, por corrupción, del diputado que armó
+                el juicio a Dilma.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Reunion-emergencia-Temer-arresto-Cunha_0_1672032947.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 20:11:24 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Detenido-Diputados-Instituto-Curitiba-EFE_CLAIMA20161020_0311_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="102">
+            <title>Una prisión que puede poner en aprietos a la cúpula del poder brasileño</title>
+            <link>http://www.clarin.com/mundo/prision-puede-aprietos-cupula-brasileno_0_1672032943.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/prision-puede-aprietos-cupula-brasileno_0_1672032943.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 20:02:24 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="101">
+            <title>Un juez mexicano aceptó extraditar a EE.UU. al Chapo Guzmán</title>
+            <link>http://www.clarin.com/mundo/mexicano-extraditar-EEUU-Chapo-Guzman_0_1672032901.html</link>
+            <description>Esto ocurre tras el asesinato de un magistrado que intervenía en la causa. Los abogados del
+                capo narco dijeron que apelarán la decisión.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/mexicano-extraditar-EEUU-Chapo-Guzman_0_1672032901.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 17:09:48 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Fotografia-Joaquin-Guzman-Altiplano-MochisEFE_CLAIMA20160526_0155_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="100">
+            <title>Una instructora de yoga también dice que Donald Trump la manoseó</title>
+            <link>http://www.clarin.com/mundo/instructora-dice-Donald-Trump-manoseo_0_1672032879.html</link>
+            <description>La mujer acusó al magnate de haberle tocado los senos hace 18 años, a la salida del US Open.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/instructora-dice-Donald-Trump-manoseo_0_1672032879.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 14:39:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Karena-Virginia-Donald-Trump-AP_CLAIMA20161020_0211_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="99">
+            <title>Donald Trump dice ahora que reconocerá el resultado de las elecciones si es el ganador</title>
+            <link>http://www.clarin.com/mundo/Donald-Trump-reconocera-resultado-elecciones_0_1672032876.html</link>
+            <description>Señaló que acatará un "resultado claro". Y eso será, aclaró, si él resulta vencedor.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Donald-Trump-reconocera-resultado-elecciones_0_1672032876.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 14:22:56 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Donald-Trump-Delaware-Ohio-AP_CLAIMA20161020_0203_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="98">
+            <title>Después de los ruidos nasales, llegan los ojos rojos de Donald Trump</title>
+            <link>http://www.clarin.com/mundo/Despues-nasales-llegan-Donald-Trump_0_1672032871.html</link>
+            <description>En las redes, la gente ensayó todo tipo de teorías sobre los irritados ojos del magnate
+                anoche.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Despues-nasales-llegan-Donald-Trump_0_1672032871.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 13:57:34 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Donald-Trump-Hillary-Clinton-Twitter_CLAIMA20161020_0195_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="97">
+            <title>La detención de Eduardo Cunha produjo un tembladeral en Brasilia</title>
+            <link>http://www.clarin.com/mundo/detencion-Eduardo-Cunha-tembladeral-Brasilia_0_1672032865.html</link>
+            <description>Diputados, senadores y actuales ministros temen que el ex parlamentario negocie la delación
+                “premiada” con el juez Sergio Moro. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/detencion-Eduardo-Cunha-tembladeral-Brasilia_0_1672032865.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 13:25:04 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Diputados-Eduardo-Instituto-Curitiba-EFE_CLAIMA20161020_0175_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="96">
+            <title>La campaña de Donald Trump sale a relativizar sus dichos sobre no reconocer una posible derrota
+            </title>
+            <link>http://www.clarin.com/mundo/Donald-Trump-relativizar-reconocer-derrota_0_1672032858.html</link>
+            <description>Su jefa de campaña tuvo que "traducir" la respuesta del magnate sobre si admitirá los
+                resultados de la elección.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Donald-Trump-relativizar-reconocer-derrota_0_1672032858.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 12:42:48 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Rivales-Donald-Hillary-Clinton-Reuters_CLAIMA20161020_0121_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="95">
+            <title>Libia cinco años después de Khadafi: yihadismo, mafias, milicias y traficantes</title>
+            <link>http://www.clarin.com/mundo/Libia-Khadafi-yihadismo-milicias-traficantes_0_1672032857.html</link>
+            <description>Libia se ha convertido en la base de los yihadistas en el norte de África y en un paraíso para
+                las mafias y los traficantes de personas, armas y drogas. Los ciudadanos se resignan a vivir bajo la
+                autoridad del general Hafter o de las milicias entre los tres gobiernos simultáneos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Libia-Khadafi-yihadismo-milicias-traficantes_0_1672032857.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 12:39:35 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Milicianos-Sirte-Khadafi-ISIS-REUTERS_CLAIMA20161020_0120_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="94">
+            <title>En Brasil le exigen a Eduardo Cunha que "entregue a todo el mundo"</title>
+            <link>http://www.clarin.com/mundo/Brasil-exigen-Eduardo-Cunha-entregue_0_1672032852.html</link>
+            <description>A los gritos, un grupo de personas le reclamó que revele todo lo que sabe y que delate a sus
+                cómplices en las causas de corrupción.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Brasil-exigen-Eduardo-Cunha-entregue_0_1672032852.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 12:13:36 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Eduardo-Instituto-Medicina-Curitiba-AP_CLAIMA20161020_0110_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="93">
+            <title>Escrachan a Felipe González en Madrid</title>
+            <link>http://www.clarin.com/mundo/Escrachan-Felipe-Gonzalez-Madrid_0_1672032845.html</link>
+            <description>Fue insultado cuando ingresaba a la Facultad de Derecho de la UAM, lo que obligó a suspender
+                una conferencia en la que iba a hablar.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Escrachan-Felipe-Gonzalez-Madrid_0_1672032845.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 11:47:41 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Escrachan-Gonzalez-Universidad-Captura-Youtube_CLAIMA20161020_0096_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="92">
+            <title>Fuerzas iraquíes avanzan sobre Mosul "más rápido de lo previsto"</title>
+            <link>http://www.clarin.com/mundo/Fuerzas-iraquies-avanzan-Mosul-previsto_0_1672032839.html</link>
+            <description>Lo afirmó el primer ministro de Irak, Haider al-Abadi. Mientras, decenas de familias comenzaron
+                a huir por temor a una batalla en la ciudad.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Fuerzas-iraquies-avanzan-Mosul-previsto_0_1672032839.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 11:28:11 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Ofensiva-Mosul-Irak-ISIS-REUTERS_CLAIMA20161020_0089_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="91">
+            <title>El "bad hombres" de Donald Trump desata carcajadas en México</title>
+            <link>http://www.clarin.com/mundo/hombres-Donald-Trump-carcajadas-Mexico_0_1672032834.html</link>
+            <description>Al candidato le llovieron las críticas por su expresión en contra de los inmigrantes. Las redes
+                sociales se llenaron de ironías.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/hombres-Donald-Trump-carcajadas-Mexico_0_1672032834.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 11:17:38 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Mexicanos-estadounidenses-Mexico-DF-AFP_CLAIMA20161020_0080_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="90">
+            <title>Tiroteos y francotiradores amenazan los corredores humanitarios para huir de Aleppo</title>
+            <link>
+                http://www.clarin.com/mundo/Tiroteos-francotiradores-corredores-humanitarios-Aleppo_0_1672032820.html
+            </link>
+            <description>Ningún civil se anima a cruzar y salir de la ciudad por temor a resultar herido. Fuentes rusas
+                señalan a milicianos rebeldes como los responsables de los disparos. La pausa humanitaria comenzó hoy y
+                durará tres días.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Tiroteos-francotiradores-corredores-humanitarios-Aleppo_0_1672032820.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 10:00:27 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Ministerio-Defensa-telecamaras-Aleppo-humanitaria_CLAIMA20161020_0052_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="89">
+            <title>¿Quién ganó el tercer debate entre Hillary Clinton y Donald Trump?</title>
+            <link>http://www.clarin.com/mundo/tercer-Hillary-Clinton-Donald-Trump_0_1672032814.html</link>
+            <description>Los medios eligieron a la candidata demócrata. Y un sondeo de la CNN le dio 13 puntos de
+                ventaja sobre su rival republicano.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/tercer-Hillary-Clinton-Donald-Trump_0_1672032814.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 09:36:57 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Hillary-Clinton-presidencial-Vegas-Reuters_CLAIMA20161020_0039_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="88">
+            <title>Las diez mejores frases del debate</title>
+            <link>http://www.clarin.com/mundo/mejores-frases-debate_0_1672032803.html</link>
+            <description>“¡Qué mujer tan desagradable!” y “marioneta de Putin”, las perlas de Trump y Clinton.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/mejores-frases-debate_0_1672032803.html</guid>
+
+            <pubDate>Thu, 20 Oct 2016 08:50:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Donald-Trump-Hillary-Clinton-BLOOMBERG_CLAIMA20161020_0017_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="87">
+            <title>La estrategia de salida de Donald Trump</title>
+            <link>http://www.clarin.com/mundo/estrategia-salida-Donald-Trump_0_1672032795.html</link>
+            <description>Su negativa anoche a declarar que respetará los resultados electorales podría revelar algo más
+                que el temor a un fraude.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/estrategia-salida-Donald-Trump_0_1672032795.html</guid>
+
+            <pubDate>Thu, 20 Oct 2016 07:30:41 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Donald-Hillary-Clinton-Vegas-AFP_CLAIMA20161020_0011_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="86">
+            <title>Ofensiva de Turquía deja un saldo de 200 kurdos muertos en Siria</title>
+            <link>http://www.clarin.com/mundo/Ofensiva-Turquia-kurdos-muertos-Siria_0_1672032790.html</link>
+            <description>Ocurrió en Alepo, donde habían anunciado un "paro humanitario" de 11 horas. Las Fuerzas Armadas
+                turcas se adjudicaron el hecho. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Ofensiva-Turquia-kurdos-muertos-Siria_0_1672032790.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 03:59:18 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="85">
+            <title>En un áspero debate con Hillary, Trump rehusó decir si aceptará el resultado electoral</title>
+            <link>http://www.clarin.com/mundo/Trump-rehuso-aceptara-resultado-electoral_0_1672032783.html</link>
+            <description>"Voy a mantener el suspenso", dijo el republicano en su último cruce con la demócrata. Clinton,
+                que lo aventaja en los sondeos, lo acusó de destruir la democracia.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Trump-rehuso-aceptara-resultado-electoral_0_1672032783.html
+            </guid>
+
+            <pubDate>Thu, 20 Oct 2016 00:53:56 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Interes-Hillary-Trump-Angeles-EFE_CLAIMA20161020_0004_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="84">
+            <title>En un tenso debate, Trump no dijo si aceptará el resultado de la elecciones</title>
+            <link>http://www.clarin.com/mundo/debate-Trump-aceptara-resultado-elecciones_0_1671433044.html</link>
+            <description>Fue en el curso del encuentro con su rival Hillary Clinton antes de las elecciones del 8 de
+                noviembre. Los sondeos dan una ventaja de hasta 9 puntos a la demócrata.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/debate-Trump-aceptara-resultado-elecciones_0_1671433044.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 23:43:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Hillary-Clinton-Donald-Universidad-AP_CLAIMA20161019_0357_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="83">
+            <title>Clinton y Trump comenzaron el último debate sin darse la mano</title>
+            <link>http://www.clarin.com/mundo/Clinton-Trump-comenzaron-ultimo-debate_0_1671433037.html</link>
+            <description>Tuvieron una fría presentación en el tercer duelo desde Las Vegas.</description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Clinton-Trump-comenzaron-ultimo-debate_0_1671433037.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 22:30:40 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/candidatos-saludaron-presentacion-AFP_CLAIMA20161019_0341_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="82">
+            <title>Hillary y Trump iniciaron su tercer y último debate electoral</title>
+            <link>http://www.clarin.com/mundo/Hillary-Trump-iniciaron-debate-electoral_0_1671433035.html</link>
+            <description>Tiene como escenario la Universidad de Nevada en Los Angeles. Es la última gran cita mediática
+                antes de las elecciones del 8 de noviembre.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Hillary-Trump-iniciaron-debate-electoral_0_1671433035.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 22:05:42 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Escenario-Universidad-Nevada-Angeles-AP_CLAIMA20161019_0339_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="81">
+            <title>EN VIVO, Debate Presidencial: Donald Trump vs Hillary Clinton</title>
+            <link>http://www.clarin.com/mundo/VIVO-Presidencial-Donald-Hillary-Clinton_0_1671432994.html</link>
+            <description>Siga el tercer debate desde Las Vegas (Nevada) con información de nuestra corresponsal en
+                Estados Unidos
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/VIVO-Presidencial-Donald-Hillary-Clinton_0_1671432994.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 21:27:47 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Donald-Trump-Hillary-Clinton-AFP_CLAIMA20161019_0289_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="80">
+            <title>Debate Presidencial: Guía para entender el tercer choque entre Donald Trump y Hillary Clinton</title>
+            <link>http://www.clarin.com/mundo/Debate-Presidencial-Donald-Hillary-Clinton_0_1671433001.html</link>
+            <description>Cómo será el encuentro, cómo llega cada candidato, quiénes serán los invitados incómodos y qué
+                dicen las encuestas
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Debate-Presidencial-Donald-Hillary-Clinton_0_1671433001.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 20:43:16 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Universidad-Nevada-Buenos-Aires-AP_CLAIMA20161019_0300_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="79">
+            <title>El ISIS cava trincheras y levanta muros para resistir en Mosul</title>
+            <link>http://www.clarin.com/mundo/ISIS-trincheras-levanta-resistir-Mosul_0_1671432985.html</link>
+            <description>El grupo terrorista capturó la ciudad en 2014, en un ataque relámpago. Ahora busca
+                defenderla.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/ISIS-trincheras-levanta-resistir-Mosul_0_1671432985.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 20:11:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Tall-kilometros-Mosul-ISIS-AFP_CLAIMA20161019_0281_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="78">
+            <title>dhm</title>
+            <link>http://www.clarin.com/mundo/dhm_0_1671432962.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/dhm_0_1671432962.html</guid>
+
+            <pubDate>Wed, 19 Oct 2016 20:04:01 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+
+        <item id="77">
+            <title>Armó el juicio a Dilma, cae por corrupción y complica a Temer</title>
+            <link>http://www.clarin.com/mundo/Armo-Dilma-corrupcion-complica-Temer_0_1671432982.html</link>
+            <description>Es Eduardo Cunha, aliado crucial del presidente Michel Temer, quien tras conocerse la noticia
+                emprendió el regreso urgente de Japón donde cumplía una visita oficial.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Armo-Dilma-corrupcion-complica-Temer_0_1671432982.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 19:55:03 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/br/destaque/President-Wednesday-Petrobras-MeloMetropoles-AP_CLAIMA20161019_0243_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="76">
+            <title>Un nuevo sondeo le da nueve puntos de ventaja a Hillary</title>
+            <link>http://www.clarin.com/mundo/nuevo-sondeo-puntos-ventaja-Hillary_0_1671432977.html</link>
+            <description>Según una encuesta revelada por la agencia Bloomberg, la candidata demócrata tendría un 47% de
+                intención de voto frente al 38% para Donald Trump.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/nuevo-sondeo-puntos-ventaja-Hillary_0_1671432977.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 19:36:42 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Saludo-Hillary-Clinton-Angeles-AFP_CLAIMA20161019_0265_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="75">
+            <title>Joao Doria: "La historia reservará para Lula y Dilma la puerta de atrás"</title>
+            <link>http://www.clarin.com/mundo/Joao-Doria-reservara-Lula-Dilma_0_1671432974.html</link>
+            <description>Del socialdemócrata PSDB, el empresario ganó por amplio margen las elecciones municipales del 3
+                de octubre. Se presenta como parte de la "nueva política".
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Joao-Doria-reservara-Lula-Dilma_0_1671432974.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 19:32:14 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Joao-Doria-San-Pablo-EFE_CLAIMA20161005_0050_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="74">
+            <title>El "rey del porno", Larry Flynt, ofrece millones por "cintas escandalosas" de Donald Trump</title>
+            <link>http://www.clarin.com/mundo/Larry-Flynt-escandalosas-Donald-Trump_0_1671432922.html</link>
+            <description>El creador de la revista Hustler atacó al candidato por sus comentarios sobre las mujeres. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Larry-Flynt-escandalosas-Donald-Trump_0_1671432922.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 13:54:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/revista-Hustler-Larry-Flynt-AFP_CLAIMA20161019_0157_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="73">
+            <title>Arrestan en Brasil a Eduardo Cunha, el principal promotor del juicio político a Dilma</title>
+            <link>http://www.clarin.com/mundo/Arrestan-Brasil-Eduardo-Cunha-Dilma_0_1671432917.html</link>
+            <description>El ex presidente de la Cámara Baja fue detenido hoy en Brasilia, en el marco de la causa Lava
+                Jato.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Arrestan-Brasil-Eduardo-Cunha-Dilma_0_1671432917.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 13:36:11 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Camara-Brasil-Eduardo-Cunha-EFE_CLAIMA20161019_0149_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="72">
+            <title>Barack Obama busca trabajo antes de abandonar la Casa Blanca</title>
+            <link>http://www.clarin.com/mundo/Barack-Obama-abandonar-Casa-Blanca_0_1671432915.html</link>
+            <description>El presidente se somete a una entrevista laboral desopilante en "The Late Show", con el
+                comediante Stephen Colbert. Mirá el video.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Barack-Obama-abandonar-Casa-Blanca_0_1671432915.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 13:22:10 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Barack-Obama-desopilante-entrevista-trabajo_CLAIMA20161019_0148_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="71">
+            <title>El nuevo film de Michael Moore sobre Donald Trump, sin sorpresas ni golpes bajos</title>
+            <link>http://www.clarin.com/mundo/Michael-Moore-Donald-Trump-sorpresas_0_1671432914.html</link>
+            <description>El documentalista promovió casi con misterio su nueva y sorpresiva película "Michael Moore en
+                Trumpland", que se estrenó hoy. Pero no parece impresionar a nadie.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Michael-Moore-Donald-Trump-sorpresas_0_1671432914.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 13:01:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Michael-Moore-sorprende-Donald-Trump_CLAIMA20161019_0147_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="70">
+            <title>Invitado sorpresa de Trump para el debate: un hermanastro de Obama</title>
+            <link>http://www.clarin.com/mundo/Invitado-sorpresa-Trump-hermanastro-Obama_0_1671432903.html</link>
+            <description>Malik Obama, "medio hermano" del presidente estadounidense, apoya al magnate republicano y será
+                parte de su público especial para el esperado encuentro de esta noche en Las Vegas.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Invitado-sorpresa-Trump-hermanastro-Obama_0_1671432903.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 12:21:21 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Imagen-Malik-Obama-estadounidense-AP_CLAIMA20161019_0126_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="69">
+            <title>Así será el debate de esta noche entre Hillary Clinton y Donald Trump</title>
+            <link>http://www.clarin.com/mundo/debate-Hillary-Clinton-Donald-Trump_0_1671432899.html</link>
+            <description>Chris Wallace, de Fox News, será el moderador. Preguntará sobre deuda, derechos adquiridos,
+                inmigración, economía y la Corte Suprema.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/debate-Hillary-Clinton-Donald-Trump_0_1671432899.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 12:14:34 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Hillary-Clinton-Donald-Vegas-AFP_CLAIMA20161019_0121_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="68">
+            <title>El calendario a lo "Pirelli" de Putin</title>
+            <link>http://www.clarin.com/mundo/calendario-Pirelli-Putin_0_1671432897.html</link>
+            <description>Un calendario para el año 2017 con fotos del presidente ruso muestra su lado más sensible junto
+                a la imagen de líder duro, sin olvidar una visión patriótica de Rusia.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/calendario-Pirelli-Putin_0_1671432897.html</guid>
+
+            <pubDate>Wed, 19 Oct 2016 11:55:04 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Putin-calendario-fotografias-presidente-acompanadas_CLAIMA20161019_0115_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="67">
+            <title>El brutal momento en que un furgón policial atropella a manifestantes en Filipinas</title>
+            <link>http://www.clarin.com/mundo/momento-policial-atropella-manifestantes-Filipinas_0_1671432891.html
+            </link>
+            <description>El vehículo arrolló varias veces a un grupo de estudiantes que protestaban frente a la embajada
+                de EE.UU, en Manila.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/momento-policial-atropella-manifestantes-Filipinas_0_1671432891.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 11:41:07 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/manifestante-violenta-represion-Manila-AP_CLAIMA20161019_0099_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="66">
+            <title>¿Qué pasa ahora dentro de Mosul?</title>
+            <link>http://www.clarin.com/mundo/pasa-ahora-dentro-Mosul_0_1671432876.html</link>
+            <description>Muros de cemento, trincheras, túneles y explosivos trampa esperan a las fuerzas de la
+                coalición. Los yihadistas apenas se dejan ver en la ciudad, donde la vida se ha detenido.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/pasa-ahora-dentro-Mosul_0_1671432876.html</guid>
+
+            <pubDate>Wed, 19 Oct 2016 10:29:02 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Miembros-Fuerzas-Hamdaniya-ISIS-EFE_CLAIMA20161019_0071_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="65">
+            <title>Postergan elecciones en Venezuela en medio de la tensión por el referéndum</title>
+            <link>http://www.clarin.com/mundo/Postergan-elecciones-Venezuela-tension-referendum_0_1671432861.html</link>
+            <description>Son comicios para gobernador y municipales. Debían celebrarse a fin de año. Fueron aplazadas
+                hasta mediados de 2017. El gobierno no explicó razones.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Postergan-elecciones-Venezuela-tension-referendum_0_1671432861.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 09:19:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Nacional-Electoral-CNE-Venezuela-EFE_CLAIMA20161019_0032_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="64">
+            <title>Hay 6.000 milicianos del ISIS atrincherados en Mosul</title>
+            <link>http://www.clarin.com/mundo/milicianos-ISIS-atrincherados-Mosul_0_1671432860.html</link>
+            <description>Así lo estimó hoy un alto comandante iraquí, quien hizo un llamado para que se rindan. La ONU
+                cree que unas 200.000 personas podrían verse obligadas a huir en las primeras semanas tras el inicio de
+                la ofensiva.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/milicianos-ISIS-atrincherados-Mosul_0_1671432860.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 09:12:46 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/inspecciona-ISIS-Mosul-Irak-REUTERS_CLAIMA20161019_0031_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="63">
+            <title>Debate entre Donald Trump y Hillary Clinton: horarios, TV y transmisión en Internet</title>
+            <link>http://www.clarin.com/mundo/Donald-Hillary-Clinton-TV-Internet_0_1670833053.html</link>
+            <description>El candidato republicano y la candidata demócrata chocarán por tercera vez antes de las
+                elecciones presidenciales del 8 de noviembre
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Donald-Hillary-Clinton-TV-Internet_0_1670833053.html
+            </guid>
+
+            <pubDate>Wed, 19 Oct 2016 08:31:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Donald-Hillary-Clinton-Daniel-AckerBloomberg_CLAIMA20161018_0300_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="62">
+            <title>El ISIS resiste: utiliza “chicos-bomba” y civiles como escudos humanos en Mosul</title>
+            <link>http://www.clarin.com/mundo/ISIS-resiste-chicos-bomba-humanos-Mosul_0_1670833046.html</link>
+            <description>Es la estrategia con la que el grupo terrorista busca frenar la ofensiva aliada en su bastión
+                de Irak. “Será una batalla difícil”, dijo Obama.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/ISIS-resiste-chicos-bomba-humanos-Mosul_0_1670833046.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 19:47:07 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Milicianos-Mosul-Integran-Unidos-AP_CLAIMA20161018_0288_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="61">
+            <title>Lula denuncia que es víctima de un "acoso judicial"</title>
+            <link>http://www.clarin.com/mundo/Lula-denuncia-victima-acoso-judicial_0_1670833040.html</link>
+            <description>En medio de rumores sobre su supuesta detención, el ex presidente denunció, en un artículo en
+                Folha de Sao Paulo, que es objeto de "falsas acusaciones".
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Lula-denuncia-victima-acoso-judicial_0_1670833040.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 19:09:03 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Respuesta-Lula-Silva-acusaciones-AFP_CLAIMA20161018_0277_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="60">
+            <title>Obama, duro con Trump: “Irresponsable y llorón”</title>
+            <link>http://www.clarin.com/mundo/Obama-duro-Trump-Irresponsable-lloron_0_1670833038.html</link>
+            <description>El presidente de EE.UU. cargó contra el aspirante republicano, quien insiste con la teoría del
+                fraude en su contra. “Entonces, no tiene lo que hay tener para hacer este trabajo”, agregó.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Obama-duro-Trump-Irresponsable-lloron_0_1670833038.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 19:03:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Barack-Blanca-Italia-Matteo-AP_CLAIMA20161018_0276_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="59">
+            <title>El PSOE, más cerca de apoyar un gobierno en minoría de Rajoy</title>
+            <link>http://www.clarin.com/mundo/PSOE-apoyar-gobierno-minoria-Rajoy_0_1670833034.html</link>
+            <description>Será el domingo próximo. Hay una división entre sus diputados sobre cómo será ese respaldo al
+                líder conservador.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/PSOE-apoyar-gobierno-minoria-Rajoy_0_1670833034.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 18:28:53 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Discusion-posibilidad-Mariano-Rajoy-DPA_CLAIMA20161018_0268_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="58">
+            <title>Europa teme un regreso de yihadistas</title>
+            <link>http://www.clarin.com/mundo/Europa-teme-regreso-yihadistas_0_1670833031.html</link>
+            <description>Miles de jóvenes europeos fueron en los últimos años hasta Siria e Irak para unirse al ISIS. Y
+                ahora podrían regresar.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Europa-teme-regreso-yihadistas_0_1670833031.html</guid>
+
+            <pubDate>Tue, 18 Oct 2016 18:08:54 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Humo-alrededores-Mosul-bombardeos-AP_CLAIMA20161018_0267_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="57">
+            <title>Hillary y Trump, cara a cara mañana en el tercer debate</title>
+            <link>http://www.clarin.com/mundo/Hillary-Trump-manana-tercer-debate_0_1670833030.html</link>
+            <description>La candidata demócrata y el postulante republicano se enfrentarán por última vez. Será a las 22
+                (hora argentina) en la Universidad de Nevada, en Las Vegas.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Hillary-Trump-manana-tercer-debate_0_1670833030.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 18:05:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Escenario-Imagen-Thomas-Universidad-AFP_CLAIMA20161018_0266_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="56">
+            <title>Barack Obama condena la denuncia "sin precedentes" de Donald Trump sobre elecciones "amañadas"
+            </title>
+            <link>http://www.clarin.com/mundo/Barack-Obama-precedentes-Donald-Trump_0_1670832991.html</link>
+            <description>Dijo que nunca había visto en la historia política moderna a un candidato "tratando de
+                desacreditar" un comicio antes de que ocurra.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Barack-Obama-precedentes-Donald-Trump_0_1670832991.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 14:25:12 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Barack-Obama-Matteo-Renzi-AFP_CLAIMA20161018_0192_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="55">
+            <title>Una casa de apuestas ya paga por la victoria de Hillary Clinton: "está hecha"</title>
+            <link>http://www.clarin.com/mundo/apuestas-victoria-Hillary-Clinton-hecha_0_1670832989.html</link>
+            <description>Es la casa irlandesa Paddy Power. Con Obama hizo lo mismo y acertó. </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/apuestas-victoria-Hillary-Clinton-hecha_0_1670832989.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 14:11:47 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Hillary-Clinton-Westchester-County-AFP_CLAIMA20161018_0177_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="54">
+            <title>Las niñas de Chibok que quieren quedarse con sus captores de Boko Haram</title>
+            <link>http://www.clarin.com/mundo/Chibok-quedarse-captores-Boko-Haram_0_1670832979.html</link>
+            <description>Las autoridades buscan su liberación. Fueron raptadas hace dos años. Pero unas cien parecen
+                poco dispuestas a regresar. Mirá por qué.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Chibok-quedarse-captores-Boko-Haram_0_1670832979.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:56:17 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Familiares-Chiobk-Boko-Haram-AP_CLAIMA20161018_0156_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="53">
+            <title>En las islas griegas, los refugiados también quieren ir a la escuela</title>
+            <link>http://www.clarin.com/mundo/islas-griegas-refugiados-quieren-escuela_0_1670832976.html</link>
+            <description>Un pequeño grupo de niños de los campamentos de la isla de Quíos tienen la suerte de acudir a
+                una especie de escuela montada en un antiguo restaurante del puerto. Hay miles que se quedan afuera y la
+                educación en una de las tantas cosas que perdieron.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/islas-griegas-refugiados-quieren-escuela_0_1670832976.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:44:43 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Roza-espalda-comenzar-Quios-AFP_CLAIMA20161018_0151_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="52">
+            <title>Venezuela: la oposición afirma que no acatará el fallo de la Corte</title>
+            <link>http://www.clarin.com/mundo/Venezuela-oposicion-afirma-acatara-Corte_0_1670832970.html</link>
+            <description>Denunciaron las nuevas trabas para el referéndum impuestas por el Tribunal Superior.
+                Aseguran que el gobierno busca desalentar a la población.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Venezuela-oposicion-afirma-acatara-Corte_0_1670832970.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:27:31 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Venezuela-Nicolas-Maduro-Rodriguez-EFE_CLAIMA20161018_0123_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="51">
+            <title>Donald Trump, descontrolado en Twitter</title>
+            <link>http://www.clarin.com/mundo/Donald-Trump-descontrolado-Twitter_0_1670832963.html</link>
+            <description>El candidato redobla sus ataques a Hillary Cllinton, mientras la demócrata busca afianzar su
+                posición y se prepara para el debate de mañana.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Donald-Trump-descontrolado-Twitter_0_1670832963.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 12:02:31 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Souvenires-campana-AP_CLAIMA20161018_0107_28.jpg" length="0"
+                       type="image/jpg"/>
+        </item>
+
+        <item id="50">
+            <title>Melania defiende a Trump: "Mi marido es bueno, es un caballero”</title>
+            <link>http://www.clarin.com/mundo/Melania-defiende-Trump-marido-caballero_0_1670832959.html</link>
+            <description>La esposa del candidato republicano dijo que "todo fue organizado y puesto para lastimarlo”.
+                Aunque aseguró “que el lenguaje que utilizó es inadecuado".
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Melania-defiende-Trump-marido-caballero_0_1670832959.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 11:51:22 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Melania-Hillary-Clinton-University-AP_CLAIMA20161013_0044_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="49">
+            <title>Así ejecutan a un juez mexicano en plena calle</title>
+            <link>http://www.clarin.com/mundo/ejecutan-juez-mexicano-plena-calle_0_1670832948.html</link>
+            <description>Es Vicente Bermúdez Zacarías, asesinado de un balazo en la nuca. Había tratado varias causas
+                del narcotráfico, entre ellas la extradición del Chapo. Mirá el video.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/ejecutan-juez-mexicano-plena-calle_0_1670832948.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 11:26:29 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/ejecutan-juez-mexicano-plena-calle_CLAIMA20161018_0081_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="48">
+            <title>Torturas y ejecuciones tras huir del ISIS</title>
+            <link>http://www.clarin.com/mundo/Torturas-ejecuciones-huir-ISIS_0_1670832943.html</link>
+            <description>Miles de civiles iraquíes que se escaparon del grupo terrorista fueron torturados, detenidos
+                arbitrariamente y ejecutados por grupos paramilitares y fuerzas gubernamentales, denunció Amnistía
+                Internacional.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Torturas-ejecuciones-huir-ISIS_0_1670832943.html</guid>
+
+            <pubDate>Tue, 18 Oct 2016 11:00:58 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Soldados-musulmanes-ISIS-Irak-REUTERS_CLAIMA20161018_0071_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="47">
+            <title>La batalla de Mosul contra el ISIS hace temer una crisis humanitaria sin precedentes</title>
+            <link>http://www.clarin.com/mundo/batalla-Mosul-ISIS-humanitaria-precedentes_0_1670832941.html</link>
+            <description>Cientos de miles de civiles corren el riesgo de terminar a la deriva con el invierno en
+                ciernes, en la línea del frente o como escudos humanos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/batalla-Mosul-ISIS-humanitaria-precedentes_0_1670832941.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 10:55:32 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/refugiados-familias-iraquies-Mosul-AFP_CLAIMA20161018_0067_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="46">
+            <title>Ofertas para que la esposa de Al Assad huya de Siria</title>
+            <link>http://www.clarin.com/mundo/Ofertas-esposa-Assad-huya-Siria_0_1670832928.html</link>
+            <description>Asma Al Assad contó a la TV rusa que varias veces le ofrecieron abandonar el país. "Nunca pensé
+                en estar en otro lugar", dijo.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Ofertas-esposa-Assad-huya-Siria_0_1670832928.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 09:53:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Imagen-Asma-Assad-presidente-AFP_CLAIMA20161018_0036_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="45">
+            <title>La Corte asesta un nuevo golpe a los intentos de convocar un referéndum contra Maduro</title>
+            <link>http://www.clarin.com/mundo/Corte-intentos-convocar-referendum-Maduro_0_1670832921.html</link>
+            <description>Falló que la oposición debe conseguir 20% de firmas de votantes registrados en cada uno de los
+                24 estados del país, en vez de a nivel nacional.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Corte-intentos-convocar-referendum-Maduro_0_1670832921.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 09:21:17 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Presidente-Venezuela-Nicolas-Maduro-AP_CLAIMA20161018_0023_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="44">
+            <title>Rusia y Siria detienen los bombardeos en Aleppo en un “gesto de buena voluntad”</title>
+            <link>http://www.clarin.com/mundo/Rusia-Siria-detienen-bombardeos-Aleppo_0_1670832919.html</link>
+            <description>El objetivo de facilitar los preparativos para la tregua de ocho horas que comenzará este
+                jueves para procurar la salida de civiles por corredores humanitarios. También esperan que se aparten de
+                la ciudad los rebeldes “moderados”.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Rusia-Siria-detienen-bombardeos-Aleppo_0_1670832919.html
+            </guid>
+
+            <pubDate>Tue, 18 Oct 2016 09:14:19 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Escombros-bombardeo-Aleppo-REUTERS_CLAIMA20161018_0021_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="43">
+            <title>La otra foto de Macri con el Papa Francisco que nadie vio</title>
+            <link>http://www.clarin.com/mundo/foto-Macri-Papa-Francisco-nadie_0_1670233140.html</link>
+            <description>El Sumo Pontífice saludó al presidente en la basílica de San Pedro, en el marco de la visita
+                por la canonización del Cura Brochero.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/foto-Macri-Papa-Francisco-nadie_0_1670233140.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 22:18:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Papa-Francisco-Mauricio-Macri-Pedro_CLAIMA20161017_0331_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="42">
+            <title>Seis claves para comprender la importancia de la ofensiva</title>
+            <link>http://www.clarin.com/mundo/claves-comprender-importancia-ofensiva_0_1670233134.html</link>
+            <description>Mosul es el bastión del ISIS en Irak. Desde esa ciudad, los yihadistas controlaron todo ese
+                país desde 2014.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/claves-comprender-importancia-ofensiva_0_1670233134.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:41:17 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="41">
+            <title>Lanzan la batalla decisiva contra el ISIS en Irak</title>
+            <link>http://www.clarin.com/mundo/Lanzan-batalla-decisiva-ISIS-Irak_0_1670233129.html</link>
+            <description>Al menos 40.000 soldados iraquíes y milicianos kurdos iniciaron el asalto final a la ciudad de
+                Mosul, bastión yihadista. La ONU, preocupada por los civiles que huyen de la guerra.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Lanzan-batalla-decisiva-ISIS-Irak_0_1670233129.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 21:34:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Combates-Milicianos-disparan-Mosul-AFP_CLAIMA20161017_0323_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="40">
+            <title>Un 41% cree que a Trump le pueden hacer fraude</title>
+            <link>http://www.clarin.com/mundo/cree-Trump-pueden-hacer-fraude_0_1670233096.html</link>
+            <description>Lo afirma un sondeo del sitio Político, en línea con lo que denuncia el magnate republicano en
+                los últimos días.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/cree-Trump-pueden-hacer-fraude_0_1670233096.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 19:20:31 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Trump-degrada-mujeres-Nueva-York_CLAIMA20161017_0267_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="39">
+            <title>La economía, sin síntomas de recuperación en el corto plazo</title>
+            <link>http://www.clarin.com/mundo/economia-sintomas-recuperacion-corto-plazo_0_1670233095.html</link>
+            <description>Para el Banco Central, la industria caerá este año 6%. Y la recaudación bajó un 7,3% en
+                septiembre.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/economia-sintomas-recuperacion-corto-plazo_0_1670233095.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 19:07:42 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Saludo-Michel-Temer-BRICS-DPA_CLAIMA20161017_0266_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+        <item id="38">
+            <title>Motín y guerra entre narcos en dos cárceles de Brasil: al menos 33 muertos</title>
+            <link>http://www.clarin.com/mundo/Motin-narcos-carceles-Brasil-muertos_0_1670233094.html</link>
+            <description>Bandas rivales se enfrentaron en los penales de los estados norteños de Roraima y Rondonia. En
+                el primer caso, algunas de las 25 víctimas fueron degolladas y quemadas vivas. En la segunda prisión,
+                murieron asfixiadas.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Motin-narcos-carceles-Brasil-muertos_0_1670233094.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 19:03:15 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Angustia-Boa-Vista-Roraima-AFP_CLAIMA20161017_0265_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="37">
+            <title>El duelo tiñe a Tailandia de negro</title>
+            <link>http://www.clarin.com/mundo/duelo-tine-Tailandia-negro_0_1670233057.html</link>
+            <description>El fallecimiento de Bhumibol Adulyadej disparó la venta de ropa de ese color. Los más pobres
+                tiñen sus prendas para no comprar vestidos nuevos.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/duelo-tine-Tailandia-negro_0_1670233057.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 14:40:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Decenas-personas-Bangkok-Tailandia-EFE_CLAIMA20161017_0191_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="36">
+            <title>Así castigan en Indonesia a las parejas por "acercarse demasiado"</title>
+            <link>http://www.clarin.com/mundo/castigan-Indonesia-parejas-acercarse-demasiado_0_1670233052.html</link>
+            <description>En la localidad de Banda Aceh, seis mujeres y seis hombres fueron azotados con cañas por
+                infringir la rígida ley islámica, sharia. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/castigan-Indonesia-parejas-acercarse-demasiado_0_1670233052.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 13:52:57 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/azotada-demasiado-cerca-novio-AFP_CLAIMA20161017_0163_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="35">
+            <title>El caos hace que muchos libios añoren a Khadafi</title>
+            <link>http://www.clarin.com/mundo/caos-hace-libios-anoren-Khadafi_0_1670233034.html</link>
+            <description> A cinco años de su derrocamiento y muerte, el país sufre inseguridad y penuria. En el ámbito
+                político, está dividido por dos autoridades rivales que se disputan el poder.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/caos-hace-libios-anoren-Khadafi_0_1670233034.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 12:49:43 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Foto-archivo-Muamar-Khadafi-EFE_CLAIMA20161017_0122_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="34">
+            <title>Donald Trump estalla por la imitación de Alec Baldwin: "¡Apesta!"</title>
+            <link>http://www.clarin.com/mundo/Donald-Trump-Alec-Baldwin-Apesta_0_1670233033.html</link>
+            <description>Cargó contra "Saturday Night Live", el show en el que el actor viene parodiando al candidato
+                republicano. Mirá el video.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Donald-Trump-Alec-Baldwin-Apesta_0_1670233033.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 12:45:29 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Saturday-McKinnon-Hillary-Clinton-AP_CLAIMA20161017_0119_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="33">
+            <title>Las estudiantes liberadas por Boko Haram cuentan su cautiverio</title>
+            <link>http://www.clarin.com/mundo/estudiantes-liberadas-Boko-Haram-cautiverio_0_1670233025.html</link>
+            <description>Las 21 jóvenes de Chibok relataron la difícil situación mientras estuvieron secuestradas por el
+                grupo terrorista desde abril de 2014.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/estudiantes-liberadas-Boko-Haram-cautiverio_0_1670233025.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 12:22:44 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Chibok-Boko-Haram-Abuya-AP_CLAIMA20161017_0109_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="32">
+            <title>Austria demolerá la casa natal de Adolf Hitler</title>
+            <link>http://www.clarin.com/mundo/Austria-demolera-natal-Adolf-Hitler_0_1670233024.html</link>
+            <description>En el lugar de la casona de dos pisos en Braunau se construirá un nuevo edificio. 
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Austria-demolera-natal-Adolf-Hitler_0_1670233024.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 12:10:23 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Adolf-Hitler-Braunau-Austria-AP_CLAIMA20161017_0105_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="31">
+            <title>El local de McDonald's que divide a la Iglesia</title>
+            <link>http://www.clarin.com/mundo/local-McDonalds-divide-Iglesia_0_1670233020.html</link>
+            <description>Mirá por qué la apertura de un restaurante de la cadena de comida rápida junto al Vaticano crea
+                controversia.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/local-McDonalds-divide-Iglesia_0_1670233020.html</guid>
+
+            <pubDate>Mon, 17 Oct 2016 11:52:36 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/local-McDonalds-divide-iglesia-AFP_CLAIMA20161017_0094_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="30">
+            <title>Los bombardeos en Aleppo siguen matando chicos</title>
+            <link>http://www.clarin.com/mundo/bombardeo-Aleppo-siguen-matando-chicos_0_1670233007.html</link>
+            <description>Al menos catorce civiles murieron hoy en los ataques aéreos rusos y del régimen. Cinco de las
+                víctimas eran niños, entre ellos una bebé de un mes y medio.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/bombardeo-Aleppo-siguen-matando-chicos_0_1670233007.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 11:10:10 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Rescatistas-Cascos-Blancos-Aleppo-AP_CLAIMA20161017_0069_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="29">
+            <title>El vice de Trump se aleja de los comentarios del magnate</title>
+            <link>http://www.clarin.com/mundo/vice-Trump-aleja-comentarios-magnate_0_1670233005.html</link>
+            <description>Mike Pence se distanció de las polémicas declaraciones del candidato de que las elecciones
+                están “arregladas”. Y dijo que los dichos de su compañero reflejan su frustración por “la parcialidad
+                evidente en los medios nacionales”.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/vice-Trump-aleja-comentarios-magnate_0_1670233005.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 11:04:34 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/vicepresidente-Trump-Mike-Pence-AFP_CLAIMA20161017_0067_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="28">
+            <title>Tras atacar a la campaña de Hillary Clinton, le cortan la conexión de internet a Julian Assange
+            </title>
+            <link>http://www.clarin.com/mundo/Hillary-Clinton-conexion-Julian-Assange_0_1670233002.html</link>
+            <description>Lo informó WikiLeaks. Y culpó a un ente estatal que no identificó. Ocurre tras la difusión en
+                la web de "secretos" de la candidata demócrata.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Hillary-Clinton-conexion-Julian-Assange_0_1670233002.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 10:49:50 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/WikiLeaks-Assange-Ecuador-Londres-AFP_CLAIMA20161017_0063_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="27">
+            <title>Las claves para entender la ofensiva final contra el ISIS en Mosul</title>
+            <link>http://www.clarin.com/mundo/claves-entender-ofensiva-ISIS-Mosul_0_1670232992.html</link>
+            <description>La operación para despejar el ahora bastión de los yihadistas podría durar semanas.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/claves-entender-ofensiva-ISIS-Mosul_0_1670232992.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 09:57:08 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Tropas-Mosul-Laoperacion-yihadistas-AFP_CLAIMA20161017_0058_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="26">
+            <title>La batalla final contra el ISIS en Mosul ya comenzó y podría durar semanas</title>
+            <link>http://www.clarin.com/mundo/batalla-ISIS-Mosul-comenzo-semanas_0_1670232985.html</link>
+            <description>EE.UU. bombardea desde el aire, y fuerzas kurdas y el ejército iraquí, con apoyo terrestre
+                norteamericano, avanzan por el este. La batalla será larga. 
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/batalla-ISIS-Mosul-comenzo-semanas_0_1670232985.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 09:36:28 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Columnas-levantan-Mosul-ISIS-Reuters_CLAIMA20161017_0042_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="25">
+            <title>Bomba molotov e incendio en una oficina de Donald Trump en Carolina del Norte</title>
+            <link>http://www.clarin.com/mundo/Bomba-Donald-Trump-Carolina-Norte_0_1670232982.html</link>
+            <description>Es un local del Partido Republicano. Los atacantes dejaron el mensaje "republicanos nazis
+                váyanse de la ciudad o habrá medidas''. Respuesta de Trump.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Bomba-Donald-Trump-Carolina-Norte_0_1670232982.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 09:11:51 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Incendio-Partido-Republicano-Carolina-AP_CLAIMA20161017_0033_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="24">
+            <title>Una guerra entre presos desata un sangriento motín en una cárcel de Brasil: 25 muertos</title>
+            <link>http://www.clarin.com/mundo/presos-sangriento-carcel-Brasil-muertos_0_1670232979.html</link>
+            <description>Bandas rivales se enfrentaron en la cárcel de Boa Vista, en el estado de Roraima. Siete de las
+                víctimas fueron decapitadas y otras seis quemadas vivas, mientras que un centenar de familiares fueron
+                tomados de rehenes.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/presos-sangriento-carcel-Brasil-muertos_0_1670232979.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 08:58:48 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Boa-Vista-Roraima-Brasil-REUTER_CLAIMA20161017_0026_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+        <item id="23">
+            <title>Explosión en Alemania: varias personas desaparecidas</title>
+            <link>http://www.clarin.com/mundo/Explosion-Alemania-varias-personas-desaparecidas_0_1670232975.html</link>
+            <description>Ocurrió en una planta del grupo químico BASF, durante unas obras en el sistema de tuberías. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Explosion-Alemania-varias-personas-desaparecidas_0_1670232975.html
+            </guid>
+
+            <pubDate>Mon, 17 Oct 2016 08:52:32 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Bomberos-explosion-BASF-Alemania-Reuters_CLAIMA20161017_0021_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="22">
+            <title>Irak lanza el asalto al bastión del ISIS en Mosul</title>
+            <link>http://www.clarin.com/mundo/Irak-asalto-bastion-ISIS-Mosul_0_1669633163.html</link>
+            <description>Lo anunció esta noche el gobierno de Bagdad. Es la ofensiva contra el gran bastión del grupo
+                terrorista en ese país.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Irak-asalto-bastion-ISIS-Mosul_0_1669633163.html</guid>
+
+            <pubDate>Sun, 16 Oct 2016 21:05:20 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/yihadista-ISIS-bandera-Mosul-Reuters_CLAIMA20161016_0194_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="21">
+            <title>Crece entre los republicanos el temor por una derrota de Trump</title>
+            <link>http://www.clarin.com/mundo/Crece-republicanos-temor-derrota-Trump_0_1669633146.html</link>
+            <description>Grupos de activistas hacen campaña por senadores en 4 estados de peso sin nombrar al candidato.
+                Varios estrategas dan por perdida la pelea por la presidencia.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Crece-republicanos-temor-derrota-Trump_0_1669633146.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 19:46:00 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Denuncia-Donald-Trump-EEUU-AP_CLAIMA20161016_0171_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="20">
+            <title>Hillary consolida su ventaja en varios sondeos nacionales</title>
+            <link>http://www.clarin.com/mundo/Hillary-consolida-ventaja-sondeos-nacionales_0_1669633142.html</link>
+            <description>Fueron hechos tras las denuncias contra  Donald Trump por acoso sexual. El predominio de la
+                demócrata oscila entre 11 y 4 puntos.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Hillary-consolida-ventaja-sondeos-nacionales_0_1669633142.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 19:36:32 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Campana-Hillary-Clinton-Seattle-AP_CLAIMA20161016_0169_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="19">
+            <title>Gran Bretaña y EE.UU. analizan nuevas sanciones a Rusia y Siria</title>
+            <link>http://www.clarin.com/mundo/Gran-Bretana-EEUU-Rusia-Siria_0_1669633138.html</link>
+            <description>Intentarán negociar un alto al fuego entre todas las partes y reanudar las conversaciones. Pero
+                si no hay acuerdo, se endurecerán.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Gran-Bretana-EEUU-Rusia-Siria_0_1669633138.html</guid>
+
+            <pubDate>Sun, 16 Oct 2016 18:46:22 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Disparo-rebelde-cercania-Aleppo-Reuters_CLAIMA20161016_0156_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="18">
+            <title>Europa advierte a Londres que no tendrá privilegios</title>
+            <link>http://www.clarin.com/mundo/Europa-advierte-Londres-privilegios_0_1669633132.html</link>
+            <description>La Unión Europea no está dispuesta a que el gobierno británico pueda elegir quedarse con los
+                derechos que otorga la participación en el bloque.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Europa-advierte-Londres-privilegios_0_1669633132.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 18:01:32 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Theresa-Consejo-Europeo-Donald-EFE_CLAIMA20161016_0145_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="17">
+            <title>Otra marcha en Chile contra las jubilaciones privadas</title>
+            <link>http://www.clarin.com/mundo/marcha-Chile-jubilaciones-privadas_0_1669633128.html</link>
+            <description>El sistema lo implementó Pinochet. Los chilenos se quejan de las altas comisiones y las bajas
+                pensiones que reciben.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/marcha-Chile-jubilaciones-privadas_0_1669633128.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 17:03:24 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Santiago-dictadura-Augusto-Pinochet-EFE_CLAIMA20161016_0132_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="16">
+            <title>Una nota sobre el Brexit pone en problemas al canciller británico</title>
+            <link>http://www.clarin.com/mundo/Brexit-pone-problemas-canciller-britanico_0_1669633124.html</link>
+            <description>Boris Johnson, dos dias antes de convertirse en líder del Brexit, defendió en una nota la
+                conveniencia de quedarse en la UE. Lo reveló un libro. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Brexit-pone-problemas-canciller-britanico_0_1669633124.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 16:29:02 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Boris-Johnson-Siria-Londres-AFP_CLAIMA20161016_0119_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="15">
+            <title>Donald Trump sobre Lindsay Lohan: "Las mujeres problemáticas son las mejores en la cama”</title>
+            <link>http://www.clarin.com/mundo/Donald-Trump-Lindsay-Lohan-problematicas_0_1669633104.html</link>
+            <description>La CNN publicó una entrevista de 2004 donde el  candidato republicano se refirió sobre la vida
+                sexual de la actriz. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Donald-Trump-Lindsay-Lohan-problematicas_0_1669633104.html
+            </guid>
+
+            <pubDate>Sun, 16 Oct 2016 12:32:01 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Donald-Trump-opinio-Lindsay-Lohan_CLAIMA20161016_0088_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="14">
+            <title>Los desacuerdos entre EE.UU. y Rusia impiden alcanzar una solución en el conflicto sirio</title>
+            <link>http://www.clarin.com/mundo/desacuerdos-EEUU-Rusia-solucion-conflicto_0_1669033179.html</link>
+            <description>Ambas potencias, junto a otros 7 países, mantuvieron un tenso debate sobre la salida política
+                al conflicto.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/desacuerdos-EEUU-Rusia-solucion-conflicto_0_1669033179.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 20:05:13 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Negociaciones-cancilleres-involucrados-Siria-AP_CLAIMA20161015_0228_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+        <item id="13">
+            <title>Trump insinúa que Hillary se droga</title>
+            <link>http://www.clarin.com/mundo/Trump-insinua-Hillary-droga_0_1669033170.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Trump-insinua-Hillary-droga_0_1669033170.html</guid>
+
+            <pubDate>Sat, 15 Oct 2016 19:43:45 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Hillary-Clinton-Donald-Trump-AfP_CLAIMA20161015_0216_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="12">
+            <title>Fuertes rumores de un inminente arresto de Lula</title>
+            <link>http://www.clarin.com/mundo/Fuertes-rumores-inminente-arresto-Lula_0_1669033159.html</link>
+            <description>Lo arrestarían el lunes y sería trasladado a Curitiba, a disposición de juez del Lava Jato
+                Sergio Moro.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Fuertes-rumores-inminente-arresto-Lula_0_1669033159.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 18:18:55 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/PT-Inacio-Lula-Silva-AFP_CLAIMA20161015_0193_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+        <item id="11">
+            <title>Parecidos y diferencias entre dos magnates atrevidos</title>
+            <link>http://www.clarin.com/mundo/Parecidos-diferencias-magnates-atrevidos_0_1669033169.html</link>
+            <description/>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Parecidos-diferencias-magnates-atrevidos_0_1669033169.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 19:40:31 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+        <item id="10">
+            <title>Trump enfoca contra los medios el último tramo de la campaña</title>
+            <link>http://www.clarin.com/mundo/Trump-enfoca-medios-ultimo-campana_0_1669033166.html</link>
+            <description>Dice que envenenan la mente de los votantes. Es por los testimonios de mujeres que fueron
+                maltratadas y acosadas por el magnate. También cuestionó al mexicano Slim dueño de una parte de The New
+                York Times.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Trump-enfoca-medios-ultimo-campana_0_1669033166.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 19:37:06 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Donald-Trump-New-Hampshire-AFP_CLAIMA20161015_0211_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+
+        <item id="9">
+            <title>Michel Temer no descarta ser candidato a la presidencia en 2018</title>
+            <link>http://www.clarin.com/mundo/Michel-Temer-descarta-candidato-presidencia_0_1669033154.html</link>
+            <description>Lo sugirió pero no lo dijo durante un encuentro con periodistas. No hizo tampoco falta. El jefe
+                de Estado había negado esa alternativa, pero ahora deja abierta la puerta.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Michel-Temer-descarta-candidato-presidencia_0_1669033154.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 17:55:33 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Michel-Temer-Marcela-India-AFP_CLAIMA20161015_0185_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="8">
+            <title>España lleva 300 días sin gobierno y busca evitar una tercera elección</title>
+            <link>http://www.clarin.com/mundo/Espana-gobierno-evitar-tercera-eleccion_0_1669033153.html</link>
+            <description>El 31 de octubre vence el plazo para formar un nuevo Ejecutivo. Si no se logra, habrá que
+                llamar a nuevos comicios.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Espana-gobierno-evitar-tercera-eleccion_0_1669033153.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 17:53:48 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Papeles-Felipe-VI-Mariano-EFE_CLAIMA20161015_0184_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="7">
+            <title>Por e-mail, Hillary recibe una dosis diaria de fe</title>
+            <link>http://www.clarin.com/mundo/e-mail-Hillary-recibe-dosis-diaria_0_1669033139.html</link>
+            <description>El pastor metodista de la familia le envía todos los días un correo electrónico con una cita de
+                la Biblia y una oración.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/e-mail-Hillary-recibe-dosis-diaria_0_1669033139.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 14:54:17 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Saludo-Hillary-Clinton-Seattle-AFP_CLAIMA20161015_0142_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="6">
+            <title>La increíble charla de Pepe Mujica: políticos millonarios, marihuana y sus consejos para vivir
+            </title>
+            <link>http://www.clarin.com/mundo/Pepe-Mujica-guste-sacarlo-politica_0_1669033122.html</link>
+            <description>El ex presidente uruguayo habló en la Sociedad Interamericana de Prensa (SIP) y cautivó a todos
+                con el relato de su vida. Criticó a los que hacen política para hacerse millonarios. Video.
+            </description>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Pepe-Mujica-guste-sacarlo-politica_0_1669033122.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 14:06:59 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Pepe-Mujica-hablo-SIP-EFE_CLAIMA20161015_0095_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="5">
+            <title>Más de 170 países firman un acuerdo clave contra el cambio climático</title>
+            <link>http://www.clarin.com/mundo/paises-firman-acuerdo-cambio-climatico_0_1669033125.html</link>
+            <description>Se comprometieron a avanzar en la prohibición de una serie de gases que empeoran el efecto
+                invernadero. Satisfacción de Obama.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/paises-firman-acuerdo-cambio-climatico_0_1669033125.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 12:57:37 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/Saludo-Kerry-Ruanda-Kagame-REUTERS_CLAIMA20161015_0105_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="4">
+            <title>El ex presidente uruguayo Jorge Batlle, en estado crítico</title>
+            <link>http://www.clarin.com/mundo/presidente-uruguayo-Jorge-Batlle-critico_0_1669033119.html</link>
+            <description>Sufrió un fuerte golpe en la cabeza al caerse en su casa, que le provocó un coágulo
+                intracraneal. Tiene 88 años.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/presidente-uruguayo-Jorge-Batlle-critico_0_1669033119.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 12:21:58 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure url="http://images.clarin.com/mundo/Ex-presidente-Jorge-Battle-EFE_CLAIMA20161015_0086_28.jpg"
+                       length="0" type="image/jpg"/>
+        </item>
+
+        <item id="3">
+            <title>Trump acusa a Hillary y a los medios de "envenenar" las mentes de los votantes</title>
+            <link>http://www.clarin.com/mundo/Trump-Hillary-envenenar-mentes-votantes_0_1669033113.html</link>
+            <description>El candidato republicano reiteró que son "mentiras" las acusaciones contra él sobre abusos a
+                mujeres. 
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/Trump-Hillary-envenenar-mentes-votantes_0_1669033113.html
+            </guid>
+
+            <pubDate>Sat, 15 Oct 2016 11:46:08 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/republicano-Donald-Trump-acusaciones-REUTERS_CLAIMA20161015_0056_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="2">
+            <title>Entre los niños de la guerra y las trampas de la historia oficial</title>
+            <link>http://www.clarin.com/mundo/ninos-guerra-trampas-historia-oficial_0_1668433356.html</link>
+            <description>Las imágenes de los niños marcados por el horror del bombardeo en Aleppo interpelan mucho más
+                de lo que se pretende, de lo que se busca ocultar. Son víctimas de todos y quizá sean la señal de que lo
+                peor aún no ha llegado.
+            </description>
+
+            <guid isPermaLink="true">
+                http://www.clarin.com/mundo/ninos-guerra-trampas-historia-oficial_0_1668433356.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 21:15:13 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+
+            <enclosure
+                    url="http://images.clarin.com/mundo/nena-Siria-significados-horror-guerra_CLAIMA20161014_0387_28.jpg"
+                    length="0" type="image/jpg"/>
+        </item>
+
+        <item id="1">
+            <title>Abre otro proceso por corrupción contra Lula da Silva</title>
+            <link>http://www.clarin.com/mundo/Abre-proceso-corrupcion-Lula-Silva_0_1668433322.html</link>
+            <description/>
+
+            <guid isPermaLink="true">http://www.clarin.com/mundo/Abre-proceso-corrupcion-Lula-Silva_0_1668433322.html
+            </guid>
+
+            <pubDate>Fri, 14 Oct 2016 19:53:28 -0300</pubDate>
+
+            <dc:creator>Clarin.com</dc:creator>
+        </item>
+    </channel>
+</rss>
