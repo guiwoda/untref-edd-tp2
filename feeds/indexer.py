@@ -50,27 +50,27 @@ class Indexer():
                     json.dump(current_index, index_file)
 
     def add_title_to_index(self, id, title, index):
-        def reducer(carry, item):
-            (id, word) = item
-            carry.setdefault(word, {
-                'freq': 0,
-                'docs': []
-            })
+        return reduce(self.reducer, map(lambda word: (id, word), self.parse_title(title)), index)
 
-            carry[word]['freq'] += 1
-            carry[word]['docs'].append(id)
+    def reducer(self, index, item):
+        (id, word) = item
+        index.setdefault(word, {
+            'freq': 0,
+            'docs': []
+        })
 
-            return carry
+        index[word]['freq'] += 1
+        index[word]['docs'].append(id)
 
-        return reduce(reducer, map(lambda word: (id, word), self.parse_title(title)), index)
+        return index
 
     def parse_title(self, title):
-        return {
+        return [
             self.stemmer.stem(word)
             for word in word_tokenize(title, 'spanish')
             if word not in self.stopwords
             and len(word) > 3
-        }
+        ]
 
     def load_stopwords(self):
         cwd = dirname(__file__)
