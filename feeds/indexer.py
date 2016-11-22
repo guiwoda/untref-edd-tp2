@@ -53,6 +53,12 @@ class Indexer(object):
         with open('%s/stopwords.txt' % self.cwd, 'r') as file:
             return set(file.readlines())
 
+    def load_index(self):
+        self.index = Index(stopwords=self.load_stopwords(), ids=self.ids)
+        self.index.load_from(self.cwd)
+
+        return self.index
+
 
 class Index():
     BLOCK_SIZE = 10
@@ -70,6 +76,7 @@ class Index():
     aux_channels = {}
     aux_feeds_channels = {}
     aux_keys = []
+    loaded_xmls = {}
 
     def __init__(self, stopwords=None, stemmer=SpanishStemmer(), ids=None):
         self.stemmer = stemmer
@@ -189,6 +196,21 @@ class Index():
             with open(aux_path, 'r') as aux_file:
                 self.set_aux(json.load(aux_file))
 
+        path = '%s/feeds_%s' % (directory, self.AUX_FILENAME)
+        if isfile(path):
+            with open(path, 'r') as aux_file:
+                self.aux_feeds = json.load(aux_file)
+
+        path = '%s/channels_%s' % (directory, self.AUX_FILENAME)
+        if isfile(path):
+            with open(path, 'r') as aux_file:
+                self.aux_channels = json.load(aux_file)
+
+        path = '%s/channels_feeds_%s' % (directory, self.AUX_FILENAME)
+        if isfile(path):
+            with open(path, 'r') as aux_file:
+                self.aux_feeds_channels = json.load(aux_file)
+
     def save_to(self, directory):
         with open('%s/%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
             json.dump(self.aux, aux_file)
@@ -204,6 +226,19 @@ class Index():
 
         with open('%s/%s' % (directory, self.DICTIONARY_FILENAME), 'w+') as dictionary_file:
             dictionary_file.write(self.dictionary)
+
+    def boolean_search(self, phrase):
+        phrase = phrase.strip()
+
+        terms = map(lambda term: term.strip(), re.split('(and|or)', phrase))
+
+        if not terms:
+            return {}
+
+        if terms[0] == 'not':
+            term = terms[1]
+            remove = self.search(term)
+
 
     def search(self, word):
         return self.binary_search(self.stemmer.stem(word))
@@ -283,6 +318,32 @@ class Index():
 
         return words[0:limit]
 
+    def get_article_by_id(self, article_id):
+        ids = {v: k for k, v in self.ids.items()}
+        feed = article_id[0:2]
+        channel = article_id[2:4]
+        doc_id = article_id[4:]
+
+        data = self.load_xml(channel, feed, ids)
+
+        item = data.find('.//item[@id="%s"]' % doc_id)
+
+        title = item.find('./title').text.strip()
+        link = item.find('./link').text.strip()
+
+        print(link, title)
+
+        return link, title
+
+    def load_xml(self, channel, feed, ids):
+        cwd = abspath(dirname(__file__))
+        filename = "%s/%s-%s.xml" % (dirname(cwd) + '/xml', ids[feed], ids[channel])
+
+        if filename not in self.loaded_xmls:
+            with open(filename, 'r') as xml_data:
+                self.loaded_xmls[filename] = ElementTree.parse(xml_data)
+
+        return self.loaded_xmls[filename]
 
 
 if __name__ == '__main__':
