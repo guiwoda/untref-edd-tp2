@@ -39,7 +39,8 @@ class Indexer(object):
                     all_items.append((docid, title, descr))
 
         self.index = Index(
-            stopwords=self.load_stopwords()
+            stopwords=self.load_stopwords(),
+            ids=self.ids
         )
         self.index.add(all_items)
         self.index.save_to(self.cwd)
@@ -65,11 +66,15 @@ class Index():
     curr_primary_pos = 0
     dictionary = ''
     aux = {}
+    aux_feeds = {}
+    aux_channels = {}
+    aux_feeds_channels = {}
     aux_keys = []
 
-    def __init__(self, stopwords=None, stemmer=SpanishStemmer()):
+    def __init__(self, stopwords=None, stemmer=SpanishStemmer(), ids=None):
         self.stemmer = stemmer
-        self.stopwords = stopwords if stopwords is not None else set()
+        self.stopwords = stopwords if stopwords else set()
+        self.ids = ids if ids else {}
 
         self.last_word_finder = re.compile('\d+([a-z]+)$')
         self.stemming_filter = re.compile('^[a-z]+$')
@@ -82,6 +87,12 @@ class Index():
         :return: dict
         '''
         (term, section, id) = item
+        feed_id = id[0:2]
+        channel_id = id[2:4]
+        feed_channel_id = id[0:4]
+        self.aux_feeds.setdefault(feed_id, {})
+        self.aux_channels.setdefault(channel_id, {})
+        self.aux_feeds_channels.setdefault(feed_channel_id, {})
 
         last_term = self.get_last_term()
         dictionary_entry = str(len(term)) + term
@@ -98,27 +109,43 @@ class Index():
 
         key = str(self.curr_primary_pos)
 
-        # Cada palabra tendrá:
-        #    "T": [
-        #       0: title_freq
-        #       1: title_docIDs
-        #    ],
-        #    "D": [
-        #       0: descr_freq
-        #       1: descr_docIDs
-        #    ]
-        index.setdefault(key, [
+        index.setdefault(key, self.get_default_index_structure())
+        self.aux_feeds[feed_id].setdefault(key, self.get_default_index_structure())
+        self.aux_channels[channel_id].setdefault(key, self.get_default_index_structure())
+        self.aux_feeds_channels[feed_channel_id].setdefault(key, self.get_default_index_structure())
+
+        index[key][self.curr_block][section][0] += 1
+        index[key][self.curr_block][section][1].append(id)
+        self.aux_feeds[feed_id][key][self.curr_block][section][0] += 1
+        self.aux_feeds[feed_id][key][self.curr_block][section][1].append(id)
+        self.aux_channels[channel_id][key][self.curr_block][section][0] += 1
+        self.aux_channels[channel_id][key][self.curr_block][section][1].append(id)
+        self.aux_feeds_channels[feed_channel_id][key][self.curr_block][section][0] += 1
+        self.aux_feeds_channels[feed_channel_id][key][self.curr_block][section][1].append(id)
+
+        return index
+
+    def get_default_index_structure(self):
+        '''
+        Cada palabra tendrá:
+           "T": [
+              0: title_freq
+              1: title_docIDs
+           ],
+           "D": [
+              0: descr_freq
+              1: descr_docIDs
+           ]
+        :return: list
+        '''
+
+        return [
             {
                 self.TITLE_ID: [0, []],
                 self.DESCRIPTION_ID: [0, []]
             }
             for _ in range(0, self.BLOCK_SIZE)
-            ])
-
-        index[key][self.curr_block][section][0] += 1
-        index[key][self.curr_block][section][1].append(id)
-
-        return index
+        ]
 
     def map(self, all_items):
         return sorted([term_doc_pair for pairs in map(self.mapper, all_items) for term_doc_pair in pairs])
@@ -166,6 +193,15 @@ class Index():
         with open('%s/%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
             json.dump(self.aux, aux_file)
 
+        with open('%s/feeds_%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
+            json.dump(self.aux_feeds, aux_file)
+
+        with open('%s/channels_%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
+            json.dump(self.aux_channels, aux_file)
+
+        with open('%s/channels_feeds_%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
+            json.dump(self.aux_feeds_channels, aux_file)
+
         with open('%s/%s' % (directory, self.DICTIONARY_FILENAME), 'w+') as dictionary_file:
             dictionary_file.write(self.dictionary)
 
@@ -212,15 +248,25 @@ class Index():
 
         return self.dictionary[start:end], end
 
-    def ranking_title(self, n=10):
-        return self.ranking(self.TITLE_ID, n)
+    def ranking_title(self, n=10, feed=None, channel=None):
+        return self.ranking(self.TITLE_ID, n, feed, channel)
 
-    def ranking_description(self, n=10):
-        return self.ranking(self.DESCRIPTION_ID, n)
+    def ranking_description(self, n=10, feed=None, channel=None):
+        return self.ranking(self.DESCRIPTION_ID, n, feed, channel)
 
-    def ranking(self, section, limit):
-        sorted_aux = sorted(self.aux, reverse=True, key=lambda k: max(
-            self.aux[k],
+    def ranking(self, section, limit, feed, channel):
+        aux = self.aux
+
+        if feed:
+            if channel:
+                aux = self.aux_feeds_channels[self.ids[feed] + self.ids[channel]]
+            else:
+                aux = self.aux_feeds[self.ids[feed]]
+        elif channel:
+            aux = self.aux_channels[self.ids[channel]]
+
+        sorted_aux = sorted(aux, reverse=True, key=lambda k: max(
+            aux[k],
             key=lambda word_data: word_data[section][0])[section][0]
         )
 
@@ -231,7 +277,7 @@ class Index():
 
             for j in range(0, self.BLOCK_SIZE):
                 (word, end) = self.get_from_dictionary(end)
-                words.append([word] + self.aux[key][j][section])
+                words.append([word] + aux[key][j][section])
 
         words = sorted(words, reverse=True, key=lambda tpl: tpl[1])
 
