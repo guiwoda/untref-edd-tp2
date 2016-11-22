@@ -247,7 +247,7 @@ class Index():
                 right = self.single_term_search(terms[terms.index(term) + 1])
                 results = results + right
 
-        return set(results)
+        return list(set(results))
 
     def single_term_search(self, term):
         if ' ' in term:
