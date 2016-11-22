@@ -64,8 +64,8 @@ class Indexer(object):
 
 class Index():
     BLOCK_SIZE = 10
-    TITLE_ID = 'T'
-    DESCRIPTION_ID = 'D'
+    TITLE_SECTION = 'T'
+    DESCRIPTION_SECTION = 'D'
     DICTIONARY_FILENAME = 'dict.idx'
     AUX_FILENAME = 'aux.json'
 
@@ -150,8 +150,8 @@ class Index():
 
         return [
             {
-                self.TITLE_ID: [0, []],
-                self.DESCRIPTION_ID: [0, []]
+                self.TITLE_SECTION: [0, []],
+                self.DESCRIPTION_SECTION: [0, []]
             }
             for _ in range(0, self.BLOCK_SIZE)
         ]
@@ -160,14 +160,14 @@ class Index():
         return sorted([term_doc_pair for pairs in map(self.mapper, all_items) for term_doc_pair in pairs])
 
     def mapper(self, item):
-        (id, title, descr) = item
+        (docid, title, descr) = item
 
         return [
-            (word, section, id)
+            (word, section, docid)
             for (word, section) in
-                self.stem_tokenize(title, self.TITLE_ID) +
-                self.stem_tokenize(descr, self.DESCRIPTION_ID)
-        ]
+            self.stem_tokenize(title, self.TITLE_SECTION) +
+            self.stem_tokenize(descr, self.DESCRIPTION_SECTION)
+            ]
 
     def stem_tokenize(self, text, section):
         return [
@@ -287,10 +287,10 @@ class Index():
         return self.dictionary[start:end], end
 
     def ranking_title(self, n=10, feed=None, channel=None):
-        return self.ranking(self.TITLE_ID, n, feed, channel)
+        return self.ranking(self.TITLE_SECTION, n, feed, channel)
 
     def ranking_description(self, n=10, feed=None, channel=None):
-        return self.ranking(self.DESCRIPTION_ID, n, feed, channel)
+        return self.ranking(self.DESCRIPTION_SECTION, n, feed, channel)
 
     def ranking(self, section, limit, feed, channel):
         aux = self.aux
