@@ -1,6 +1,7 @@
 import re
 import json
 import nltk
+from math import floor
 from os.path import dirname, isfile
 from xml.etree import ElementTree
 from functools import reduce
@@ -9,40 +10,13 @@ from nltk.stem.snowball import SpanishStemmer
 
 
 class Indexer(object):
-    BLOCK_SIZE = 10
-    TITLE_ID = 'T'
-    DESCRIPTION_ID = 'D'
-
     def __init__(self):
         self.cwd = dirname(__file__)
-        self.stopwords = self.load_stopwords()
         self.ids = self.load_json('%s/ids.json' % self.cwd)
-        self.stemmer = SpanishStemmer()
-        self.last_word_finder = re.compile('\d+([a-z]+)$')
-        self.stemming_filter = re.compile('^[a-z]+$')
-        self.index = self.load_index()
-        self.dictionary = self.load_dictionary()
 
         nltk.data.path.append(dirname(self.cwd) + '/nltk_data')
 
-    def load_dictionary(self):
-        dictionary_path = '%s/dict.idx' % self.cwd
-        if isfile(dictionary_path):
-            with open(dictionary_path, 'r') as dictionary_file:
-                return ''.join(dictionary_file.readlines())
-
-    def load_index(self):
-        index_path = '%s/index.json' % self.cwd
-        if isfile(index_path):
-            with open(index_path, 'r') as index_file:
-                return json.load(index_file)
-
     def index(self):
-        self.curr_block = 0
-        self.curr_pos = 0
-        self.curr_primary_pos = 0
-        self.dictionary = ''
-
         feeds = self.load_json('%s/feeds.json' % self.cwd)
 
         all_items = []
@@ -64,25 +38,42 @@ class Indexer(object):
 
                     all_items.append((docid, title, descr))
 
-        self.index = reduce(self.reducer, self.map(all_items), {})
+        self.index = Index(
+            stopwords=self.load_stopwords()
+        )
+        self.index.add(all_items)
+        self.index.save_to(self.cwd)
 
-        with open('%s/index.json' % self.cwd, 'w+') as index_file:
-            json.dump(self.index, index_file)
+    def load_json(self, filename):
+        with open(filename, 'r') as file:
+            return json.load(file)
 
-        with open('%s/dict.idx' % self.cwd, 'w+') as dictionary_file:
-            dictionary_file.write(self.dictionary)
+    def load_stopwords(self):
+        with open('%s/stopwords.txt' % self.cwd, 'r') as file:
+            return set(file.readlines())
 
-    def map(self, all_items):
-        return sorted([term_doc_pair for pairs in map(self.mapper, all_items) for term_doc_pair in pairs])
 
-    def mapper(self, item):
-        (id, title, descr) = item
+class Index():
+    BLOCK_SIZE = 10
+    TITLE_ID = 'T'
+    DESCRIPTION_ID = 'D'
+    DICTIONARY_FILENAME = 'dict.idx'
+    AUX_FILENAME = 'aux.json'
 
-        return [
-            (word, section, id)
-            for (word, section) in
-            self.stem_tokenize(title, self.TITLE_ID) + self.stem_tokenize(descr, self.DESCRIPTION_ID)
-        ]
+    curr_block = 0
+    curr_pos = 0
+    curr_primary_pos = 0
+    dictionary = ''
+    aux = {}
+    aux_keys = []
+
+    def __init__(self, stopwords=None, stemmer=SpanishStemmer()):
+        self.stemmer = stemmer
+        self.stopwords = stopwords if stopwords is not None else set()
+
+        self.last_word_finder = re.compile('\d+([a-z]+)$')
+        self.stemming_filter = re.compile('^[a-z]+$')
+        self.all_numbers = re.compile('^\d+$')
 
     def reducer(self, index, item):
         '''
@@ -122,12 +113,24 @@ class Indexer(object):
                 self.DESCRIPTION_ID: [0, []]
             }
             for _ in range(0, self.BLOCK_SIZE)
-        ])
+            ])
 
         index[key][self.curr_block][section][0] += 1
         index[key][self.curr_block][section][1].append(id)
 
         return index
+
+    def map(self, all_items):
+        return sorted([term_doc_pair for pairs in map(self.mapper, all_items) for term_doc_pair in pairs])
+
+    def mapper(self, item):
+        (id, title, descr) = item
+
+        return [
+            (word, section, id)
+            for (word, section) in
+            self.stem_tokenize(title, self.TITLE_ID) + self.stem_tokenize(descr, self.DESCRIPTION_ID)
+            ]
 
     def stem_tokenize(self, text, section):
         return [
@@ -136,19 +139,78 @@ class Indexer(object):
                 for word in word_tokenize(text, 'spanish')
                 if word not in self.stopwords
                 and len(word) > 3
-            ]
+                ]
             if self.stemming_filter.match(stemmed)
-        ]
-
-    def load_json(self, filename):
-        with open(filename, 'r') as file:
-            return json.load(file)
-
-    def load_stopwords(self):
-        with open('%s/stopwords.txt' % self.cwd, 'r') as file:
-            return set(file.readlines())
+            ]
 
     def get_last_term(self):
         result = self.last_word_finder.search(self.dictionary)
 
         return result.group(1) if result else ''
+
+    def add(self, items):
+        self.set_aux(reduce(self.reducer, self.map(items), self.aux))
+
+    def load_from(self, directory):
+        dictionary_path = '%s/%s' % (directory, self.DICTIONARY_FILENAME)
+        if isfile(dictionary_path):
+            with open(dictionary_path, 'r') as dictionary_file:
+                self.dictionary = ''.join(dictionary_file.readlines())
+
+        aux_path = '%s/%s' % (directory, self.AUX_FILENAME)
+        if isfile(aux_path):
+            with open(aux_path, 'r') as aux_file:
+                self.set_aux(json.load(aux_file))
+
+    def save_to(self, directory):
+        with open('%s/%s' % (directory, self.AUX_FILENAME), 'w+') as aux_file:
+            json.dump(self.aux, aux_file)
+
+        with open('%s/%s' % (directory, self.DICTIONARY_FILENAME), 'w+') as dictionary_file:
+            dictionary_file.write(self.dictionary)
+
+    def search(self, word):
+        return self.binary_search(self.stemmer.stem(word))
+
+    def binary_search(self, word, min=0, max=None):
+        max = max if max is not None else len(self.aux_keys)
+
+        print(word, min, max)
+        if max < min:
+            return None
+
+        mid = int(min + floor((max - min) / 2))
+        key = self.aux_keys[mid]
+        (candidate, end) = self.get_from_dictionary(key)
+
+        if word == candidate:
+            return self.aux[str(key)][0]
+        if word < candidate:
+            return self.binary_search(word, min, mid - 1)
+
+        for i in range(1, self.BLOCK_SIZE):
+            (candidate, end) = self.get_from_dictionary(end)
+
+            if word == candidate:
+                return self.aux[str(key)][i]
+
+        return self.binary_search(word, mid + 1, max)
+
+    def set_aux(self, aux):
+        self.aux = aux
+        self.aux_keys = sorted(map(int, list(self.aux.keys())))
+
+    def get_from_dictionary(self, key):
+        chars = self.dictionary[key]
+        start = key + 1
+
+        # Soportar dos dígitos
+        if self.all_numbers.match(self.dictionary[key:start + 1]):
+            chars = self.dictionary[key:start + 1]
+            start += 1
+
+        end = start + int(chars)
+
+        print(key, start, end, self.dictionary[start:end])
+
+        return self.dictionary[start:end], end
