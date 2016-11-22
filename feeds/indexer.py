@@ -2,7 +2,7 @@ import re
 import json
 import nltk
 from math import floor
-from os.path import dirname, isfile
+from os.path import dirname, isfile, abspath
 from xml.etree import ElementTree
 from functools import reduce
 from nltk import word_tokenize
@@ -11,12 +11,12 @@ from nltk.stem.snowball import SpanishStemmer
 
 class Indexer(object):
     def __init__(self):
-        self.cwd = dirname(__file__)
+        self.cwd = abspath(dirname(__file__))
         self.ids = self.load_json('%s/ids.json' % self.cwd)
 
         nltk.data.path.append(dirname(self.cwd) + '/nltk_data')
 
-    def index(self):
+    def run_index(self):
         feeds = self.load_json('%s/feeds.json' % self.cwd)
 
         all_items = []
@@ -175,7 +175,6 @@ class Index():
     def binary_search(self, word, min=0, max=None):
         max = max if max is not None else len(self.aux_keys)
 
-        print(word, min, max)
         if max < min:
             return None
 
@@ -211,6 +210,30 @@ class Index():
 
         end = start + int(chars)
 
-        print(key, start, end, self.dictionary[start:end])
-
         return self.dictionary[start:end], end
+
+    def ranking_title(self):
+        return self.ranking(self.TITLE_ID)
+
+    def ranking_description(self):
+        return self.ranking(self.DESCRIPTION_ID)
+
+    def ranking(self, section):
+        sorted_aux = sorted(self.aux, reverse=True, key=lambda k: max(self.aux[k], key=lambda word_data: word_data[section][0])[section][0])
+
+        words = []
+        for i in range(0, 10):
+            key = sorted_aux[i]
+            end = int(key)
+
+            for j in range(0, self.BLOCK_SIZE):
+                (word, end) = self.get_from_dictionary(end)
+                words.append([word] + self.aux[key][j][section])
+
+        words = sorted(words, reverse=True, key=lambda tpl: tpl[1])
+
+        return words[0:10]
+
+if __name__ == '__main__':
+    indexer = Indexer()
+    indexer.run_index()
