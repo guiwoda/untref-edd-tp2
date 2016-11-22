@@ -212,14 +212,17 @@ class Index():
 
         return self.dictionary[start:end], end
 
-    def ranking_title(self):
-        return self.ranking(self.TITLE_ID)
+    def ranking_title(self, n=10):
+        return self.ranking(self.TITLE_ID, n)
 
-    def ranking_description(self):
-        return self.ranking(self.DESCRIPTION_ID)
+    def ranking_description(self, n=10):
+        return self.ranking(self.DESCRIPTION_ID, n)
 
-    def ranking(self, section):
-        sorted_aux = sorted(self.aux, reverse=True, key=lambda k: max(self.aux[k], key=lambda word_data: word_data[section][0])[section][0])
+    def ranking(self, section, limit):
+        sorted_aux = sorted(self.aux, reverse=True, key=lambda k: max(
+            self.aux[k],
+            key=lambda word_data: word_data[section][0])[section][0]
+        )
 
         words = []
         for i in range(0, 10):
@@ -232,7 +235,9 @@ class Index():
 
         words = sorted(words, reverse=True, key=lambda tpl: tpl[1])
 
-        return words[0:10]
+        return words[0:limit]
+
+
 
 if __name__ == '__main__':
     indexer = Indexer()
