@@ -238,10 +238,27 @@ class Index():
         if not terms:
             return {}
 
-        if terms[0] == 'not':
-            term = terms[1]
-            remove = self.search(term)
+        results = self.single_term_search(terms[0])
+        for term in terms[1:]:
+            if term == 'and':
+                right = self.single_term_search(terms[terms.index(term) + 1])
+                results = [result for result in results if result in right]
+            elif term == 'or':
+                right = self.single_term_search(terms[terms.index(term) + 1])
+                results = results + right
 
+        return set(results)
+
+    def single_term_search(self, term):
+        if ' ' in term:
+            return self.boolean_search(' and '.join(term.split()))
+
+        result = self.search(term)
+
+        if not result:
+            return []
+
+        return result[self.TITLE_SECTION][1] + result[self.DESCRIPTION_SECTION][1]
 
     def search(self, word):
         return self.binary_search(self.stemmer.stem(word))
