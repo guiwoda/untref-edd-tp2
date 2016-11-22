@@ -7,14 +7,14 @@ from xml.etree import ElementTree
 from functools import reduce
 from nltk import word_tokenize
 from nltk.stem.snowball import SpanishStemmer
+from html import unescape
 
+nltk.data.path.append(dirname(abspath(dirname(__file__))) + '/nltk_data')
 
 class Indexer(object):
     def __init__(self):
         self.cwd = abspath(dirname(__file__))
         self.ids = self.load_json('%s/ids.json' % self.cwd)
-
-        nltk.data.path.append(dirname(self.cwd) + '/nltk_data')
 
     def run_index(self):
         feeds = self.load_json('%s/feeds.json' % self.cwd)
@@ -31,10 +31,12 @@ class Indexer(object):
 
                 for item in data.findall('.//item'):
                     docid = '%s%s%s' % (self.ids[feed], self.ids[channel], item.attrib['id'])
-                    title = item.find('./title').text
+                    title = unescape(item.find('./title').text)
+                    descr = ''
 
-                    description_item = item.find('./description')
-                    descr = description_item.text if description_item else ''
+                    descr_item = item.find('./description')
+                    if descr_item is not None:
+                        descr = unescape(str(descr_item.text))
 
                     all_items.append((docid, title, descr))
 
@@ -43,7 +45,7 @@ class Indexer(object):
             ids=self.ids
         )
         self.index.add(all_items)
-        self.index.save_to(self.cwd)
+        self.index.save_to(dirname(self.cwd) + '/tmp')
 
     def load_json(self, filename):
         with open(filename, 'r') as file:
@@ -55,7 +57,7 @@ class Indexer(object):
 
     def load_index(self):
         self.index = Index(stopwords=self.load_stopwords(), ids=self.ids)
-        self.index.load_from(self.cwd)
+        self.index.load_from(dirname(self.cwd)+'/tmp')
 
         return self.index
 
@@ -163,8 +165,9 @@ class Index():
         return [
             (word, section, id)
             for (word, section) in
-            self.stem_tokenize(title, self.TITLE_ID) + self.stem_tokenize(descr, self.DESCRIPTION_ID)
-            ]
+                self.stem_tokenize(title, self.TITLE_ID) +
+                self.stem_tokenize(descr, self.DESCRIPTION_ID)
+        ]
 
     def stem_tokenize(self, text, section):
         return [
@@ -230,7 +233,7 @@ class Index():
     def boolean_search(self, phrase):
         phrase = phrase.strip()
 
-        terms = map(lambda term: term.strip(), re.split('(and|or)', phrase))
+        terms = list(map(lambda term: term.strip(), re.split('(and|or)', phrase)))
 
         if not terms:
             return {}
@@ -330,8 +333,6 @@ class Index():
 
         title = item.find('./title').text.strip()
         link = item.find('./link').text.strip()
-
-        print(link, title)
 
         return link, title
 
