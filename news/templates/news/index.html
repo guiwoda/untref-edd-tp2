@@ -67,28 +67,54 @@
             </div>
         </div>
     </nav>
-    <div class="row" id="articles">
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            {% for word, freq, articles in words %}
-            <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="heading-{{ word }}">
-                    <h4 class="panel-title">
-                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ word }}" aria-expanded="true" aria-controls="collapseOne">
-                            <h1>{{ word }} <span class="badge">{{ freq }}</span></h1>
-                        </a>
-                    </h4>
-                </div>
-                <div id="collapse-{{ word }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
-                    <div class="panel-body">
-                        <ul>
-                            {% for article_link, article_title in articles %}
-                            <li><a href="{{ article_link }}" target="_blank">{{ article_title }}</a></li>
-                            {% endfor %}
-                        </ul>
+    <div class="row">
+        <div class="col-xs-6" id="articles">
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                {% for word, freq, articles in words %}
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="heading-{{ word }}">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ word }}" aria-expanded="true" aria-controls="collapseOne">
+                                <h1>{{ word }} <span class="badge">{{ freq }}</span></h1>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse-{{ word }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                {% for article_link, article_title in articles %}
+                                <li><a href="{{ article_link }}" target="_blank">{{ article_title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
                     </div>
                 </div>
+                {% endfor %}
             </div>
-            {% endfor %}
+        </div>
+        <div class="col-xs-6" id="articles_descr">
+            <div class="panel-group" id="accordion_descr" role="tablist" aria-multiselectable="true">
+                {% for word, freq, articles in words_descr %}
+                <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="heading-{{ word }}-descr">
+                        <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion_descr" href="#collapse-{{ word }}-descr" aria-expanded="true" aria-controls="collapseOne">
+                                <h1>{{ word }} <span class="badge">{{ freq }}</span></h1>
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse-{{ word }}-descr" class="panel-collapse collapse{% if forloop.first %} in {% endif %}" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="panel-body">
+                            <ul>
+                                {% for article_link, article_title in articles %}
+                                <li><a href="{{ article_link }}" target="_blank">{{ article_title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>

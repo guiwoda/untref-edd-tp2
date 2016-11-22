@@ -33,12 +33,15 @@ def index(request):
     #     results = index.search(query)
     # else:
     results = index.ranking_title(feed=request.GET.get('feed'), channel=request.GET.get('channel'))
-
-    articles = map(lambda words: (words[0], words[1], map(index.get_article_by_id, words[2])), results)
-
+    results_descr = index.ranking_description(feed=request.GET.get('feed'), channel=request.GET.get('channel'))
 
     return render(request, 'news/index.html', {
         'feeds': feeds.items(),
         'channels': channels.items(),
-        'words': articles,
+        'words': map_results_to_articles(index, results),
+        'words_descr': map_results_to_articles(index, results_descr),
     })
+
+
+def map_results_to_articles(index, results):
+    return map(lambda words: (words[0], words[1], map(index.get_article_by_id, words[2])), results)
