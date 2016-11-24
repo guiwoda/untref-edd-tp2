@@ -246,12 +246,18 @@ class Index():
             elif term == 'or':
                 right = self.single_term_search(terms[terms.index(term) + 1])
                 results = results + right
+            # elif term == 'not':
+            #     right = self.single_term_search(terms[terms.index(term) + 1])
+            #     if right:
+            #         results = [result for result in results if result not in right]
 
         return list(set(results))
 
     def single_term_search(self, term):
         if ' ' in term:
-            return self.boolean_search(' and '.join(term.split()))
+            results = self.boolean_search(' and '.join(term.split()))
+
+            return filter(lambda docid: self.article_contains_term(docid, term), results)
 
         result = self.search(term)
 
@@ -259,6 +265,11 @@ class Index():
             return []
 
         return result[self.TITLE_SECTION][1] + result[self.DESCRIPTION_SECTION][1]
+
+    def article_contains_term(self, docid, term):
+        link, title, description = self.get_article_by_id(docid)
+
+        return term in title or term in description
 
     def search(self, word):
         return self.binary_search(self.stemmer.stem(word))
@@ -348,10 +359,15 @@ class Index():
 
         item = data.find('.//item[@id="%s"]' % doc_id)
 
-        title = item.find('./title').text.strip()
         link = item.find('./link').text.strip()
+        title = item.find('./title').text.strip()
+        descr_item = item.find('./description')
 
-        return link, title
+        descr = ''
+        if descr_item is not None:
+            descr = descr_item.text.strip()
+
+        return link, title, descr
 
     def load_xml(self, channel, feed, ids):
         cwd = abspath(dirname(__file__))
