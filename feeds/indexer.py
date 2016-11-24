@@ -237,7 +237,7 @@ class Index():
     def boolean_search(self, phrase):
         phrase = phrase.strip()
 
-        terms = list(map(lambda term: term.strip(), re.split('(and|or)', phrase)))
+        terms = list(map(lambda term: term.strip(), re.split('(and|or|not)', phrase)))
 
         if not terms:
             return {}
@@ -250,10 +250,10 @@ class Index():
             elif term == 'or':
                 right = self.single_term_search(terms[terms.index(term) + 1])
                 results = results + right
-            # elif term == 'not':
-            #     right = self.single_term_search(terms[terms.index(term) + 1])
-            #     if right:
-            #         results = [result for result in results if result not in right]
+            elif term == 'not':
+                right = self.single_term_search(terms[terms.index(term) + 1])
+                if right:
+                    results = [result for result in results if result not in right]
 
         return list(set(results))
 
