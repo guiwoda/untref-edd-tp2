@@ -259,7 +259,8 @@ class Index():
 
     def single_term_search(self, term):
         if ' ' in term:
-            results = self.boolean_search(' and '.join(term.split()))
+            terms = filter(lambda t: len(t) > 3, term.split())
+            results = self.boolean_search(' and '.join(terms))
 
             return filter(lambda docid: self.article_contains_term(docid, term), results)
 
@@ -285,7 +286,6 @@ class Index():
             return None
 
         mid = int(min + floor((max - min) / 2))
-        print(min, mid, max)
         key = self.aux_keys[mid]
         (candidate, end) = self.get_from_dictionary(key)
 
