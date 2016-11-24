@@ -40,13 +40,14 @@ def search(request):
 
     results = index.boolean_search(query)
     if results:
-        results = map(lambda article_id: index.get_article_by_id(article_id), results)
+        results = list(map(lambda article_id: index.get_article_by_id(article_id), results))
 
     return render(request, 'news/search.html', {
         'feeds': feeds.items(),
         'channels': channels.items(),
         'query': query,
-        'results': results
+        'results': results,
+        'count': len(results)
     })
 
 def map_results_to_articles(index, results):
