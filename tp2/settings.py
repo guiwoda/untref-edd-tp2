@@ -25,7 +25,7 @@ SECRET_KEY = '@!-&w0r$r+_tv&d((!k0fn2!4_&qmb(4k41anp29xz)yi(4vke'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['edd.dev']
 
 
 # Application definition

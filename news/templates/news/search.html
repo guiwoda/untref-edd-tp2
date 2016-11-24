@@ -81,8 +81,11 @@
                     <div id="collapse-{{ query }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                             <ul>
-                                {% for article_link, article_title in results %}
-                                <li><a href="{{ article_link }}" target="_blank">{{ article_title }}</a></li>
+                                {% for article_link, article_title, article_descr in results %}
+                                <details>
+                                    <summary>{{ article_title }} (<a href="{{ article_link }}" target="_blank">Ver artículo</a>)</summary>
+                                    <p>{{ article_descr|default:"No hay descripción." }}</p>
+                                </details>
                                 {% endfor %}
                             </ul>
                         </div>
