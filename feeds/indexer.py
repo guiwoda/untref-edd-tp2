@@ -240,7 +240,7 @@ class Index():
         terms = list(map(lambda term: term.strip(), re.split('(and|or|not)', phrase)))
 
         if not terms:
-            return {}
+            return []
 
         results = self.single_term_search(terms[0])
         for term in terms[1:]:
